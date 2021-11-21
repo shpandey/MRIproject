@@ -1,0 +1,2239 @@
+WARNING:tensorflow:From /jmain01/home/JAD029/txl04/jxp48-txl04/.conda/envs/tensorflow2-gpu/lib/python3.6/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1635: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+INFO:tensorflow:Summary name Reconstructed image is illegal; using Reconstructed_image instead.
+INFO:tensorflow:Summary name Input image is illegal; using Input_image instead.
+INFO:tensorflow:Summary name Total loss is illegal; using Total_loss instead.
+DEBUG:root:Completed creating the model
+DEBUG:root:************************ epoch:0*****************
+DEBUG:root:Epoch: 0 learning rate:0.001ELBO: -5890.693
+DEBUG:root:Epoch: 0 learning rate:0.001ELBO: -7736.125
+DEBUG:root:Epoch: 0 learning rate:0.001ELBO: -1907.6128
+DEBUG:root:Epoch: 0 learning rate:0.001ELBO: -3493.9673
+DEBUG:root:Epoch: 0 learning rate:0.001ELBO: -2691.9836
+DEBUG:root:Epoch: 0 learning rate:0.001ELBO: -697.80194
+DEBUG:root:Epoch: 0 learning rate:0.001ELBO: -5862.367
+DEBUG:root:Epoch: 0 learning rate:0.001ELBO: -1829.5188
+DEBUG:root:Epoch: 0 learning rate:0.001ELBO: -1216.7836
+DEBUG:root:Epoch: 0 learning rate:0.001ELBO: -213.45169
+DEBUG:root:Epoch: 0 learning rate:0.001ELBO: -2689.4707
+DEBUG:root:Epoch: 0 learning rate:0.001ELBO: -296.0312
+DEBUG:root:Epoch: 0 learning rate:0.001ELBO: -6297.8066
+DEBUG:root:Epoch: 0 learning rate:0.001ELBO: -1883.7153
+DEBUG:root:Epoch: 0 learning rate:0.001ELBO: -359.57544
+DEBUG:root:Epoch: 0 learning rate:0.001ELBO: -518.665
+DEBUG:root:Epoch: 0 learning rate:0.001ELBO: -1066.807
+DEBUG:root:Epoch: 0 learning rate:0.001ELBO: -6066.145
+DEBUG:root:Epoch: 0 learning rate:0.001ELBO: -888.483
+DEBUG:root:Epoch: 0 learning rate:0.001ELBO: -1631.7229
+DEBUG:root:Epoch: 0 learning rate:0.001ELBO: -640.76483
+DEBUG:root:Epoch: 0 learning rate:0.001ELBO: -3287.1953
+DEBUG:root:Epoch: 0 learning rate:0.001ELBO: -128.18042
+DEBUG:root:Epoch: 0completed
+DEBUG:root:Epoch: 0 learning rate:0.001ELBO: -614.53534
+DEBUG:root:Completed saving the model
+DEBUG:root:************************ epoch:1*****************
+DEBUG:root:Epoch: 1 learning rate:0.001ELBO: -1623.9222
+DEBUG:root:Epoch: 1 learning rate:0.001ELBO: -479.98044
+DEBUG:root:Epoch: 1 learning rate:0.001ELBO: -2302.3303
+DEBUG:root:Epoch: 1 learning rate:0.001ELBO: -5255.4497
+DEBUG:root:Epoch: 1 learning rate:0.001ELBO: -2739.3154
+DEBUG:root:Epoch: 1 learning rate:0.001ELBO: -270.72614
+DEBUG:root:Epoch: 1 learning rate:0.001ELBO: -593.32355
+DEBUG:root:Epoch: 1 learning rate:0.001ELBO: -126.456436
+DEBUG:root:Epoch: 1 learning rate:0.001ELBO: -536.6194
+DEBUG:root:Epoch: 1 learning rate:0.001ELBO: -2273.4858
+DEBUG:root:Epoch: 1 learning rate:0.001ELBO: -906.0862
+DEBUG:root:Epoch: 1 learning rate:0.001ELBO: -1635.6964
+DEBUG:root:Epoch: 1 learning rate:0.001ELBO: -240.54219
+DEBUG:root:Epoch: 1 learning rate:0.001ELBO: -2634.5205
+DEBUG:root:Epoch: 1 learning rate:0.001ELBO: -604.3026
+DEBUG:root:Epoch: 1 learning rate:0.001ELBO: -706.96716
+DEBUG:root:Epoch: 1 learning rate:0.001ELBO: -181.81554
+DEBUG:root:Epoch: 1completed
+DEBUG:root:************************ epoch:2*****************
+DEBUG:root:Epoch: 2 learning rate:0.001ELBO: -485.4135
+DEBUG:root:Epoch: 2 learning rate:0.001ELBO: -254.04121
+DEBUG:root:Epoch: 2 learning rate:0.001ELBO: -1196.1731
+DEBUG:root:Epoch: 2 learning rate:0.001ELBO: -392.69705
+DEBUG:root:Epoch: 2 learning rate:0.001ELBO: -259.73047
+DEBUG:root:Epoch: 2 learning rate:0.001ELBO: -958.65497
+DEBUG:root:Epoch: 2 learning rate:0.001ELBO: -280.91293
+DEBUG:root:Epoch: 2 learning rate:0.001ELBO: -686.2794
+DEBUG:root:Epoch: 2 learning rate:0.001ELBO: -730.20654
+DEBUG:root:Epoch: 2 learning rate:0.001ELBO: -918.99286
+DEBUG:root:Epoch: 2 learning rate:0.001ELBO: -4959.479
+DEBUG:root:Epoch: 2 learning rate:0.001ELBO: -1024.0842
+DEBUG:root:Epoch: 2 learning rate:0.001ELBO: -668.4653
+DEBUG:root:Epoch: 2 learning rate:0.001ELBO: -168.92174
+DEBUG:root:Epoch: 2 learning rate:0.001ELBO: -71.35025
+DEBUG:root:Epoch: 2 learning rate:0.001ELBO: -87.08562
+DEBUG:root:Epoch: 2 learning rate:0.001ELBO: -140.2084
+DEBUG:root:Epoch: 2 learning rate:0.001ELBO: -239.6243
+DEBUG:root:Epoch: 2 learning rate:0.001ELBO: -316.74704
+DEBUG:root:Epoch: 2 learning rate:0.001ELBO: -407.9606
+DEBUG:root:Epoch: 2 learning rate:0.001ELBO: -404.48434
+DEBUG:root:Epoch: 2completed
+DEBUG:root:************************ epoch:3*****************
+DEBUG:root:Epoch: 3 learning rate:0.0005ELBO: -1250.9117
+DEBUG:root:Epoch: 3 learning rate:0.0005ELBO: -1696.3195
+DEBUG:root:Epoch: 3 learning rate:0.0005ELBO: -165.31381
+DEBUG:root:Epoch: 3 learning rate:0.0005ELBO: -112.581055
+DEBUG:root:Epoch: 3 learning rate:0.0005ELBO: -909.92725
+DEBUG:root:Epoch: 3 learning rate:0.0005ELBO: -262.70853
+DEBUG:root:Epoch: 3 learning rate:0.0005ELBO: -987.4627
+DEBUG:root:Epoch: 3 learning rate:0.0005ELBO: -669.5144
+DEBUG:root:Epoch: 3 learning rate:0.0005ELBO: -4500.807
+DEBUG:root:Epoch: 3 learning rate:0.0005ELBO: -890.2821
+DEBUG:root:Epoch: 3 learning rate:0.0005ELBO: -588.3498
+DEBUG:root:Epoch: 3 learning rate:0.0005ELBO: -344.72018
+DEBUG:root:Epoch: 3 learning rate:0.0005ELBO: -473.892
+DEBUG:root:Epoch: 3 learning rate:0.0005ELBO: -499.02618
+DEBUG:root:Epoch: 3 learning rate:0.0005ELBO: -567.8849
+DEBUG:root:Epoch: 3 learning rate:0.0005ELBO: -442.29877
+DEBUG:root:Epoch: 3 learning rate:0.0005ELBO: -655.0532
+DEBUG:root:Epoch: 3 learning rate:0.0005ELBO: -1181.3679
+DEBUG:root:Epoch: 3 learning rate:0.0005ELBO: -431.29657
+DEBUG:root:Epoch: 3 learning rate:0.0005ELBO: -563.5076
+DEBUG:root:Epoch: 3 learning rate:0.0005ELBO: -4780.572
+DEBUG:root:Epoch: 3 learning rate:0.0005ELBO: -4181.2417
+DEBUG:root:Epoch: 3 learning rate:0.0005ELBO: -548.49274
+DEBUG:root:Epoch: 3 learning rate:0.0005ELBO: -1363.0005
+DEBUG:root:Epoch: 3 learning rate:0.0005ELBO: -2246.079
+DEBUG:root:Epoch: 3 learning rate:0.0005ELBO: -1366.4299
+DEBUG:root:Epoch: 3 learning rate:0.0005ELBO: -1676.4249
+DEBUG:root:Epoch: 3completed
+DEBUG:root:************************ epoch:4*****************
+DEBUG:root:Epoch: 4 learning rate:0.0005ELBO: -419.87073
+DEBUG:root:Epoch: 4 learning rate:0.0005ELBO: -551.1841
+DEBUG:root:Epoch: 4 learning rate:0.0005ELBO: -364.61557
+DEBUG:root:Epoch: 4 learning rate:0.0005ELBO: -661.20764
+DEBUG:root:Epoch: 4 learning rate:0.0005ELBO: -1488.9724
+DEBUG:root:Epoch: 4 learning rate:0.0005ELBO: -519.85034
+DEBUG:root:Epoch: 4 learning rate:0.0005ELBO: -311.9547
+DEBUG:root:Epoch: 4 learning rate:0.0005ELBO: -258.45627
+DEBUG:root:Epoch: 4 learning rate:0.0005ELBO: -225.60965
+DEBUG:root:Epoch: 4 learning rate:0.0005ELBO: -691.74426
+DEBUG:root:Epoch: 4 learning rate:0.0005ELBO: -2467.136
+DEBUG:root:Epoch: 4 learning rate:0.0005ELBO: -1847.794
+DEBUG:root:Epoch: 4 learning rate:0.0005ELBO: -619.3816
+DEBUG:root:Epoch: 4 learning rate:0.0005ELBO: -585.35297
+DEBUG:root:Epoch: 4 learning rate:0.0005ELBO: -4441.744
+DEBUG:root:Epoch: 4completed
+DEBUG:root:************************ epoch:5*****************
+DEBUG:root:Epoch: 5 learning rate:0.0005ELBO: -815.0106
+DEBUG:root:Epoch: 5 learning rate:0.0005ELBO: -100.33227
+DEBUG:root:Epoch: 5 learning rate:0.0005ELBO: -590.24756
+DEBUG:root:Epoch: 5 learning rate:0.0005ELBO: -521.9254
+DEBUG:root:Epoch: 5 learning rate:0.0005ELBO: -223.47455
+DEBUG:root:Epoch: 5 learning rate:0.0005ELBO: -2406.7527
+DEBUG:root:Epoch: 5 learning rate:0.0005ELBO: -350.1907
+DEBUG:root:Epoch: 5 learning rate:0.0005ELBO: -3702.0745
+DEBUG:root:Epoch: 5 learning rate:0.0005ELBO: -637.7251
+DEBUG:root:Epoch: 5 learning rate:0.0005ELBO: -420.83334
+DEBUG:root:Epoch: 5 learning rate:0.0005ELBO: -159.74408
+DEBUG:root:Epoch: 5 learning rate:0.0005ELBO: -1238.8846
+DEBUG:root:Epoch: 5 learning rate:0.0005ELBO: -964.2263
+DEBUG:root:Epoch: 5 learning rate:0.0005ELBO: -541.67096
+DEBUG:root:Epoch: 5 learning rate:0.0005ELBO: -377.63876
+DEBUG:root:Epoch: 5 learning rate:0.0005ELBO: -4584.826
+DEBUG:root:Epoch: 5 learning rate:0.0005ELBO: -1429.1364
+DEBUG:root:Epoch: 5 learning rate:0.0005ELBO: -552.002
+DEBUG:root:Epoch: 5completed
+DEBUG:root:************************ epoch:6*****************
+DEBUG:root:Epoch: 6 learning rate:0.0005ELBO: -194.70648
+DEBUG:root:Epoch: 6 learning rate:0.0005ELBO: -1347.9624
+DEBUG:root:Epoch: 6 learning rate:0.0005ELBO: -919.0823
+DEBUG:root:Epoch: 6 learning rate:0.0005ELBO: -811.4185
+DEBUG:root:Epoch: 6 learning rate:0.0005ELBO: -1943.2683
+DEBUG:root:Epoch: 6 learning rate:0.0005ELBO: -319.49344
+DEBUG:root:Epoch: 6 learning rate:0.0005ELBO: -170.03714
+DEBUG:root:Epoch: 6 learning rate:0.0005ELBO: -437.48856
+DEBUG:root:Epoch: 6 learning rate:0.0005ELBO: -4663.2954
+DEBUG:root:Epoch: 6 learning rate:0.0005ELBO: -449.58075
+DEBUG:root:Epoch: 6 learning rate:0.0005ELBO: -355.68246
+DEBUG:root:Epoch: 6 learning rate:0.0005ELBO: -315.667
+DEBUG:root:Epoch: 6 learning rate:0.0005ELBO: -815.4696
+DEBUG:root:Epoch: 6 learning rate:0.0005ELBO: -265.94803
+DEBUG:root:Epoch: 6 learning rate:0.0005ELBO: -945.4999
+DEBUG:root:Epoch: 6 learning rate:0.0005ELBO: -348.81763
+DEBUG:root:Epoch: 6 learning rate:0.0005ELBO: -845.4426
+DEBUG:root:Epoch: 6 learning rate:0.0005ELBO: -381.69922
+DEBUG:root:Epoch: 6 learning rate:0.0005ELBO: -4147.774
+DEBUG:root:Epoch: 6 learning rate:0.0005ELBO: -1628.3201
+DEBUG:root:Epoch: 6completed
+DEBUG:root:************************ epoch:7*****************
+DEBUG:root:Epoch: 7 learning rate:0.00025ELBO: -760.4259
+DEBUG:root:Epoch: 7 learning rate:0.00025ELBO: -1086.8362
+DEBUG:root:Epoch: 7 learning rate:0.00025ELBO: -206.6317
+DEBUG:root:Epoch: 7 learning rate:0.00025ELBO: -174.87497
+DEBUG:root:Epoch: 7 learning rate:0.00025ELBO: -4866.721
+DEBUG:root:Epoch: 7 learning rate:0.00025ELBO: -400.5623
+DEBUG:root:Epoch: 7 learning rate:0.00025ELBO: -629.46954
+DEBUG:root:Epoch: 7 learning rate:0.00025ELBO: -291.91776
+DEBUG:root:Epoch: 7 learning rate:0.00025ELBO: -103.399666
+DEBUG:root:Epoch: 7 learning rate:0.00025ELBO: -442.72763
+DEBUG:root:Epoch: 7 learning rate:0.00025ELBO: -861.6931
+DEBUG:root:Epoch: 7 learning rate:0.00025ELBO: -167.38878
+DEBUG:root:Epoch: 7 learning rate:0.00025ELBO: -703.6267
+DEBUG:root:Epoch: 7 learning rate:0.00025ELBO: -780.36505
+DEBUG:root:Epoch: 7 learning rate:0.00025ELBO: -143.10004
+DEBUG:root:Epoch: 7 learning rate:0.00025ELBO: -1318.0269
+DEBUG:root:Epoch: 7 learning rate:0.00025ELBO: -1133.6464
+DEBUG:root:Epoch: 7completed
+DEBUG:root:************************ epoch:8*****************
+DEBUG:root:Epoch: 8 learning rate:0.00025ELBO: -374.67822
+DEBUG:root:Epoch: 8 learning rate:0.00025ELBO: -1114.5483
+DEBUG:root:Epoch: 8 learning rate:0.00025ELBO: -268.6173
+DEBUG:root:Epoch: 8 learning rate:0.00025ELBO: -1776.903
+DEBUG:root:Epoch: 8 learning rate:0.00025ELBO: -854.46643
+DEBUG:root:Epoch: 8 learning rate:0.00025ELBO: -3436.991
+DEBUG:root:Epoch: 8 learning rate:0.00025ELBO: -185.18301
+DEBUG:root:Epoch: 8 learning rate:0.00025ELBO: -493.921
+DEBUG:root:Epoch: 8 learning rate:0.00025ELBO: -632.2771
+DEBUG:root:Epoch: 8 learning rate:0.00025ELBO: -304.0148
+DEBUG:root:Epoch: 8 learning rate:0.00025ELBO: -420.4422
+DEBUG:root:Epoch: 8 learning rate:0.00025ELBO: -4043.22
+DEBUG:root:Epoch: 8 learning rate:0.00025ELBO: -1199.9874
+DEBUG:root:Epoch: 8 learning rate:0.00025ELBO: -4721.3613
+DEBUG:root:Epoch: 8completed
+DEBUG:root:************************ epoch:9*****************
+DEBUG:root:Epoch: 9 learning rate:0.00025ELBO: -1542.1996
+DEBUG:root:Epoch: 9 learning rate:0.00025ELBO: -697.0195
+DEBUG:root:Epoch: 9 learning rate:0.00025ELBO: -735.3917
+DEBUG:root:Epoch: 9 learning rate:0.00025ELBO: -2225.788
+DEBUG:root:Epoch: 9 learning rate:0.00025ELBO: -261.29785
+DEBUG:root:Epoch: 9 learning rate:0.00025ELBO: -176.28444
+DEBUG:root:Epoch: 9 learning rate:0.00025ELBO: -2027.3135
+DEBUG:root:Epoch: 9 learning rate:0.00025ELBO: -1124.7275
+DEBUG:root:Epoch: 9 learning rate:0.00025ELBO: -368.9984
+DEBUG:root:Epoch: 9 learning rate:0.00025ELBO: -154.40285
+DEBUG:root:Epoch: 9 learning rate:0.00025ELBO: -760.7288
+DEBUG:root:Epoch: 9 learning rate:0.00025ELBO: -4174.2056
+DEBUG:root:Epoch: 9 learning rate:0.00025ELBO: -79.52732
+DEBUG:root:Epoch: 9 learning rate:0.00025ELBO: -304.35245
+DEBUG:root:Epoch: 9 learning rate:0.00025ELBO: -332.70984
+DEBUG:root:Epoch: 9 learning rate:0.00025ELBO: -764.0857
+DEBUG:root:Epoch: 9 learning rate:0.00025ELBO: -121.86187
+DEBUG:root:Epoch: 9completed
+DEBUG:root:************************ epoch:10*****************
+DEBUG:root:Epoch: 10 learning rate:0.00025ELBO: -684.5273
+DEBUG:root:Epoch: 10 learning rate:0.00025ELBO: -559.57587
+DEBUG:root:Epoch: 10 learning rate:0.00025ELBO: -388.73367
+DEBUG:root:Epoch: 10 learning rate:0.00025ELBO: -80.75143
+DEBUG:root:Epoch: 10 learning rate:0.00025ELBO: -201.40793
+DEBUG:root:Epoch: 10 learning rate:0.00025ELBO: -616.5351
+DEBUG:root:Epoch: 10 learning rate:0.00025ELBO: -610.97974
+DEBUG:root:Epoch: 10 learning rate:0.00025ELBO: -998.0991
+DEBUG:root:Epoch: 10 learning rate:0.00025ELBO: -754.9756
+DEBUG:root:Epoch: 10 learning rate:0.00025ELBO: -1781.6517
+DEBUG:root:Epoch: 10 learning rate:0.00025ELBO: -364.1591
+DEBUG:root:Epoch: 10 learning rate:0.00025ELBO: -378.10165
+DEBUG:root:Epoch: 10 learning rate:0.00025ELBO: -3852.9465
+DEBUG:root:Epoch: 10 learning rate:0.00025ELBO: -697.6617
+DEBUG:root:Epoch: 10 learning rate:0.00025ELBO: -1357.404
+DEBUG:root:Epoch: 10 learning rate:0.00025ELBO: -1744.2831
+DEBUG:root:Epoch: 10 learning rate:0.00025ELBO: -1281.3777
+DEBUG:root:Epoch: 10 learning rate:0.00025ELBO: -248.36588
+DEBUG:root:Epoch: 10 learning rate:0.00025ELBO: -449.95596
+DEBUG:root:Epoch: 10 learning rate:0.00025ELBO: -181.60951
+DEBUG:root:Epoch: 10 learning rate:0.00025ELBO: -408.29666
+DEBUG:root:Epoch: 10 learning rate:0.00025ELBO: -361.59958
+DEBUG:root:Epoch: 10 learning rate:0.00025ELBO: -234.8036
+DEBUG:root:Epoch: 10completed
+DEBUG:root:Epoch: 10 learning rate:0.00025ELBO: -153.37442
+DEBUG:root:Completed saving the model
+DEBUG:root:************************ epoch:11*****************
+DEBUG:root:Epoch: 11 learning rate:0.000125ELBO: -420.1848
+DEBUG:root:Epoch: 11 learning rate:0.000125ELBO: -280.84915
+DEBUG:root:Epoch: 11 learning rate:0.000125ELBO: -1363.6592
+DEBUG:root:Epoch: 11 learning rate:0.000125ELBO: -728.4314
+DEBUG:root:Epoch: 11 learning rate:0.000125ELBO: -248.08455
+DEBUG:root:Epoch: 11 learning rate:0.000125ELBO: -1149.0697
+DEBUG:root:Epoch: 11 learning rate:0.000125ELBO: -278.9272
+DEBUG:root:Epoch: 11 learning rate:0.000125ELBO: -1031.3392
+DEBUG:root:Epoch: 11 learning rate:0.000125ELBO: -740.47906
+DEBUG:root:Epoch: 11 learning rate:0.000125ELBO: -338.03073
+DEBUG:root:Epoch: 11 learning rate:0.000125ELBO: -967.51917
+DEBUG:root:Epoch: 11 learning rate:0.000125ELBO: -344.89993
+DEBUG:root:Epoch: 11 learning rate:0.000125ELBO: -533.0634
+DEBUG:root:Epoch: 11completed
+DEBUG:root:************************ epoch:12*****************
+DEBUG:root:Epoch: 12 learning rate:0.000125ELBO: -100.30554
+DEBUG:root:Epoch: 12 learning rate:0.000125ELBO: -516.1717
+DEBUG:root:Epoch: 12 learning rate:0.000125ELBO: -253.271
+DEBUG:root:Epoch: 12 learning rate:0.000125ELBO: -1505.6165
+DEBUG:root:Epoch: 12 learning rate:0.000125ELBO: -946.73553
+DEBUG:root:Epoch: 12 learning rate:0.000125ELBO: -104.27138
+DEBUG:root:Epoch: 12 learning rate:0.000125ELBO: -262.9708
+DEBUG:root:Epoch: 12 learning rate:0.000125ELBO: -861.69073
+DEBUG:root:Epoch: 12 learning rate:0.000125ELBO: -248.702
+DEBUG:root:Epoch: 12 learning rate:0.000125ELBO: -3675.3008
+DEBUG:root:Epoch: 12 learning rate:0.000125ELBO: -169.84174
+DEBUG:root:Epoch: 12 learning rate:0.000125ELBO: -280.6515
+DEBUG:root:Epoch: 12 learning rate:0.000125ELBO: -806.4154
+DEBUG:root:Epoch: 12 learning rate:0.000125ELBO: -308.91956
+DEBUG:root:Epoch: 12 learning rate:0.000125ELBO: -269.8422
+DEBUG:root:Epoch: 12 learning rate:0.000125ELBO: -379.65387
+DEBUG:root:Epoch: 12 learning rate:0.000125ELBO: -1183.3346
+DEBUG:root:Epoch: 12 learning rate:0.000125ELBO: -99.111084
+DEBUG:root:Epoch: 12 learning rate:0.000125ELBO: -4285.496
+DEBUG:root:Epoch: 12 learning rate:0.000125ELBO: -3940.0474
+DEBUG:root:Epoch: 12 learning rate:0.000125ELBO: -147.68102
+DEBUG:root:Epoch: 12 learning rate:0.000125ELBO: -1418.0361
+DEBUG:root:Epoch: 12completed
+DEBUG:root:************************ epoch:13*****************
+DEBUG:root:Epoch: 13 learning rate:0.000125ELBO: -1156.6263
+DEBUG:root:Epoch: 13 learning rate:0.000125ELBO: -153.5685
+DEBUG:root:Epoch: 13 learning rate:0.000125ELBO: -121.90568
+DEBUG:root:Epoch: 13 learning rate:0.000125ELBO: -655.14636
+DEBUG:root:Epoch: 13 learning rate:0.000125ELBO: -675.2035
+DEBUG:root:Epoch: 13 learning rate:0.000125ELBO: -73.053055
+DEBUG:root:Epoch: 13 learning rate:0.000125ELBO: -408.02283
+DEBUG:root:Epoch: 13 learning rate:0.000125ELBO: -424.28815
+DEBUG:root:Epoch: 13 learning rate:0.000125ELBO: -1259.4448
+DEBUG:root:Epoch: 13 learning rate:0.000125ELBO: -469.80386
+DEBUG:root:Epoch: 13 learning rate:0.000125ELBO: -65.49661
+DEBUG:root:Epoch: 13 learning rate:0.000125ELBO: -874.97986
+DEBUG:root:Epoch: 13 learning rate:0.000125ELBO: -3325.6816
+DEBUG:root:Epoch: 13 learning rate:0.000125ELBO: -150.76952
+DEBUG:root:Epoch: 13 learning rate:0.000125ELBO: -794.386
+DEBUG:root:Epoch: 13 learning rate:0.000125ELBO: -488.48444
+DEBUG:root:Epoch: 13 learning rate:0.000125ELBO: -268.83087
+DEBUG:root:Epoch: 13 learning rate:0.000125ELBO: -846.18964
+DEBUG:root:Epoch: 13 learning rate:0.000125ELBO: -4433.6445
+DEBUG:root:Epoch: 13 learning rate:0.000125ELBO: -117.672195
+DEBUG:root:Epoch: 13completed
+DEBUG:root:************************ epoch:14*****************
+DEBUG:root:Epoch: 14 learning rate:0.000125ELBO: -60.933502
+DEBUG:root:Epoch: 14 learning rate:0.000125ELBO: -196.76682
+DEBUG:root:Epoch: 14 learning rate:0.000125ELBO: -1025.7363
+DEBUG:root:Epoch: 14 learning rate:0.000125ELBO: -464.39438
+DEBUG:root:Epoch: 14 learning rate:0.000125ELBO: -405.44922
+DEBUG:root:Epoch: 14 learning rate:0.000125ELBO: -1075.4563
+DEBUG:root:Epoch: 14 learning rate:0.000125ELBO: -1072.842
+DEBUG:root:Epoch: 14 learning rate:0.000125ELBO: -569.926
+DEBUG:root:Epoch: 14 learning rate:0.000125ELBO: -260.3621
+DEBUG:root:Epoch: 14 learning rate:0.000125ELBO: -435.76666
+DEBUG:root:Epoch: 14 learning rate:0.000125ELBO: -518.87573
+DEBUG:root:Epoch: 14 learning rate:0.000125ELBO: -612.49426
+DEBUG:root:Epoch: 14 learning rate:0.000125ELBO: -289.40707
+DEBUG:root:Epoch: 14 learning rate:0.000125ELBO: -318.9303
+DEBUG:root:Epoch: 14 learning rate:0.000125ELBO: -2979.655
+DEBUG:root:Epoch: 14 learning rate:0.000125ELBO: -4417.015
+DEBUG:root:Epoch: 14 learning rate:0.000125ELBO: -935.87976
+DEBUG:root:Epoch: 14completed
+DEBUG:root:************************ epoch:15*****************
+DEBUG:root:Epoch: 15 learning rate:6.25e-05ELBO: -1537.9415
+DEBUG:root:Epoch: 15 learning rate:6.25e-05ELBO: -89.518074
+DEBUG:root:Epoch: 15 learning rate:6.25e-05ELBO: -599.9424
+DEBUG:root:Epoch: 15 learning rate:6.25e-05ELBO: -227.52011
+DEBUG:root:Epoch: 15 learning rate:6.25e-05ELBO: -606.4662
+DEBUG:root:Epoch: 15 learning rate:6.25e-05ELBO: -4249.694
+DEBUG:root:Epoch: 15 learning rate:6.25e-05ELBO: -3877.3438
+DEBUG:root:Epoch: 15 learning rate:6.25e-05ELBO: -417.99802
+DEBUG:root:Epoch: 15 learning rate:6.25e-05ELBO: -1852.2476
+DEBUG:root:Epoch: 15 learning rate:6.25e-05ELBO: -741.8777
+DEBUG:root:Epoch: 15 learning rate:6.25e-05ELBO: -453.08685
+DEBUG:root:Epoch: 15 learning rate:6.25e-05ELBO: -975.59326
+DEBUG:root:Epoch: 15 learning rate:6.25e-05ELBO: -408.4807
+DEBUG:root:Epoch: 15 learning rate:6.25e-05ELBO: -274.20157
+DEBUG:root:Epoch: 15 learning rate:6.25e-05ELBO: -131.89163
+DEBUG:root:Epoch: 15 learning rate:6.25e-05ELBO: -211.59558
+DEBUG:root:Epoch: 15completed
+DEBUG:root:************************ epoch:16*****************
+DEBUG:root:Epoch: 16 learning rate:6.25e-05ELBO: -207.46407
+DEBUG:root:Epoch: 16 learning rate:6.25e-05ELBO: -253.51918
+DEBUG:root:Epoch: 16 learning rate:6.25e-05ELBO: -914.2593
+DEBUG:root:Epoch: 16 learning rate:6.25e-05ELBO: -385.66205
+DEBUG:root:Epoch: 16 learning rate:6.25e-05ELBO: -782.55255
+DEBUG:root:Epoch: 16 learning rate:6.25e-05ELBO: -123.67329
+DEBUG:root:Epoch: 16 learning rate:6.25e-05ELBO: -347.85007
+DEBUG:root:Epoch: 16 learning rate:6.25e-05ELBO: -331.2854
+DEBUG:root:Epoch: 16 learning rate:6.25e-05ELBO: -753.5382
+DEBUG:root:Epoch: 16 learning rate:6.25e-05ELBO: -666.9646
+DEBUG:root:Epoch: 16 learning rate:6.25e-05ELBO: -579.80536
+DEBUG:root:Epoch: 16 learning rate:6.25e-05ELBO: -1415.3733
+DEBUG:root:Epoch: 16 learning rate:6.25e-05ELBO: -164.40805
+DEBUG:root:Epoch: 16 learning rate:6.25e-05ELBO: -707.22876
+DEBUG:root:Epoch: 16 learning rate:6.25e-05ELBO: -241.96588
+DEBUG:root:Epoch: 16 learning rate:6.25e-05ELBO: -4040.168
+DEBUG:root:Epoch: 16 learning rate:6.25e-05ELBO: -296.6103
+DEBUG:root:Epoch: 16 learning rate:6.25e-05ELBO: -1060.9126
+DEBUG:root:Epoch: 16 learning rate:6.25e-05ELBO: -973.92755
+DEBUG:root:Epoch: 16completed
+DEBUG:root:************************ epoch:17*****************
+DEBUG:root:Epoch: 17 learning rate:6.25e-05ELBO: -153.36269
+DEBUG:root:Epoch: 17 learning rate:6.25e-05ELBO: -301.33905
+DEBUG:root:Epoch: 17 learning rate:6.25e-05ELBO: -3286.2146
+DEBUG:root:Epoch: 17 learning rate:6.25e-05ELBO: -587.98206
+DEBUG:root:Epoch: 17 learning rate:6.25e-05ELBO: -1478.9762
+DEBUG:root:Epoch: 17 learning rate:6.25e-05ELBO: -447.42563
+DEBUG:root:Epoch: 17 learning rate:6.25e-05ELBO: -197.81184
+DEBUG:root:Epoch: 17 learning rate:6.25e-05ELBO: -403.2664
+DEBUG:root:Epoch: 17 learning rate:6.25e-05ELBO: -439.65634
+DEBUG:root:Epoch: 17 learning rate:6.25e-05ELBO: -127.58661
+DEBUG:root:Epoch: 17 learning rate:6.25e-05ELBO: -47.261253
+DEBUG:root:Epoch: 17 learning rate:6.25e-05ELBO: -199.94911
+DEBUG:root:Epoch: 17 learning rate:6.25e-05ELBO: -793.75757
+DEBUG:root:Epoch: 17 learning rate:6.25e-05ELBO: -1397.8726
+DEBUG:root:Epoch: 17completed
+DEBUG:root:************************ epoch:18*****************
+DEBUG:root:Epoch: 18 learning rate:6.25e-05ELBO: -200.53575
+DEBUG:root:Epoch: 18 learning rate:6.25e-05ELBO: -307.8143
+DEBUG:root:Epoch: 18 learning rate:6.25e-05ELBO: -1287.3612
+DEBUG:root:Epoch: 18 learning rate:6.25e-05ELBO: -1150.0076
+DEBUG:root:Epoch: 18 learning rate:6.25e-05ELBO: -46.240158
+DEBUG:root:Epoch: 18 learning rate:6.25e-05ELBO: -67.38082
+DEBUG:root:Epoch: 18 learning rate:6.25e-05ELBO: -671.56805
+DEBUG:root:Epoch: 18 learning rate:6.25e-05ELBO: -3958.434
+DEBUG:root:Epoch: 18 learning rate:6.25e-05ELBO: -73.43696
+DEBUG:root:Epoch: 18 learning rate:6.25e-05ELBO: -682.9304
+DEBUG:root:Epoch: 18 learning rate:6.25e-05ELBO: -529.99286
+DEBUG:root:Epoch: 18 learning rate:6.25e-05ELBO: -242.3491
+DEBUG:root:Epoch: 18 learning rate:6.25e-05ELBO: -1607.0964
+DEBUG:root:Epoch: 18 learning rate:6.25e-05ELBO: -3870.2903
+DEBUG:root:Epoch: 18 learning rate:6.25e-05ELBO: -1080.53
+DEBUG:root:Epoch: 18 learning rate:6.25e-05ELBO: -841.0842
+DEBUG:root:Epoch: 18 learning rate:6.25e-05ELBO: -376.49426
+DEBUG:root:Epoch: 18 learning rate:6.25e-05ELBO: -3584.1387
+DEBUG:root:Epoch: 18 learning rate:6.25e-05ELBO: -761.3902
+DEBUG:root:Epoch: 18 learning rate:6.25e-05ELBO: -360.40897
+DEBUG:root:Epoch: 18 learning rate:6.25e-05ELBO: -199.13852
+DEBUG:root:Epoch: 18 learning rate:6.25e-05ELBO: -102.99822
+DEBUG:root:Epoch: 18 learning rate:6.25e-05ELBO: -1832.8921
+DEBUG:root:Epoch: 18completed
+DEBUG:root:************************ epoch:19*****************
+DEBUG:root:Epoch: 19 learning rate:3.125e-05ELBO: -527.71313
+DEBUG:root:Epoch: 19 learning rate:3.125e-05ELBO: -3199.0195
+DEBUG:root:Epoch: 19 learning rate:3.125e-05ELBO: -51.432037
+DEBUG:root:Epoch: 19 learning rate:3.125e-05ELBO: -217.2842
+DEBUG:root:Epoch: 19 learning rate:3.125e-05ELBO: -295.32007
+DEBUG:root:Epoch: 19 learning rate:3.125e-05ELBO: -663.0891
+DEBUG:root:Epoch: 19 learning rate:3.125e-05ELBO: -685.7325
+DEBUG:root:Epoch: 19 learning rate:3.125e-05ELBO: -1282.8403
+DEBUG:root:Epoch: 19 learning rate:3.125e-05ELBO: -527.2385
+DEBUG:root:Epoch: 19 learning rate:3.125e-05ELBO: -426.6907
+DEBUG:root:Epoch: 19 learning rate:3.125e-05ELBO: -699.4782
+DEBUG:root:Epoch: 19 learning rate:3.125e-05ELBO: -64.01978
+DEBUG:root:Epoch: 19 learning rate:3.125e-05ELBO: -491.95294
+DEBUG:root:Epoch: 19 learning rate:3.125e-05ELBO: -1060.48
+DEBUG:root:Epoch: 19 learning rate:3.125e-05ELBO: -92.40661
+DEBUG:root:Epoch: 19 learning rate:3.125e-05ELBO: -258.46594
+DEBUG:root:Epoch: 19 learning rate:3.125e-05ELBO: -74.09874
+DEBUG:root:Epoch: 19 learning rate:3.125e-05ELBO: -5564.7236
+DEBUG:root:Epoch: 19 learning rate:3.125e-05ELBO: -179.45695
+DEBUG:root:Epoch: 19 learning rate:3.125e-05ELBO: -907.4604
+DEBUG:root:Epoch: 19 learning rate:3.125e-05ELBO: -1462.7372
+DEBUG:root:Epoch: 19 learning rate:3.125e-05ELBO: -308.80887
+DEBUG:root:Epoch: 19completed
+DEBUG:root:************************ epoch:20*****************
+DEBUG:root:Epoch: 20 learning rate:3.125e-05ELBO: -137.61682
+DEBUG:root:Epoch: 20 learning rate:3.125e-05ELBO: -2992.513
+DEBUG:root:Epoch: 20 learning rate:3.125e-05ELBO: -477.43872
+DEBUG:root:Epoch: 20 learning rate:3.125e-05ELBO: -689.9129
+DEBUG:root:Epoch: 20 learning rate:3.125e-05ELBO: -135.2272
+DEBUG:root:Epoch: 20 learning rate:3.125e-05ELBO: -387.37903
+DEBUG:root:Epoch: 20 learning rate:3.125e-05ELBO: -1215.8572
+DEBUG:root:Epoch: 20 learning rate:3.125e-05ELBO: -737.584
+DEBUG:root:Epoch: 20 learning rate:3.125e-05ELBO: -1275.093
+DEBUG:root:Epoch: 20 learning rate:3.125e-05ELBO: -139.45251
+DEBUG:root:Epoch: 20 learning rate:3.125e-05ELBO: -178.7459
+DEBUG:root:Epoch: 20 learning rate:3.125e-05ELBO: -1386.2642
+DEBUG:root:Epoch: 20 learning rate:3.125e-05ELBO: -719.1311
+DEBUG:root:Epoch: 20 learning rate:3.125e-05ELBO: -247.62244
+DEBUG:root:Epoch: 20 learning rate:3.125e-05ELBO: -973.4921
+DEBUG:root:Epoch: 20 learning rate:3.125e-05ELBO: -570.8607
+DEBUG:root:Epoch: 20 learning rate:3.125e-05ELBO: -502.51544
+DEBUG:root:Epoch: 20 learning rate:3.125e-05ELBO: -469.63058
+DEBUG:root:Epoch: 20 learning rate:3.125e-05ELBO: -1573.5005
+DEBUG:root:Epoch: 20 learning rate:3.125e-05ELBO: -704.1367
+DEBUG:root:Epoch: 20completed
+DEBUG:root:Epoch: 20 learning rate:3.125e-05ELBO: -3769.0566
+DEBUG:root:Completed saving the model
+DEBUG:root:************************ epoch:21*****************
+DEBUG:root:Epoch: 21 learning rate:3.125e-05ELBO: -722.04865
+DEBUG:root:Epoch: 21 learning rate:3.125e-05ELBO: -1303.5728
+DEBUG:root:Epoch: 21 learning rate:3.125e-05ELBO: -1248.8727
+DEBUG:root:Epoch: 21 learning rate:3.125e-05ELBO: -1046.5203
+DEBUG:root:Epoch: 21 learning rate:3.125e-05ELBO: -582.7703
+DEBUG:root:Epoch: 21 learning rate:3.125e-05ELBO: -352.382
+DEBUG:root:Epoch: 21 learning rate:3.125e-05ELBO: -577.66516
+DEBUG:root:Epoch: 21 learning rate:3.125e-05ELBO: -737.4962
+DEBUG:root:Epoch: 21 learning rate:3.125e-05ELBO: -74.88269
+DEBUG:root:Epoch: 21 learning rate:3.125e-05ELBO: -719.7018
+DEBUG:root:Epoch: 21 learning rate:3.125e-05ELBO: -289.49768
+DEBUG:root:Epoch: 21 learning rate:3.125e-05ELBO: -234.67152
+DEBUG:root:Epoch: 21 learning rate:3.125e-05ELBO: -469.39026
+DEBUG:root:Epoch: 21 learning rate:3.125e-05ELBO: -214.8304
+DEBUG:root:Epoch: 21 learning rate:3.125e-05ELBO: -69.05946
+DEBUG:root:Epoch: 21 learning rate:3.125e-05ELBO: -1702.6499
+DEBUG:root:Epoch: 21 learning rate:3.125e-05ELBO: -736.4064
+DEBUG:root:Epoch: 21 learning rate:3.125e-05ELBO: -710.9125
+DEBUG:root:Epoch: 21 learning rate:3.125e-05ELBO: -662.1107
+DEBUG:root:Epoch: 21 learning rate:3.125e-05ELBO: -514.55493
+DEBUG:root:Epoch: 21 learning rate:3.125e-05ELBO: -230.38629
+DEBUG:root:Epoch: 21completed
+DEBUG:root:************************ epoch:22*****************
+DEBUG:root:Epoch: 22 learning rate:3.125e-05ELBO: -126.95184
+DEBUG:root:Epoch: 22 learning rate:3.125e-05ELBO: -123.778366
+DEBUG:root:Epoch: 22 learning rate:3.125e-05ELBO: -1319.8977
+DEBUG:root:Epoch: 22 learning rate:3.125e-05ELBO: -724.71484
+DEBUG:root:Epoch: 22 learning rate:3.125e-05ELBO: -452.4599
+DEBUG:root:Epoch: 22 learning rate:3.125e-05ELBO: -60.795296
+DEBUG:root:Epoch: 22 learning rate:3.125e-05ELBO: -1023.6346
+DEBUG:root:Epoch: 22 learning rate:3.125e-05ELBO: -376.71173
+DEBUG:root:Epoch: 22 learning rate:3.125e-05ELBO: -3724.7014
+DEBUG:root:Epoch: 22 learning rate:3.125e-05ELBO: -377.87585
+DEBUG:root:Epoch: 22 learning rate:3.125e-05ELBO: -592.7357
+DEBUG:root:Epoch: 22 learning rate:3.125e-05ELBO: -360.688
+DEBUG:root:Epoch: 22 learning rate:3.125e-05ELBO: -1167.5609
+DEBUG:root:Epoch: 22 learning rate:3.125e-05ELBO: -121.12487
+DEBUG:root:Epoch: 22 learning rate:3.125e-05ELBO: -538.1664
+DEBUG:root:Epoch: 22 learning rate:3.125e-05ELBO: -887.5836
+DEBUG:root:Epoch: 22 learning rate:3.125e-05ELBO: -1696.6687
+DEBUG:root:Epoch: 22 learning rate:3.125e-05ELBO: -1444.523
+DEBUG:root:Epoch: 22 learning rate:3.125e-05ELBO: -667.708
+DEBUG:root:Epoch: 22 learning rate:3.125e-05ELBO: -168.34033
+DEBUG:root:Epoch: 22completed
+DEBUG:root:************************ epoch:23*****************
+DEBUG:root:Epoch: 23 learning rate:1.5625e-05ELBO: -2179.215
+DEBUG:root:Epoch: 23 learning rate:1.5625e-05ELBO: -791.82684
+DEBUG:root:Epoch: 23 learning rate:1.5625e-05ELBO: -118.18796
+DEBUG:root:Epoch: 23 learning rate:1.5625e-05ELBO: -2076.6404
+DEBUG:root:Epoch: 23 learning rate:1.5625e-05ELBO: -123.65655
+DEBUG:root:Epoch: 23 learning rate:1.5625e-05ELBO: -242.87842
+DEBUG:root:Epoch: 23 learning rate:1.5625e-05ELBO: -661.5907
+DEBUG:root:Epoch: 23 learning rate:1.5625e-05ELBO: -990.00183
+DEBUG:root:Epoch: 23 learning rate:1.5625e-05ELBO: -736.367
+DEBUG:root:Epoch: 23 learning rate:1.5625e-05ELBO: -88.85166
+DEBUG:root:Epoch: 23 learning rate:1.5625e-05ELBO: -1443.5183
+DEBUG:root:Epoch: 23 learning rate:1.5625e-05ELBO: -723.2662
+DEBUG:root:Epoch: 23 learning rate:1.5625e-05ELBO: -1059.8661
+DEBUG:root:Epoch: 23 learning rate:1.5625e-05ELBO: -408.5221
+DEBUG:root:Epoch: 23 learning rate:1.5625e-05ELBO: -348.20618
+DEBUG:root:Epoch: 23 learning rate:1.5625e-05ELBO: -418.24374
+DEBUG:root:Epoch: 23 learning rate:1.5625e-05ELBO: -138.66844
+DEBUG:root:Epoch: 23 learning rate:1.5625e-05ELBO: -639.6138
+DEBUG:root:Epoch: 23 learning rate:1.5625e-05ELBO: -276.61356
+DEBUG:root:Epoch: 23 learning rate:1.5625e-05ELBO: -2829.9785
+DEBUG:root:Epoch: 23 learning rate:1.5625e-05ELBO: -179.20653
+DEBUG:root:Epoch: 23completed
+DEBUG:root:************************ epoch:24*****************
+DEBUG:root:Epoch: 24 learning rate:1.5625e-05ELBO: -554.1704
+DEBUG:root:Epoch: 24 learning rate:1.5625e-05ELBO: -153.07162
+DEBUG:root:Epoch: 24 learning rate:1.5625e-05ELBO: -496.19302
+DEBUG:root:Epoch: 24 learning rate:1.5625e-05ELBO: -1274.991
+DEBUG:root:Epoch: 24 learning rate:1.5625e-05ELBO: -246.16354
+DEBUG:root:Epoch: 24 learning rate:1.5625e-05ELBO: -311.70837
+DEBUG:root:Epoch: 24 learning rate:1.5625e-05ELBO: -527.50684
+DEBUG:root:Epoch: 24 learning rate:1.5625e-05ELBO: -266.9004
+DEBUG:root:Epoch: 24 learning rate:1.5625e-05ELBO: -1369.9901
+DEBUG:root:Epoch: 24 learning rate:1.5625e-05ELBO: -4806.995
+DEBUG:root:Epoch: 24 learning rate:1.5625e-05ELBO: -365.37015
+DEBUG:root:Epoch: 24 learning rate:1.5625e-05ELBO: -60.69594
+DEBUG:root:Epoch: 24 learning rate:1.5625e-05ELBO: -5043.932
+DEBUG:root:Epoch: 24 learning rate:1.5625e-05ELBO: -3771.2754
+DEBUG:root:Epoch: 24 learning rate:1.5625e-05ELBO: -642.6373
+DEBUG:root:Epoch: 24 learning rate:1.5625e-05ELBO: -524.68585
+DEBUG:root:Epoch: 24 learning rate:1.5625e-05ELBO: -426.56158
+DEBUG:root:Epoch: 24completed
+DEBUG:root:************************ epoch:25*****************
+DEBUG:root:Epoch: 25 learning rate:1.5625e-05ELBO: -563.12134
+DEBUG:root:Epoch: 25 learning rate:1.5625e-05ELBO: -236.83978
+DEBUG:root:Epoch: 25 learning rate:1.5625e-05ELBO: -357.51956
+DEBUG:root:Epoch: 25 learning rate:1.5625e-05ELBO: -184.39772
+DEBUG:root:Epoch: 25 learning rate:1.5625e-05ELBO: -838.8095
+DEBUG:root:Epoch: 25 learning rate:1.5625e-05ELBO: -152.7901
+DEBUG:root:Epoch: 25 learning rate:1.5625e-05ELBO: -128.66321
+DEBUG:root:Epoch: 25 learning rate:1.5625e-05ELBO: -514.0892
+DEBUG:root:Epoch: 25 learning rate:1.5625e-05ELBO: -289.99792
+DEBUG:root:Epoch: 25 learning rate:1.5625e-05ELBO: -4803.3145
+DEBUG:root:Epoch: 25 learning rate:1.5625e-05ELBO: -1294.133
+DEBUG:root:Epoch: 25 learning rate:1.5625e-05ELBO: -572.8568
+DEBUG:root:Epoch: 25 learning rate:1.5625e-05ELBO: -166.41286
+DEBUG:root:Epoch: 25 learning rate:1.5625e-05ELBO: -696.2584
+DEBUG:root:Epoch: 25 learning rate:1.5625e-05ELBO: -50.403957
+DEBUG:root:Epoch: 25 learning rate:1.5625e-05ELBO: -852.79694
+DEBUG:root:Epoch: 25 learning rate:1.5625e-05ELBO: -321.0772
+DEBUG:root:Epoch: 25 learning rate:1.5625e-05ELBO: -250.07639
+DEBUG:root:Epoch: 25 learning rate:1.5625e-05ELBO: -283.79565
+DEBUG:root:Epoch: 25 learning rate:1.5625e-05ELBO: -214.4191
+DEBUG:root:Epoch: 25 learning rate:1.5625e-05ELBO: -309.49194
+DEBUG:root:Epoch: 25 learning rate:1.5625e-05ELBO: -800.8585
+DEBUG:root:Epoch: 25completed
+DEBUG:root:************************ epoch:26*****************
+DEBUG:root:Epoch: 26 learning rate:1.5625e-05ELBO: -469.78598
+DEBUG:root:Epoch: 26 learning rate:1.5625e-05ELBO: -582.8825
+DEBUG:root:Epoch: 26 learning rate:1.5625e-05ELBO: -1448.9004
+DEBUG:root:Epoch: 26 learning rate:1.5625e-05ELBO: -1046.1141
+DEBUG:root:Epoch: 26 learning rate:1.5625e-05ELBO: -393.80612
+DEBUG:root:Epoch: 26 learning rate:1.5625e-05ELBO: -402.11313
+DEBUG:root:Epoch: 26 learning rate:1.5625e-05ELBO: -123.988815
+DEBUG:root:Epoch: 26 learning rate:1.5625e-05ELBO: -139.33966
+DEBUG:root:Epoch: 26 learning rate:1.5625e-05ELBO: -618.4491
+DEBUG:root:Epoch: 26 learning rate:1.5625e-05ELBO: -1410.7628
+DEBUG:root:Epoch: 26 learning rate:1.5625e-05ELBO: -119.97774
+DEBUG:root:Epoch: 26 learning rate:1.5625e-05ELBO: -240.30437
+DEBUG:root:Epoch: 26 learning rate:1.5625e-05ELBO: -446.7924
+DEBUG:root:Epoch: 26 learning rate:1.5625e-05ELBO: -1477.6125
+DEBUG:root:Epoch: 26 learning rate:1.5625e-05ELBO: -1307.3636
+DEBUG:root:Epoch: 26 learning rate:1.5625e-05ELBO: -523.12885
+DEBUG:root:Epoch: 26 learning rate:1.5625e-05ELBO: -1606.0264
+DEBUG:root:Epoch: 26 learning rate:1.5625e-05ELBO: -302.30148
+DEBUG:root:Epoch: 26 learning rate:1.5625e-05ELBO: -768.2722
+DEBUG:root:Epoch: 26 learning rate:1.5625e-05ELBO: -995.39777
+DEBUG:root:Epoch: 26 learning rate:1.5625e-05ELBO: -1285.8295
+DEBUG:root:Epoch: 26completed
+DEBUG:root:************************ epoch:27*****************
+DEBUG:root:Epoch: 27 learning rate:7.8125e-06ELBO: -388.40414
+DEBUG:root:Epoch: 27 learning rate:7.8125e-06ELBO: -127.66991
+DEBUG:root:Epoch: 27 learning rate:7.8125e-06ELBO: -283.02045
+DEBUG:root:Epoch: 27 learning rate:7.8125e-06ELBO: -1180.6575
+DEBUG:root:Epoch: 27 learning rate:7.8125e-06ELBO: -189.32779
+DEBUG:root:Epoch: 27 learning rate:7.8125e-06ELBO: -295.76965
+DEBUG:root:Epoch: 27 learning rate:7.8125e-06ELBO: -1139.9009
+DEBUG:root:Epoch: 27 learning rate:7.8125e-06ELBO: -154.753
+DEBUG:root:Epoch: 27 learning rate:7.8125e-06ELBO: -390.4195
+DEBUG:root:Epoch: 27 learning rate:7.8125e-06ELBO: -516.52203
+DEBUG:root:Epoch: 27 learning rate:7.8125e-06ELBO: -1947.6082
+DEBUG:root:Epoch: 27 learning rate:7.8125e-06ELBO: -1077.2977
+DEBUG:root:Epoch: 27 learning rate:7.8125e-06ELBO: -80.06372
+DEBUG:root:Epoch: 27 learning rate:7.8125e-06ELBO: -333.95892
+DEBUG:root:Epoch: 27 learning rate:7.8125e-06ELBO: -485.94577
+DEBUG:root:Epoch: 27 learning rate:7.8125e-06ELBO: -164.88756
+DEBUG:root:Epoch: 27 learning rate:7.8125e-06ELBO: -64.52655
+DEBUG:root:Epoch: 27 learning rate:7.8125e-06ELBO: -411.2326
+DEBUG:root:Epoch: 27 learning rate:7.8125e-06ELBO: -101.87012
+DEBUG:root:Epoch: 27completed
+DEBUG:root:************************ epoch:28*****************
+DEBUG:root:Epoch: 28 learning rate:7.8125e-06ELBO: -1818.2233
+DEBUG:root:Epoch: 28 learning rate:7.8125e-06ELBO: -146.63908
+DEBUG:root:Epoch: 28 learning rate:7.8125e-06ELBO: -703.2854
+DEBUG:root:Epoch: 28 learning rate:7.8125e-06ELBO: -54.31138
+DEBUG:root:Epoch: 28 learning rate:7.8125e-06ELBO: -1370.6221
+DEBUG:root:Epoch: 28 learning rate:7.8125e-06ELBO: -134.87323
+DEBUG:root:Epoch: 28 learning rate:7.8125e-06ELBO: -176.17642
+DEBUG:root:Epoch: 28 learning rate:7.8125e-06ELBO: -515.3801
+DEBUG:root:Epoch: 28 learning rate:7.8125e-06ELBO: -4136.5547
+DEBUG:root:Epoch: 28 learning rate:7.8125e-06ELBO: -398.034
+DEBUG:root:Epoch: 28 learning rate:7.8125e-06ELBO: -441.30908
+DEBUG:root:Epoch: 28 learning rate:7.8125e-06ELBO: -345.48248
+DEBUG:root:Epoch: 28 learning rate:7.8125e-06ELBO: -615.4342
+DEBUG:root:Epoch: 28 learning rate:7.8125e-06ELBO: -129.38411
+DEBUG:root:Epoch: 28 learning rate:7.8125e-06ELBO: -1079.0533
+DEBUG:root:Epoch: 28 learning rate:7.8125e-06ELBO: -184.81583
+DEBUG:root:Epoch: 28 learning rate:7.8125e-06ELBO: -914.64984
+DEBUG:root:Epoch: 28 learning rate:7.8125e-06ELBO: -685.8948
+DEBUG:root:Epoch: 28 learning rate:7.8125e-06ELBO: -776.3082
+DEBUG:root:Epoch: 28 learning rate:7.8125e-06ELBO: -1241.3181
+DEBUG:root:Epoch: 28 learning rate:7.8125e-06ELBO: -1418.3363
+DEBUG:root:Epoch: 28 learning rate:7.8125e-06ELBO: -962.53925
+DEBUG:root:Epoch: 28 learning rate:7.8125e-06ELBO: -1188.0435
+DEBUG:root:Epoch: 28completed
+DEBUG:root:************************ epoch:29*****************
+DEBUG:root:Epoch: 29 learning rate:7.8125e-06ELBO: -84.265366
+DEBUG:root:Epoch: 29 learning rate:7.8125e-06ELBO: -769.3238
+DEBUG:root:Epoch: 29 learning rate:7.8125e-06ELBO: -1291.4155
+DEBUG:root:Epoch: 29 learning rate:7.8125e-06ELBO: -569.93787
+DEBUG:root:Epoch: 29 learning rate:7.8125e-06ELBO: -3455.466
+DEBUG:root:Epoch: 29 learning rate:7.8125e-06ELBO: -745.1952
+DEBUG:root:Epoch: 29 learning rate:7.8125e-06ELBO: -57.641262
+DEBUG:root:Epoch: 29 learning rate:7.8125e-06ELBO: -542.9761
+DEBUG:root:Epoch: 29 learning rate:7.8125e-06ELBO: -437.05447
+DEBUG:root:Epoch: 29 learning rate:7.8125e-06ELBO: -955.0597
+DEBUG:root:Epoch: 29 learning rate:7.8125e-06ELBO: -652.9486
+DEBUG:root:Epoch: 29 learning rate:7.8125e-06ELBO: -344.92798
+DEBUG:root:Epoch: 29 learning rate:7.8125e-06ELBO: -242.38362
+DEBUG:root:Epoch: 29 learning rate:7.8125e-06ELBO: -393.6431
+DEBUG:root:Epoch: 29 learning rate:7.8125e-06ELBO: -175.50063
+DEBUG:root:Epoch: 29 learning rate:7.8125e-06ELBO: -3470.0076
+DEBUG:root:Epoch: 29 learning rate:7.8125e-06ELBO: -75.66123
+DEBUG:root:Epoch: 29 learning rate:7.8125e-06ELBO: -1439.3977
+DEBUG:root:Epoch: 29 learning rate:7.8125e-06ELBO: -124.22268
+DEBUG:root:Epoch: 29 learning rate:7.8125e-06ELBO: -176.9718
+DEBUG:root:Epoch: 29completed
+DEBUG:root:************************ epoch:30*****************
+DEBUG:root:Epoch: 30 learning rate:7.8125e-06ELBO: -65.3307
+DEBUG:root:Epoch: 30 learning rate:7.8125e-06ELBO: -966.98663
+DEBUG:root:Epoch: 30 learning rate:7.8125e-06ELBO: -652.96295
+DEBUG:root:Epoch: 30 learning rate:7.8125e-06ELBO: -246.47003
+DEBUG:root:Epoch: 30 learning rate:7.8125e-06ELBO: -341.5062
+DEBUG:root:Epoch: 30 learning rate:7.8125e-06ELBO: -338.59085
+DEBUG:root:Epoch: 30 learning rate:7.8125e-06ELBO: -441.6563
+DEBUG:root:Epoch: 30 learning rate:7.8125e-06ELBO: -301.15668
+DEBUG:root:Epoch: 30 learning rate:7.8125e-06ELBO: -519.64764
+DEBUG:root:Epoch: 30 learning rate:7.8125e-06ELBO: -122.48668
+DEBUG:root:Epoch: 30 learning rate:7.8125e-06ELBO: -3908.8948
+DEBUG:root:Epoch: 30 learning rate:7.8125e-06ELBO: -142.3402
+DEBUG:root:Epoch: 30 learning rate:7.8125e-06ELBO: -1385.4939
+DEBUG:root:Epoch: 30completed
+DEBUG:root:Epoch: 30 learning rate:7.8125e-06ELBO: -145.36162
+DEBUG:root:Completed saving the model
+DEBUG:root:************************ epoch:31*****************
+DEBUG:root:Epoch: 31 learning rate:3.90625e-06ELBO: -291.04074
+DEBUG:root:Epoch: 31 learning rate:3.90625e-06ELBO: -2125.7754
+DEBUG:root:Epoch: 31 learning rate:3.90625e-06ELBO: -71.664986
+DEBUG:root:Epoch: 31 learning rate:3.90625e-06ELBO: -1357.0137
+DEBUG:root:Epoch: 31 learning rate:3.90625e-06ELBO: -451.04514
+DEBUG:root:Epoch: 31 learning rate:3.90625e-06ELBO: -1798.2239
+DEBUG:root:Epoch: 31 learning rate:3.90625e-06ELBO: -270.7525
+DEBUG:root:Epoch: 31 learning rate:3.90625e-06ELBO: -722.40466
+DEBUG:root:Epoch: 31 learning rate:3.90625e-06ELBO: -565.3564
+DEBUG:root:Epoch: 31 learning rate:3.90625e-06ELBO: -4227.2886
+DEBUG:root:Epoch: 31 learning rate:3.90625e-06ELBO: -361.92615
+DEBUG:root:Epoch: 31 learning rate:3.90625e-06ELBO: -1382.7336
+DEBUG:root:Epoch: 31 learning rate:3.90625e-06ELBO: -288.04364
+DEBUG:root:Epoch: 31 learning rate:3.90625e-06ELBO: -357.37643
+DEBUG:root:Epoch: 31 learning rate:3.90625e-06ELBO: -144.34918
+DEBUG:root:Epoch: 31 learning rate:3.90625e-06ELBO: -68.70791
+DEBUG:root:Epoch: 31 learning rate:3.90625e-06ELBO: -368.29355
+DEBUG:root:Epoch: 31 learning rate:3.90625e-06ELBO: -167.21411
+DEBUG:root:Epoch: 31 learning rate:3.90625e-06ELBO: -3171.3115
+DEBUG:root:Epoch: 31 learning rate:3.90625e-06ELBO: -1434.5298
+DEBUG:root:Epoch: 31 learning rate:3.90625e-06ELBO: -220.98138
+DEBUG:root:Epoch: 31 learning rate:3.90625e-06ELBO: -93.65239
+DEBUG:root:Epoch: 31completed
+DEBUG:root:************************ epoch:32*****************
+DEBUG:root:Epoch: 32 learning rate:3.90625e-06ELBO: -626.38727
+DEBUG:root:Epoch: 32 learning rate:3.90625e-06ELBO: -356.40298
+DEBUG:root:Epoch: 32 learning rate:3.90625e-06ELBO: -1573.7332
+DEBUG:root:Epoch: 32 learning rate:3.90625e-06ELBO: -1355.9498
+DEBUG:root:Epoch: 32 learning rate:3.90625e-06ELBO: -705.7293
+DEBUG:root:Epoch: 32 learning rate:3.90625e-06ELBO: -244.4484
+DEBUG:root:Epoch: 32 learning rate:3.90625e-06ELBO: -148.63814
+DEBUG:root:Epoch: 32 learning rate:3.90625e-06ELBO: -658.8121
+DEBUG:root:Epoch: 32 learning rate:3.90625e-06ELBO: -1245.6736
+DEBUG:root:Epoch: 32 learning rate:3.90625e-06ELBO: -1495.0477
+DEBUG:root:Epoch: 32 learning rate:3.90625e-06ELBO: -1438.6382
+DEBUG:root:Epoch: 32 learning rate:3.90625e-06ELBO: -1360.31
+DEBUG:root:Epoch: 32 learning rate:3.90625e-06ELBO: -731.0045
+DEBUG:root:Epoch: 32 learning rate:3.90625e-06ELBO: -671.78973
+DEBUG:root:Epoch: 32 learning rate:3.90625e-06ELBO: -166.74985
+DEBUG:root:Epoch: 32 learning rate:3.90625e-06ELBO: -591.8174
+DEBUG:root:Epoch: 32 learning rate:3.90625e-06ELBO: -1129.1156
+DEBUG:root:Epoch: 32 learning rate:3.90625e-06ELBO: -1244.3053
+DEBUG:root:Epoch: 32 learning rate:3.90625e-06ELBO: -60.79126
+DEBUG:root:Epoch: 32 learning rate:3.90625e-06ELBO: -168.27191
+DEBUG:root:Epoch: 32 learning rate:3.90625e-06ELBO: -910.1459
+DEBUG:root:Epoch: 32 learning rate:3.90625e-06ELBO: -102.82135
+DEBUG:root:Epoch: 32 learning rate:3.90625e-06ELBO: -439.81815
+DEBUG:root:Epoch: 32completed
+DEBUG:root:************************ epoch:33*****************
+DEBUG:root:Epoch: 33 learning rate:3.90625e-06ELBO: -177.58469
+DEBUG:root:Epoch: 33 learning rate:3.90625e-06ELBO: -514.68854
+DEBUG:root:Epoch: 33 learning rate:3.90625e-06ELBO: -245.11282
+DEBUG:root:Epoch: 33 learning rate:3.90625e-06ELBO: -1129.4429
+DEBUG:root:Epoch: 33 learning rate:3.90625e-06ELBO: -479.05896
+DEBUG:root:Epoch: 33 learning rate:3.90625e-06ELBO: -220.75876
+DEBUG:root:Epoch: 33 learning rate:3.90625e-06ELBO: -4334.771
+DEBUG:root:Epoch: 33 learning rate:3.90625e-06ELBO: -269.32785
+DEBUG:root:Epoch: 33 learning rate:3.90625e-06ELBO: -452.06873
+DEBUG:root:Epoch: 33 learning rate:3.90625e-06ELBO: -388.62476
+DEBUG:root:Epoch: 33 learning rate:3.90625e-06ELBO: -320.5703
+DEBUG:root:Epoch: 33 learning rate:3.90625e-06ELBO: -257.99475
+DEBUG:root:Epoch: 33 learning rate:3.90625e-06ELBO: -601.3519
+DEBUG:root:Epoch: 33 learning rate:3.90625e-06ELBO: -64.12651
+DEBUG:root:Epoch: 33 learning rate:3.90625e-06ELBO: -1070.9539
+DEBUG:root:Epoch: 33 learning rate:3.90625e-06ELBO: -71.16156
+DEBUG:root:Epoch: 33 learning rate:3.90625e-06ELBO: -993.7855
+DEBUG:root:Epoch: 33 learning rate:3.90625e-06ELBO: -527.0279
+DEBUG:root:Epoch: 33 learning rate:3.90625e-06ELBO: -55.48679
+DEBUG:root:Epoch: 33completed
+DEBUG:root:************************ epoch:34*****************
+DEBUG:root:Epoch: 34 learning rate:3.90625e-06ELBO: -1193.9628
+DEBUG:root:Epoch: 34 learning rate:3.90625e-06ELBO: -1377.4373
+DEBUG:root:Epoch: 34 learning rate:3.90625e-06ELBO: -87.10603
+DEBUG:root:Epoch: 34 learning rate:3.90625e-06ELBO: -157.77573
+DEBUG:root:Epoch: 34 learning rate:3.90625e-06ELBO: -391.0285
+DEBUG:root:Epoch: 34 learning rate:3.90625e-06ELBO: -471.5171
+DEBUG:root:Epoch: 34 learning rate:3.90625e-06ELBO: -512.08527
+DEBUG:root:Epoch: 34 learning rate:3.90625e-06ELBO: -88.82665
+DEBUG:root:Epoch: 34 learning rate:3.90625e-06ELBO: -156.68677
+DEBUG:root:Epoch: 34 learning rate:3.90625e-06ELBO: -658.2678
+DEBUG:root:Epoch: 34 learning rate:3.90625e-06ELBO: -4186.7163
+DEBUG:root:Epoch: 34 learning rate:3.90625e-06ELBO: -380.96985
+DEBUG:root:Epoch: 34 learning rate:3.90625e-06ELBO: -310.58002
+DEBUG:root:Epoch: 34 learning rate:3.90625e-06ELBO: -3221.636
+DEBUG:root:Epoch: 34 learning rate:3.90625e-06ELBO: -290.02832
+DEBUG:root:Epoch: 34 learning rate:3.90625e-06ELBO: -420.9029
+DEBUG:root:Epoch: 34 learning rate:3.90625e-06ELBO: -121.92771
+DEBUG:root:Epoch: 34 learning rate:3.90625e-06ELBO: -387.39645
+DEBUG:root:Epoch: 34 learning rate:3.90625e-06ELBO: -834.0833
+DEBUG:root:Epoch: 34 learning rate:3.90625e-06ELBO: -1026.0448
+DEBUG:root:Epoch: 34 learning rate:3.90625e-06ELBO: -555.5031
+DEBUG:root:Epoch: 34 learning rate:3.90625e-06ELBO: -173.3536
+DEBUG:root:Epoch: 34 learning rate:3.90625e-06ELBO: -124.42343
+DEBUG:root:Epoch: 34completed
+DEBUG:root:************************ epoch:35*****************
+DEBUG:root:Epoch: 35 learning rate:1.953125e-06ELBO: -123.54802
+DEBUG:root:Epoch: 35 learning rate:1.953125e-06ELBO: -3926.5232
+DEBUG:root:Epoch: 35 learning rate:1.953125e-06ELBO: -4288.0493
+DEBUG:root:Epoch: 35 learning rate:1.953125e-06ELBO: -776.09076
+DEBUG:root:Epoch: 35 learning rate:1.953125e-06ELBO: -275.8223
+DEBUG:root:Epoch: 35 learning rate:1.953125e-06ELBO: -127.78698
+DEBUG:root:Epoch: 35 learning rate:1.953125e-06ELBO: -797.25903
+DEBUG:root:Epoch: 35 learning rate:1.953125e-06ELBO: -2072.9365
+DEBUG:root:Epoch: 35 learning rate:1.953125e-06ELBO: -518.01776
+DEBUG:root:Epoch: 35 learning rate:1.953125e-06ELBO: -114.52054
+DEBUG:root:Epoch: 35 learning rate:1.953125e-06ELBO: -158.18744
+DEBUG:root:Epoch: 35 learning rate:1.953125e-06ELBO: -728.6534
+DEBUG:root:Epoch: 35 learning rate:1.953125e-06ELBO: -2584.3376
+DEBUG:root:Epoch: 35 learning rate:1.953125e-06ELBO: -210.35399
+DEBUG:root:Epoch: 35 learning rate:1.953125e-06ELBO: -626.6069
+DEBUG:root:Epoch: 35 learning rate:1.953125e-06ELBO: -1150.7274
+DEBUG:root:Epoch: 35completed
+DEBUG:root:************************ epoch:36*****************
+DEBUG:root:Epoch: 36 learning rate:1.953125e-06ELBO: -179.80269
+DEBUG:root:Epoch: 36 learning rate:1.953125e-06ELBO: -896.55225
+DEBUG:root:Epoch: 36 learning rate:1.953125e-06ELBO: -568.0957
+DEBUG:root:Epoch: 36 learning rate:1.953125e-06ELBO: -786.9213
+DEBUG:root:Epoch: 36 learning rate:1.953125e-06ELBO: -319.226
+DEBUG:root:Epoch: 36 learning rate:1.953125e-06ELBO: -340.91113
+DEBUG:root:Epoch: 36 learning rate:1.953125e-06ELBO: -3583.5608
+DEBUG:root:Epoch: 36 learning rate:1.953125e-06ELBO: -267.13864
+DEBUG:root:Epoch: 36 learning rate:1.953125e-06ELBO: -1943.3729
+DEBUG:root:Epoch: 36 learning rate:1.953125e-06ELBO: -522.241
+DEBUG:root:Epoch: 36 learning rate:1.953125e-06ELBO: -122.77747
+DEBUG:root:Epoch: 36 learning rate:1.953125e-06ELBO: -383.71472
+DEBUG:root:Epoch: 36 learning rate:1.953125e-06ELBO: -50.53028
+DEBUG:root:Epoch: 36 learning rate:1.953125e-06ELBO: -211.73433
+DEBUG:root:Epoch: 36 learning rate:1.953125e-06ELBO: -427.60208
+DEBUG:root:Epoch: 36 learning rate:1.953125e-06ELBO: -1113.3516
+DEBUG:root:Epoch: 36 learning rate:1.953125e-06ELBO: -177.80681
+DEBUG:root:Epoch: 36 learning rate:1.953125e-06ELBO: -650.06256
+DEBUG:root:Epoch: 36completed
+DEBUG:root:************************ epoch:37*****************
+DEBUG:root:Epoch: 37 learning rate:1.953125e-06ELBO: -231.93959
+DEBUG:root:Epoch: 37 learning rate:1.953125e-06ELBO: -1049.0962
+DEBUG:root:Epoch: 37 learning rate:1.953125e-06ELBO: -1806.8728
+DEBUG:root:Epoch: 37 learning rate:1.953125e-06ELBO: -884.0425
+DEBUG:root:Epoch: 37 learning rate:1.953125e-06ELBO: -277.57547
+DEBUG:root:Epoch: 37 learning rate:1.953125e-06ELBO: -1374.1133
+DEBUG:root:Epoch: 37 learning rate:1.953125e-06ELBO: -273.76758
+DEBUG:root:Epoch: 37 learning rate:1.953125e-06ELBO: -611.85956
+DEBUG:root:Epoch: 37 learning rate:1.953125e-06ELBO: -604.13153
+DEBUG:root:Epoch: 37 learning rate:1.953125e-06ELBO: -1070.6101
+DEBUG:root:Epoch: 37 learning rate:1.953125e-06ELBO: -74.67837
+DEBUG:root:Epoch: 37 learning rate:1.953125e-06ELBO: -664.06
+DEBUG:root:Epoch: 37 learning rate:1.953125e-06ELBO: -348.2505
+DEBUG:root:Epoch: 37 learning rate:1.953125e-06ELBO: -211.92972
+DEBUG:root:Epoch: 37 learning rate:1.953125e-06ELBO: -253.9748
+DEBUG:root:Epoch: 37 learning rate:1.953125e-06ELBO: -577.88525
+DEBUG:root:Epoch: 37 learning rate:1.953125e-06ELBO: -224.23013
+DEBUG:root:Epoch: 37 learning rate:1.953125e-06ELBO: -82.36394
+DEBUG:root:Epoch: 37 learning rate:1.953125e-06ELBO: -336.4025
+DEBUG:root:Epoch: 37 learning rate:1.953125e-06ELBO: -1106.0358
+DEBUG:root:Epoch: 37 learning rate:1.953125e-06ELBO: -1238.3228
+DEBUG:root:Epoch: 37 learning rate:1.953125e-06ELBO: -361.62915
+DEBUG:root:Epoch: 37completed
+DEBUG:root:************************ epoch:38*****************
+DEBUG:root:Epoch: 38 learning rate:1.953125e-06ELBO: -220.94394
+DEBUG:root:Epoch: 38 learning rate:1.953125e-06ELBO: -141.19542
+DEBUG:root:Epoch: 38 learning rate:1.953125e-06ELBO: -181.4037
+DEBUG:root:Epoch: 38 learning rate:1.953125e-06ELBO: -307.9573
+DEBUG:root:Epoch: 38 learning rate:1.953125e-06ELBO: -454.7577
+DEBUG:root:Epoch: 38 learning rate:1.953125e-06ELBO: -349.9853
+DEBUG:root:Epoch: 38 learning rate:1.953125e-06ELBO: -1111.8625
+DEBUG:root:Epoch: 38 learning rate:1.953125e-06ELBO: -203.28671
+DEBUG:root:Epoch: 38 learning rate:1.953125e-06ELBO: -4120.5996
+DEBUG:root:Epoch: 38 learning rate:1.953125e-06ELBO: -151.57967
+DEBUG:root:Epoch: 38 learning rate:1.953125e-06ELBO: -172.97691
+DEBUG:root:Epoch: 38 learning rate:1.953125e-06ELBO: -414.1286
+DEBUG:root:Epoch: 38 learning rate:1.953125e-06ELBO: -586.5171
+DEBUG:root:Epoch: 38 learning rate:1.953125e-06ELBO: -178.37698
+DEBUG:root:Epoch: 38 learning rate:1.953125e-06ELBO: -641.4545
+DEBUG:root:Epoch: 38 learning rate:1.953125e-06ELBO: -509.53662
+DEBUG:root:Epoch: 38 learning rate:1.953125e-06ELBO: -165.03409
+DEBUG:root:Epoch: 38 learning rate:1.953125e-06ELBO: -438.66492
+DEBUG:root:Epoch: 38 learning rate:1.953125e-06ELBO: -610.13464
+DEBUG:root:Epoch: 38completed
+DEBUG:root:************************ epoch:39*****************
+DEBUG:root:Epoch: 39 learning rate:9.765625e-07ELBO: -1365.9153
+DEBUG:root:Epoch: 39 learning rate:9.765625e-07ELBO: -1578.2982
+DEBUG:root:Epoch: 39 learning rate:9.765625e-07ELBO: -145.5954
+DEBUG:root:Epoch: 39 learning rate:9.765625e-07ELBO: -251.29778
+DEBUG:root:Epoch: 39 learning rate:9.765625e-07ELBO: -1284.816
+DEBUG:root:Epoch: 39 learning rate:9.765625e-07ELBO: -268.85034
+DEBUG:root:Epoch: 39 learning rate:9.765625e-07ELBO: -1806.7957
+DEBUG:root:Epoch: 39 learning rate:9.765625e-07ELBO: -475.8678
+DEBUG:root:Epoch: 39 learning rate:9.765625e-07ELBO: -122.99684
+DEBUG:root:Epoch: 39 learning rate:9.765625e-07ELBO: -876.0184
+DEBUG:root:Epoch: 39 learning rate:9.765625e-07ELBO: -3855.971
+DEBUG:root:Epoch: 39 learning rate:9.765625e-07ELBO: -230.98064
+DEBUG:root:Epoch: 39 learning rate:9.765625e-07ELBO: -682.90356
+DEBUG:root:Epoch: 39completed
+DEBUG:root:************************ epoch:40*****************
+DEBUG:root:Epoch: 40 learning rate:9.765625e-07ELBO: -393.27353
+DEBUG:root:Epoch: 40 learning rate:9.765625e-07ELBO: -4112.67
+DEBUG:root:Epoch: 40 learning rate:9.765625e-07ELBO: -163.55075
+DEBUG:root:Epoch: 40 learning rate:9.765625e-07ELBO: -232.39378
+DEBUG:root:Epoch: 40 learning rate:9.765625e-07ELBO: -594.5389
+DEBUG:root:Epoch: 40 learning rate:9.765625e-07ELBO: -417.7113
+DEBUG:root:Epoch: 40 learning rate:9.765625e-07ELBO: -3956.4607
+DEBUG:root:Epoch: 40 learning rate:9.765625e-07ELBO: -1458.5602
+DEBUG:root:Epoch: 40 learning rate:9.765625e-07ELBO: -231.5698
+DEBUG:root:Epoch: 40 learning rate:9.765625e-07ELBO: -507.3023
+DEBUG:root:Epoch: 40 learning rate:9.765625e-07ELBO: -219.48141
+DEBUG:root:Epoch: 40 learning rate:9.765625e-07ELBO: -402.5941
+DEBUG:root:Epoch: 40 learning rate:9.765625e-07ELBO: -779.33185
+DEBUG:root:Epoch: 40 learning rate:9.765625e-07ELBO: -541.29535
+DEBUG:root:Epoch: 40 learning rate:9.765625e-07ELBO: -600.4477
+DEBUG:root:Epoch: 40 learning rate:9.765625e-07ELBO: -584.6126
+DEBUG:root:Epoch: 40 learning rate:9.765625e-07ELBO: -214.29068
+DEBUG:root:Epoch: 40 learning rate:9.765625e-07ELBO: -446.55908
+DEBUG:root:Epoch: 40 learning rate:9.765625e-07ELBO: -658.6947
+DEBUG:root:Epoch: 40 learning rate:9.765625e-07ELBO: -989.24677
+DEBUG:root:Epoch: 40 learning rate:9.765625e-07ELBO: -1377.0701
+DEBUG:root:Epoch: 40 learning rate:9.765625e-07ELBO: -192.19429
+DEBUG:root:Epoch: 40 learning rate:9.765625e-07ELBO: -1047.1835
+DEBUG:root:Epoch: 40 learning rate:9.765625e-07ELBO: -132.5004
+DEBUG:root:Epoch: 40 learning rate:9.765625e-07ELBO: -607.48706
+DEBUG:root:Epoch: 40completed
+DEBUG:root:Epoch: 40 learning rate:9.765625e-07ELBO: -1066.9635
+DEBUG:root:Completed saving the model
+DEBUG:root:************************ epoch:41*****************
+DEBUG:root:Epoch: 41 learning rate:9.765625e-07ELBO: -206.20456
+DEBUG:root:Epoch: 41 learning rate:9.765625e-07ELBO: -163.83308
+DEBUG:root:Epoch: 41 learning rate:9.765625e-07ELBO: -1046.3022
+DEBUG:root:Epoch: 41 learning rate:9.765625e-07ELBO: -567.8418
+DEBUG:root:Epoch: 41 learning rate:9.765625e-07ELBO: -284.77692
+DEBUG:root:Epoch: 41 learning rate:9.765625e-07ELBO: -298.60974
+DEBUG:root:Epoch: 41 learning rate:9.765625e-07ELBO: -1461.2704
+DEBUG:root:Epoch: 41 learning rate:9.765625e-07ELBO: -587.81885
+DEBUG:root:Epoch: 41 learning rate:9.765625e-07ELBO: -427.5496
+DEBUG:root:Epoch: 41 learning rate:9.765625e-07ELBO: -150.81532
+DEBUG:root:Epoch: 41 learning rate:9.765625e-07ELBO: -186.8088
+DEBUG:root:Epoch: 41 learning rate:9.765625e-07ELBO: -339.5662
+DEBUG:root:Epoch: 41completed
+DEBUG:root:************************ epoch:42*****************
+DEBUG:root:Epoch: 42 learning rate:9.765625e-07ELBO: -277.95538
+DEBUG:root:Epoch: 42 learning rate:9.765625e-07ELBO: -315.31213
+DEBUG:root:Epoch: 42 learning rate:9.765625e-07ELBO: -192.38905
+DEBUG:root:Epoch: 42 learning rate:9.765625e-07ELBO: -910.7244
+DEBUG:root:Epoch: 42 learning rate:9.765625e-07ELBO: -2565.6343
+DEBUG:root:Epoch: 42 learning rate:9.765625e-07ELBO: -427.534
+DEBUG:root:Epoch: 42 learning rate:9.765625e-07ELBO: -683.3502
+DEBUG:root:Epoch: 42 learning rate:9.765625e-07ELBO: -174.84212
+DEBUG:root:Epoch: 42 learning rate:9.765625e-07ELBO: -565.05994
+DEBUG:root:Epoch: 42 learning rate:9.765625e-07ELBO: -633.2041
+DEBUG:root:Epoch: 42 learning rate:9.765625e-07ELBO: -771.1496
+DEBUG:root:Epoch: 42 learning rate:9.765625e-07ELBO: -1049.0787
+DEBUG:root:Epoch: 42 learning rate:9.765625e-07ELBO: -1869.8436
+DEBUG:root:Epoch: 42 learning rate:9.765625e-07ELBO: -4317.4375
+DEBUG:root:Epoch: 42 learning rate:9.765625e-07ELBO: -213.27646
+DEBUG:root:Epoch: 42 learning rate:9.765625e-07ELBO: -167.40474
+DEBUG:root:Epoch: 42 learning rate:9.765625e-07ELBO: -400.2881
+DEBUG:root:Epoch: 42 learning rate:9.765625e-07ELBO: -551.08856
+DEBUG:root:Epoch: 42 learning rate:9.765625e-07ELBO: -156.45844
+DEBUG:root:Epoch: 42 learning rate:9.765625e-07ELBO: -187.08995
+DEBUG:root:Epoch: 42 learning rate:9.765625e-07ELBO: -91.26016
+DEBUG:root:Epoch: 42 learning rate:9.765625e-07ELBO: -177.05652
+DEBUG:root:Epoch: 42completed
+DEBUG:root:************************ epoch:43*****************
+DEBUG:root:Epoch: 43 learning rate:4.8828125e-07ELBO: -347.98053
+DEBUG:root:Epoch: 43 learning rate:4.8828125e-07ELBO: -396.6954
+DEBUG:root:Epoch: 43 learning rate:4.8828125e-07ELBO: -636.81836
+DEBUG:root:Epoch: 43 learning rate:4.8828125e-07ELBO: -509.64163
+DEBUG:root:Epoch: 43 learning rate:4.8828125e-07ELBO: -1411.2611
+DEBUG:root:Epoch: 43 learning rate:4.8828125e-07ELBO: -1306.9705
+DEBUG:root:Epoch: 43 learning rate:4.8828125e-07ELBO: -246.58948
+DEBUG:root:Epoch: 43 learning rate:4.8828125e-07ELBO: -632.98
+DEBUG:root:Epoch: 43 learning rate:4.8828125e-07ELBO: -327.90417
+DEBUG:root:Epoch: 43 learning rate:4.8828125e-07ELBO: -1294.3086
+DEBUG:root:Epoch: 43 learning rate:4.8828125e-07ELBO: -1066.5724
+DEBUG:root:Epoch: 43 learning rate:4.8828125e-07ELBO: -1192.161
+DEBUG:root:Epoch: 43 learning rate:4.8828125e-07ELBO: -64.44551
+DEBUG:root:Epoch: 43 learning rate:4.8828125e-07ELBO: -194.25606
+DEBUG:root:Epoch: 43 learning rate:4.8828125e-07ELBO: -389.9147
+DEBUG:root:Epoch: 43 learning rate:4.8828125e-07ELBO: -1475.805
+DEBUG:root:Epoch: 43 learning rate:4.8828125e-07ELBO: -1504.6425
+DEBUG:root:Epoch: 43 learning rate:4.8828125e-07ELBO: -1569.2313
+DEBUG:root:Epoch: 43 learning rate:4.8828125e-07ELBO: -1112.3258
+DEBUG:root:Epoch: 43 learning rate:4.8828125e-07ELBO: -151.34163
+DEBUG:root:Epoch: 43 learning rate:4.8828125e-07ELBO: -316.37964
+DEBUG:root:Epoch: 43 learning rate:4.8828125e-07ELBO: -1512.3427
+DEBUG:root:Epoch: 43completed
+DEBUG:root:************************ epoch:44*****************
+DEBUG:root:Epoch: 44 learning rate:4.8828125e-07ELBO: -98.56377
+DEBUG:root:Epoch: 44 learning rate:4.8828125e-07ELBO: -3236.084
+DEBUG:root:Epoch: 44 learning rate:4.8828125e-07ELBO: -417.79224
+DEBUG:root:Epoch: 44 learning rate:4.8828125e-07ELBO: -587.6501
+DEBUG:root:Epoch: 44 learning rate:4.8828125e-07ELBO: -369.41132
+DEBUG:root:Epoch: 44 learning rate:4.8828125e-07ELBO: -237.43834
+DEBUG:root:Epoch: 44 learning rate:4.8828125e-07ELBO: -706.7804
+DEBUG:root:Epoch: 44 learning rate:4.8828125e-07ELBO: -805.5173
+DEBUG:root:Epoch: 44 learning rate:4.8828125e-07ELBO: -126.93817
+DEBUG:root:Epoch: 44 learning rate:4.8828125e-07ELBO: -3839.3801
+DEBUG:root:Epoch: 44 learning rate:4.8828125e-07ELBO: -303.5706
+DEBUG:root:Epoch: 44 learning rate:4.8828125e-07ELBO: -166.92004
+DEBUG:root:Epoch: 44 learning rate:4.8828125e-07ELBO: -656.3717
+DEBUG:root:Epoch: 44 learning rate:4.8828125e-07ELBO: -3646.871
+DEBUG:root:Epoch: 44 learning rate:4.8828125e-07ELBO: -205.28381
+DEBUG:root:Epoch: 44 learning rate:4.8828125e-07ELBO: -720.30304
+DEBUG:root:Epoch: 44 learning rate:4.8828125e-07ELBO: -605.3971
+DEBUG:root:Epoch: 44 learning rate:4.8828125e-07ELBO: -1487.1346
+DEBUG:root:Epoch: 44 learning rate:4.8828125e-07ELBO: -547.5285
+DEBUG:root:Epoch: 44 learning rate:4.8828125e-07ELBO: -187.94644
+DEBUG:root:Epoch: 44 learning rate:4.8828125e-07ELBO: -150.6126
+DEBUG:root:Epoch: 44 learning rate:4.8828125e-07ELBO: -451.92752
+DEBUG:root:Epoch: 44 learning rate:4.8828125e-07ELBO: -236.99089
+DEBUG:root:Epoch: 44completed
+DEBUG:root:************************ epoch:45*****************
+DEBUG:root:Epoch: 45 learning rate:4.8828125e-07ELBO: -1448.2295
+DEBUG:root:Epoch: 45 learning rate:4.8828125e-07ELBO: -900.1852
+DEBUG:root:Epoch: 45 learning rate:4.8828125e-07ELBO: -392.8178
+DEBUG:root:Epoch: 45 learning rate:4.8828125e-07ELBO: -297.6707
+DEBUG:root:Epoch: 45 learning rate:4.8828125e-07ELBO: -81.82054
+DEBUG:root:Epoch: 45 learning rate:4.8828125e-07ELBO: -906.00653
+DEBUG:root:Epoch: 45 learning rate:4.8828125e-07ELBO: -417.0993
+DEBUG:root:Epoch: 45 learning rate:4.8828125e-07ELBO: -697.7842
+DEBUG:root:Epoch: 45 learning rate:4.8828125e-07ELBO: -881.5143
+DEBUG:root:Epoch: 45 learning rate:4.8828125e-07ELBO: -444.69754
+DEBUG:root:Epoch: 45 learning rate:4.8828125e-07ELBO: -240.43411
+DEBUG:root:Epoch: 45 learning rate:4.8828125e-07ELBO: -764.6254
+DEBUG:root:Epoch: 45 learning rate:4.8828125e-07ELBO: -1651.899
+DEBUG:root:Epoch: 45 learning rate:4.8828125e-07ELBO: -662.68335
+DEBUG:root:Epoch: 45 learning rate:4.8828125e-07ELBO: -337.69943
+DEBUG:root:Epoch: 45 learning rate:4.8828125e-07ELBO: -234.66325
+DEBUG:root:Epoch: 45 learning rate:4.8828125e-07ELBO: -935.392
+DEBUG:root:Epoch: 45 learning rate:4.8828125e-07ELBO: -1312.6113
+DEBUG:root:Epoch: 45 learning rate:4.8828125e-07ELBO: -389.2072
+DEBUG:root:Epoch: 45completed
+DEBUG:root:************************ epoch:46*****************
+DEBUG:root:Epoch: 46 learning rate:4.8828125e-07ELBO: -458.9057
+DEBUG:root:Epoch: 46 learning rate:4.8828125e-07ELBO: -1802.3436
+DEBUG:root:Epoch: 46 learning rate:4.8828125e-07ELBO: -3586.4482
+DEBUG:root:Epoch: 46 learning rate:4.8828125e-07ELBO: -872.1551
+DEBUG:root:Epoch: 46 learning rate:4.8828125e-07ELBO: -684.3325
+DEBUG:root:Epoch: 46 learning rate:4.8828125e-07ELBO: -527.1898
+DEBUG:root:Epoch: 46 learning rate:4.8828125e-07ELBO: -721.3706
+DEBUG:root:Epoch: 46 learning rate:4.8828125e-07ELBO: -390.85416
+DEBUG:root:Epoch: 46 learning rate:4.8828125e-07ELBO: -1162.6525
+DEBUG:root:Epoch: 46 learning rate:4.8828125e-07ELBO: -394.42108
+DEBUG:root:Epoch: 46 learning rate:4.8828125e-07ELBO: -3379.9775
+DEBUG:root:Epoch: 46 learning rate:4.8828125e-07ELBO: -1600.8142
+DEBUG:root:Epoch: 46 learning rate:4.8828125e-07ELBO: -1307.6682
+DEBUG:root:Epoch: 46 learning rate:4.8828125e-07ELBO: -778.6311
+DEBUG:root:Epoch: 46 learning rate:4.8828125e-07ELBO: -213.11002
+DEBUG:root:Epoch: 46 learning rate:4.8828125e-07ELBO: -1655.4297
+DEBUG:root:Epoch: 46 learning rate:4.8828125e-07ELBO: -525.1695
+DEBUG:root:Epoch: 46 learning rate:4.8828125e-07ELBO: -490.38834
+DEBUG:root:Epoch: 46completed
+DEBUG:root:************************ epoch:47*****************
+DEBUG:root:Epoch: 47 learning rate:2.44140625e-07ELBO: -344.4845
+DEBUG:root:Epoch: 47 learning rate:2.44140625e-07ELBO: -2634.8867
+DEBUG:root:Epoch: 47 learning rate:2.44140625e-07ELBO: -351.79266
+DEBUG:root:Epoch: 47 learning rate:2.44140625e-07ELBO: -1172.921
+DEBUG:root:Epoch: 47 learning rate:2.44140625e-07ELBO: -463.5932
+DEBUG:root:Epoch: 47 learning rate:2.44140625e-07ELBO: -689.0395
+DEBUG:root:Epoch: 47 learning rate:2.44140625e-07ELBO: -53.584114
+DEBUG:root:Epoch: 47 learning rate:2.44140625e-07ELBO: -153.33841
+DEBUG:root:Epoch: 47 learning rate:2.44140625e-07ELBO: -619.96625
+DEBUG:root:Epoch: 47 learning rate:2.44140625e-07ELBO: -648.2821
+DEBUG:root:Epoch: 47 learning rate:2.44140625e-07ELBO: -541.9315
+DEBUG:root:Epoch: 47 learning rate:2.44140625e-07ELBO: -4837.2256
+DEBUG:root:Epoch: 47 learning rate:2.44140625e-07ELBO: -3855.8167
+DEBUG:root:Epoch: 47 learning rate:2.44140625e-07ELBO: -127.13396
+DEBUG:root:Epoch: 47 learning rate:2.44140625e-07ELBO: -509.73004
+DEBUG:root:Epoch: 47 learning rate:2.44140625e-07ELBO: -123.13808
+DEBUG:root:Epoch: 47 learning rate:2.44140625e-07ELBO: -785.5259
+DEBUG:root:Epoch: 47 learning rate:2.44140625e-07ELBO: -89.250534
+DEBUG:root:Epoch: 47 learning rate:2.44140625e-07ELBO: -521.9469
+DEBUG:root:Epoch: 47 learning rate:2.44140625e-07ELBO: -81.090355
+DEBUG:root:Epoch: 47 learning rate:2.44140625e-07ELBO: -288.7396
+DEBUG:root:Epoch: 47completed
+DEBUG:root:************************ epoch:48*****************
+DEBUG:root:Epoch: 48 learning rate:2.44140625e-07ELBO: -79.75627
+DEBUG:root:Epoch: 48 learning rate:2.44140625e-07ELBO: -196.45538
+DEBUG:root:Epoch: 48 learning rate:2.44140625e-07ELBO: -4235.6475
+DEBUG:root:Epoch: 48 learning rate:2.44140625e-07ELBO: -4124.327
+DEBUG:root:Epoch: 48 learning rate:2.44140625e-07ELBO: -510.25436
+DEBUG:root:Epoch: 48 learning rate:2.44140625e-07ELBO: -3890.4734
+DEBUG:root:Epoch: 48 learning rate:2.44140625e-07ELBO: -733.3048
+DEBUG:root:Epoch: 48 learning rate:2.44140625e-07ELBO: -1656.5575
+DEBUG:root:Epoch: 48 learning rate:2.44140625e-07ELBO: -430.8964
+DEBUG:root:Epoch: 48 learning rate:2.44140625e-07ELBO: -144.76863
+DEBUG:root:Epoch: 48 learning rate:2.44140625e-07ELBO: -325.69867
+DEBUG:root:Epoch: 48 learning rate:2.44140625e-07ELBO: -170.35513
+DEBUG:root:Epoch: 48 learning rate:2.44140625e-07ELBO: -704.0177
+DEBUG:root:Epoch: 48 learning rate:2.44140625e-07ELBO: -244.98174
+DEBUG:root:Epoch: 48 learning rate:2.44140625e-07ELBO: -154.88737
+DEBUG:root:Epoch: 48completed
+DEBUG:root:************************ epoch:49*****************
+DEBUG:root:Epoch: 49 learning rate:2.44140625e-07ELBO: -511.62427
+DEBUG:root:Epoch: 49 learning rate:2.44140625e-07ELBO: -454.9116
+DEBUG:root:Epoch: 49 learning rate:2.44140625e-07ELBO: -244.11925
+DEBUG:root:Epoch: 49 learning rate:2.44140625e-07ELBO: -767.9409
+DEBUG:root:Epoch: 49 learning rate:2.44140625e-07ELBO: -1197.525
+DEBUG:root:Epoch: 49 learning rate:2.44140625e-07ELBO: -649.829
+DEBUG:root:Epoch: 49 learning rate:2.44140625e-07ELBO: -3375.9292
+DEBUG:root:Epoch: 49 learning rate:2.44140625e-07ELBO: -482.61652
+DEBUG:root:Epoch: 49 learning rate:2.44140625e-07ELBO: -393.9989
+DEBUG:root:Epoch: 49 learning rate:2.44140625e-07ELBO: -1342.179
+DEBUG:root:Epoch: 49 learning rate:2.44140625e-07ELBO: -40.905746
+DEBUG:root:Epoch: 49 learning rate:2.44140625e-07ELBO: -304.3581
+DEBUG:root:Epoch: 49 learning rate:2.44140625e-07ELBO: -599.52844
+DEBUG:root:Epoch: 49 learning rate:2.44140625e-07ELBO: -1226.0565
+DEBUG:root:Epoch: 49 learning rate:2.44140625e-07ELBO: -3820.9233
+DEBUG:root:Epoch: 49 learning rate:2.44140625e-07ELBO: -234.72112
+DEBUG:root:Epoch: 49 learning rate:2.44140625e-07ELBO: -91.76633
+DEBUG:root:Epoch: 49 learning rate:2.44140625e-07ELBO: -53.36821
+DEBUG:root:Epoch: 49 learning rate:2.44140625e-07ELBO: -249.92535
+DEBUG:root:Epoch: 49completed
+DEBUG:root:************************ epoch:50*****************
+DEBUG:root:Epoch: 50 learning rate:2.44140625e-07ELBO: -721.9326
+DEBUG:root:Epoch: 50 learning rate:2.44140625e-07ELBO: -1438.5345
+DEBUG:root:Epoch: 50 learning rate:2.44140625e-07ELBO: -803.1504
+DEBUG:root:Epoch: 50 learning rate:2.44140625e-07ELBO: -1213.4775
+DEBUG:root:Epoch: 50 learning rate:2.44140625e-07ELBO: -593.0993
+DEBUG:root:Epoch: 50 learning rate:2.44140625e-07ELBO: -1375.1411
+DEBUG:root:Epoch: 50 learning rate:2.44140625e-07ELBO: -248.50061
+DEBUG:root:Epoch: 50 learning rate:2.44140625e-07ELBO: -1128.2612
+DEBUG:root:Epoch: 50 learning rate:2.44140625e-07ELBO: -1322.5361
+DEBUG:root:Epoch: 50 learning rate:2.44140625e-07ELBO: -272.01376
+DEBUG:root:Epoch: 50 learning rate:2.44140625e-07ELBO: -3628.6938
+DEBUG:root:Epoch: 50 learning rate:2.44140625e-07ELBO: -958.171
+DEBUG:root:Epoch: 50 learning rate:2.44140625e-07ELBO: -1148.0264
+DEBUG:root:Epoch: 50 learning rate:2.44140625e-07ELBO: -241.0854
+DEBUG:root:Epoch: 50 learning rate:2.44140625e-07ELBO: -449.9966
+DEBUG:root:Epoch: 50 learning rate:2.44140625e-07ELBO: -554.8658
+DEBUG:root:Epoch: 50 learning rate:2.44140625e-07ELBO: -366.69513
+DEBUG:root:Epoch: 50 learning rate:2.44140625e-07ELBO: -585.15735
+DEBUG:root:Epoch: 50completed
+DEBUG:root:Epoch: 50 learning rate:2.44140625e-07ELBO: -839.54004
+DEBUG:root:Completed saving the model
+DEBUG:root:************************ epoch:51*****************
+DEBUG:root:Epoch: 51 learning rate:1.220703125e-07ELBO: -619.5882
+DEBUG:root:Epoch: 51 learning rate:1.220703125e-07ELBO: -129.4124
+DEBUG:root:Epoch: 51 learning rate:1.220703125e-07ELBO: -258.97144
+DEBUG:root:Epoch: 51 learning rate:1.220703125e-07ELBO: -687.032
+DEBUG:root:Epoch: 51 learning rate:1.220703125e-07ELBO: -337.9414
+DEBUG:root:Epoch: 51 learning rate:1.220703125e-07ELBO: -870.5963
+DEBUG:root:Epoch: 51 learning rate:1.220703125e-07ELBO: -293.85782
+DEBUG:root:Epoch: 51 learning rate:1.220703125e-07ELBO: -281.8866
+DEBUG:root:Epoch: 51 learning rate:1.220703125e-07ELBO: -140.78989
+DEBUG:root:Epoch: 51 learning rate:1.220703125e-07ELBO: -1414.6083
+DEBUG:root:Epoch: 51 learning rate:1.220703125e-07ELBO: -531.74786
+DEBUG:root:Epoch: 51 learning rate:1.220703125e-07ELBO: -974.0123
+DEBUG:root:Epoch: 51completed
+DEBUG:root:************************ epoch:52*****************
+DEBUG:root:Epoch: 52 learning rate:1.220703125e-07ELBO: -153.6973
+DEBUG:root:Epoch: 52 learning rate:1.220703125e-07ELBO: -932.9933
+DEBUG:root:Epoch: 52 learning rate:1.220703125e-07ELBO: -64.78383
+DEBUG:root:Epoch: 52 learning rate:1.220703125e-07ELBO: -1056.3259
+DEBUG:root:Epoch: 52 learning rate:1.220703125e-07ELBO: -576.1219
+DEBUG:root:Epoch: 52 learning rate:1.220703125e-07ELBO: -630.5314
+DEBUG:root:Epoch: 52 learning rate:1.220703125e-07ELBO: -672.1572
+DEBUG:root:Epoch: 52 learning rate:1.220703125e-07ELBO: -197.34799
+DEBUG:root:Epoch: 52 learning rate:1.220703125e-07ELBO: -1105.7897
+DEBUG:root:Epoch: 52 learning rate:1.220703125e-07ELBO: -383.15042
+DEBUG:root:Epoch: 52 learning rate:1.220703125e-07ELBO: -527.0939
+DEBUG:root:Epoch: 52 learning rate:1.220703125e-07ELBO: -184.91937
+DEBUG:root:Epoch: 52 learning rate:1.220703125e-07ELBO: -1161.4194
+DEBUG:root:Epoch: 52 learning rate:1.220703125e-07ELBO: -1129.5972
+DEBUG:root:Epoch: 52 learning rate:1.220703125e-07ELBO: -204.90572
+DEBUG:root:Epoch: 52 learning rate:1.220703125e-07ELBO: -150.54086
+DEBUG:root:Epoch: 52 learning rate:1.220703125e-07ELBO: -165.26906
+DEBUG:root:Epoch: 52 learning rate:1.220703125e-07ELBO: -63.212082
+DEBUG:root:Epoch: 52 learning rate:1.220703125e-07ELBO: -1352.8424
+DEBUG:root:Epoch: 52 learning rate:1.220703125e-07ELBO: -153.16856
+DEBUG:root:Epoch: 52 learning rate:1.220703125e-07ELBO: -217.92668
+DEBUG:root:Epoch: 52 learning rate:1.220703125e-07ELBO: -796.74524
+DEBUG:root:Epoch: 52completed
+DEBUG:root:************************ epoch:53*****************
+DEBUG:root:Epoch: 53 learning rate:1.220703125e-07ELBO: -261.75604
+DEBUG:root:Epoch: 53 learning rate:1.220703125e-07ELBO: -1071.7716
+DEBUG:root:Epoch: 53 learning rate:1.220703125e-07ELBO: -817.5619
+DEBUG:root:Epoch: 53 learning rate:1.220703125e-07ELBO: -514.7403
+DEBUG:root:Epoch: 53 learning rate:1.220703125e-07ELBO: -251.87508
+DEBUG:root:Epoch: 53 learning rate:1.220703125e-07ELBO: -4289.1133
+DEBUG:root:Epoch: 53 learning rate:1.220703125e-07ELBO: -668.8951
+DEBUG:root:Epoch: 53 learning rate:1.220703125e-07ELBO: -4030.333
+DEBUG:root:Epoch: 53 learning rate:1.220703125e-07ELBO: -1971.5597
+DEBUG:root:Epoch: 53 learning rate:1.220703125e-07ELBO: -117.510574
+DEBUG:root:Epoch: 53 learning rate:1.220703125e-07ELBO: -296.1532
+DEBUG:root:Epoch: 53 learning rate:1.220703125e-07ELBO: -655.84784
+DEBUG:root:Epoch: 53 learning rate:1.220703125e-07ELBO: -315.79742
+DEBUG:root:Epoch: 53 learning rate:1.220703125e-07ELBO: -505.38312
+DEBUG:root:Epoch: 53 learning rate:1.220703125e-07ELBO: -393.85052
+DEBUG:root:Epoch: 53 learning rate:1.220703125e-07ELBO: -1310.7173
+DEBUG:root:Epoch: 53 learning rate:1.220703125e-07ELBO: -1229.299
+DEBUG:root:Epoch: 53 learning rate:1.220703125e-07ELBO: -617.3463
+DEBUG:root:Epoch: 53 learning rate:1.220703125e-07ELBO: -176.3984
+DEBUG:root:Epoch: 53 learning rate:1.220703125e-07ELBO: -833.18896
+DEBUG:root:Epoch: 53completed
+DEBUG:root:************************ epoch:54*****************
+DEBUG:root:Epoch: 54 learning rate:1.220703125e-07ELBO: -181.65276
+DEBUG:root:Epoch: 54 learning rate:1.220703125e-07ELBO: -873.4388
+DEBUG:root:Epoch: 54 learning rate:1.220703125e-07ELBO: -1837.2838
+DEBUG:root:Epoch: 54 learning rate:1.220703125e-07ELBO: -957.0656
+DEBUG:root:Epoch: 54 learning rate:1.220703125e-07ELBO: -547.4887
+DEBUG:root:Epoch: 54 learning rate:1.220703125e-07ELBO: -778.9519
+DEBUG:root:Epoch: 54 learning rate:1.220703125e-07ELBO: -381.4956
+DEBUG:root:Epoch: 54 learning rate:1.220703125e-07ELBO: -4465.171
+DEBUG:root:Epoch: 54 learning rate:1.220703125e-07ELBO: -609.7043
+DEBUG:root:Epoch: 54 learning rate:1.220703125e-07ELBO: -1106.1608
+DEBUG:root:Epoch: 54 learning rate:1.220703125e-07ELBO: -135.37007
+DEBUG:root:Epoch: 54 learning rate:1.220703125e-07ELBO: -84.10661
+DEBUG:root:Epoch: 54 learning rate:1.220703125e-07ELBO: -73.74631
+DEBUG:root:Epoch: 54 learning rate:1.220703125e-07ELBO: -1986.521
+DEBUG:root:Epoch: 54 learning rate:1.220703125e-07ELBO: -364.7988
+DEBUG:root:Epoch: 54 learning rate:1.220703125e-07ELBO: -238.63419
+DEBUG:root:Epoch: 54 learning rate:1.220703125e-07ELBO: -4316.825
+DEBUG:root:Epoch: 54 learning rate:1.220703125e-07ELBO: -115.96285
+DEBUG:root:Epoch: 54 learning rate:1.220703125e-07ELBO: -349.02948
+DEBUG:root:Epoch: 54 learning rate:1.220703125e-07ELBO: -717.55225
+DEBUG:root:Epoch: 54 learning rate:1.220703125e-07ELBO: -1359.7439
+DEBUG:root:Epoch: 54completed
+DEBUG:root:************************ epoch:55*****************
+DEBUG:root:Epoch: 55 learning rate:6.103515625e-08ELBO: -691.4702
+DEBUG:root:Epoch: 55 learning rate:6.103515625e-08ELBO: -127.45397
+DEBUG:root:Epoch: 55 learning rate:6.103515625e-08ELBO: -666.24664
+DEBUG:root:Epoch: 55 learning rate:6.103515625e-08ELBO: -732.2502
+DEBUG:root:Epoch: 55 learning rate:6.103515625e-08ELBO: -159.39034
+DEBUG:root:Epoch: 55 learning rate:6.103515625e-08ELBO: -4553.3003
+DEBUG:root:Epoch: 55 learning rate:6.103515625e-08ELBO: -526.2292
+DEBUG:root:Epoch: 55 learning rate:6.103515625e-08ELBO: -374.6813
+DEBUG:root:Epoch: 55 learning rate:6.103515625e-08ELBO: -154.48218
+DEBUG:root:Epoch: 55 learning rate:6.103515625e-08ELBO: -1223.4082
+DEBUG:root:Epoch: 55 learning rate:6.103515625e-08ELBO: -1145.2119
+DEBUG:root:Epoch: 55 learning rate:6.103515625e-08ELBO: -100.343414
+DEBUG:root:Epoch: 55 learning rate:6.103515625e-08ELBO: -3840.6855
+DEBUG:root:Epoch: 55 learning rate:6.103515625e-08ELBO: -783.86566
+DEBUG:root:Epoch: 55 learning rate:6.103515625e-08ELBO: -299.64594
+DEBUG:root:Epoch: 55 learning rate:6.103515625e-08ELBO: -114.84427
+DEBUG:root:Epoch: 55 learning rate:6.103515625e-08ELBO: -1105.0381
+DEBUG:root:Epoch: 55 learning rate:6.103515625e-08ELBO: -542.1782
+DEBUG:root:Epoch: 55 learning rate:6.103515625e-08ELBO: -3540.9111
+DEBUG:root:Epoch: 55 learning rate:6.103515625e-08ELBO: -1241.2242
+DEBUG:root:Epoch: 55 learning rate:6.103515625e-08ELBO: -315.9122
+DEBUG:root:Epoch: 55 learning rate:6.103515625e-08ELBO: -119.40387
+DEBUG:root:Epoch: 55 learning rate:6.103515625e-08ELBO: -3836.524
+DEBUG:root:Epoch: 55completed
+DEBUG:root:************************ epoch:56*****************
+DEBUG:root:Epoch: 56 learning rate:6.103515625e-08ELBO: -875.4026
+DEBUG:root:Epoch: 56 learning rate:6.103515625e-08ELBO: -1509.7094
+DEBUG:root:Epoch: 56 learning rate:6.103515625e-08ELBO: -318.84692
+DEBUG:root:Epoch: 56 learning rate:6.103515625e-08ELBO: -61.427322
+DEBUG:root:Epoch: 56 learning rate:6.103515625e-08ELBO: -437.5228
+DEBUG:root:Epoch: 56 learning rate:6.103515625e-08ELBO: -379.15552
+DEBUG:root:Epoch: 56 learning rate:6.103515625e-08ELBO: -443.19916
+DEBUG:root:Epoch: 56 learning rate:6.103515625e-08ELBO: -262.30002
+DEBUG:root:Epoch: 56 learning rate:6.103515625e-08ELBO: -103.10789
+DEBUG:root:Epoch: 56 learning rate:6.103515625e-08ELBO: -734.85223
+DEBUG:root:Epoch: 56 learning rate:6.103515625e-08ELBO: -744.011
+DEBUG:root:Epoch: 56 learning rate:6.103515625e-08ELBO: -570.48126
+DEBUG:root:Epoch: 56 learning rate:6.103515625e-08ELBO: -464.2083
+DEBUG:root:Epoch: 56 learning rate:6.103515625e-08ELBO: -1044.0045
+DEBUG:root:Epoch: 56 learning rate:6.103515625e-08ELBO: -513.78735
+DEBUG:root:Epoch: 56 learning rate:6.103515625e-08ELBO: -1181.8888
+DEBUG:root:Epoch: 56 learning rate:6.103515625e-08ELBO: -798.58746
+DEBUG:root:Epoch: 56 learning rate:6.103515625e-08ELBO: -476.32938
+DEBUG:root:Epoch: 56 learning rate:6.103515625e-08ELBO: -3246.6956
+DEBUG:root:Epoch: 56 learning rate:6.103515625e-08ELBO: -347.69644
+DEBUG:root:Epoch: 56 learning rate:6.103515625e-08ELBO: -187.01213
+DEBUG:root:Epoch: 56 learning rate:6.103515625e-08ELBO: -235.97806
+DEBUG:root:Epoch: 56 learning rate:6.103515625e-08ELBO: -1044.565
+DEBUG:root:Epoch: 56 learning rate:6.103515625e-08ELBO: -1196.9552
+DEBUG:root:Epoch: 56completed
+DEBUG:root:************************ epoch:57*****************
+DEBUG:root:Epoch: 57 learning rate:6.103515625e-08ELBO: -314.68753
+DEBUG:root:Epoch: 57 learning rate:6.103515625e-08ELBO: -295.69452
+DEBUG:root:Epoch: 57 learning rate:6.103515625e-08ELBO: -750.6101
+DEBUG:root:Epoch: 57 learning rate:6.103515625e-08ELBO: -2557.2002
+DEBUG:root:Epoch: 57 learning rate:6.103515625e-08ELBO: -1189.8658
+DEBUG:root:Epoch: 57 learning rate:6.103515625e-08ELBO: -874.8882
+DEBUG:root:Epoch: 57 learning rate:6.103515625e-08ELBO: -512.592
+DEBUG:root:Epoch: 57 learning rate:6.103515625e-08ELBO: -117.35193
+DEBUG:root:Epoch: 57 learning rate:6.103515625e-08ELBO: -594.7073
+DEBUG:root:Epoch: 57 learning rate:6.103515625e-08ELBO: -354.25696
+DEBUG:root:Epoch: 57 learning rate:6.103515625e-08ELBO: -160.71585
+DEBUG:root:Epoch: 57 learning rate:6.103515625e-08ELBO: -264.82306
+DEBUG:root:Epoch: 57 learning rate:6.103515625e-08ELBO: -1689.3737
+DEBUG:root:Epoch: 57 learning rate:6.103515625e-08ELBO: -722.5489
+DEBUG:root:Epoch: 57 learning rate:6.103515625e-08ELBO: -848.10297
+DEBUG:root:Epoch: 57 learning rate:6.103515625e-08ELBO: -582.9647
+DEBUG:root:Epoch: 57 learning rate:6.103515625e-08ELBO: -721.15424
+DEBUG:root:Epoch: 57 learning rate:6.103515625e-08ELBO: -1637.8081
+DEBUG:root:Epoch: 57 learning rate:6.103515625e-08ELBO: -453.43713
+DEBUG:root:Epoch: 57 learning rate:6.103515625e-08ELBO: -1020.67053
+DEBUG:root:Epoch: 57 learning rate:6.103515625e-08ELBO: -338.99445
+DEBUG:root:Epoch: 57completed
+DEBUG:root:************************ epoch:58*****************
+DEBUG:root:Epoch: 58 learning rate:6.103515625e-08ELBO: -230.22256
+DEBUG:root:Epoch: 58 learning rate:6.103515625e-08ELBO: -854.97736
+DEBUG:root:Epoch: 58 learning rate:6.103515625e-08ELBO: -741.3158
+DEBUG:root:Epoch: 58 learning rate:6.103515625e-08ELBO: -3588.2898
+DEBUG:root:Epoch: 58 learning rate:6.103515625e-08ELBO: -298.88098
+DEBUG:root:Epoch: 58 learning rate:6.103515625e-08ELBO: -1050.6376
+DEBUG:root:Epoch: 58 learning rate:6.103515625e-08ELBO: -459.12982
+DEBUG:root:Epoch: 58 learning rate:6.103515625e-08ELBO: -725.0833
+DEBUG:root:Epoch: 58 learning rate:6.103515625e-08ELBO: -1283.8776
+DEBUG:root:Epoch: 58 learning rate:6.103515625e-08ELBO: -280.26904
+DEBUG:root:Epoch: 58 learning rate:6.103515625e-08ELBO: -608.25305
+DEBUG:root:Epoch: 58 learning rate:6.103515625e-08ELBO: -435.20248
+DEBUG:root:Epoch: 58 learning rate:6.103515625e-08ELBO: -640.8507
+DEBUG:root:Epoch: 58 learning rate:6.103515625e-08ELBO: -2717.9814
+DEBUG:root:Epoch: 58 learning rate:6.103515625e-08ELBO: -226.50743
+DEBUG:root:Epoch: 58 learning rate:6.103515625e-08ELBO: -263.8163
+DEBUG:root:Epoch: 58 learning rate:6.103515625e-08ELBO: -78.62001
+DEBUG:root:Epoch: 58 learning rate:6.103515625e-08ELBO: -692.2851
+DEBUG:root:Epoch: 58 learning rate:6.103515625e-08ELBO: -1686.295
+DEBUG:root:Epoch: 58 learning rate:6.103515625e-08ELBO: -278.1535
+DEBUG:root:Epoch: 58completed
+DEBUG:root:************************ epoch:59*****************
+DEBUG:root:Epoch: 59 learning rate:3.0517578125e-08ELBO: -638.7282
+DEBUG:root:Epoch: 59 learning rate:3.0517578125e-08ELBO: -492.31647
+DEBUG:root:Epoch: 59 learning rate:3.0517578125e-08ELBO: -73.541626
+DEBUG:root:Epoch: 59 learning rate:3.0517578125e-08ELBO: -153.00917
+DEBUG:root:Epoch: 59 learning rate:3.0517578125e-08ELBO: -1285.0946
+DEBUG:root:Epoch: 59 learning rate:3.0517578125e-08ELBO: -494.694
+DEBUG:root:Epoch: 59 learning rate:3.0517578125e-08ELBO: -626.45325
+DEBUG:root:Epoch: 59 learning rate:3.0517578125e-08ELBO: -643.88983
+DEBUG:root:Epoch: 59 learning rate:3.0517578125e-08ELBO: -126.70355
+DEBUG:root:Epoch: 59 learning rate:3.0517578125e-08ELBO: -1378.5768
+DEBUG:root:Epoch: 59 learning rate:3.0517578125e-08ELBO: -57.0561
+DEBUG:root:Epoch: 59 learning rate:3.0517578125e-08ELBO: -1152.7502
+DEBUG:root:Epoch: 59 learning rate:3.0517578125e-08ELBO: -214.14835
+DEBUG:root:Epoch: 59 learning rate:3.0517578125e-08ELBO: -1161.0063
+DEBUG:root:Epoch: 59completed
+DEBUG:root:************************ epoch:60*****************
+DEBUG:root:Epoch: 60 learning rate:3.0517578125e-08ELBO: -364.6016
+DEBUG:root:Epoch: 60 learning rate:3.0517578125e-08ELBO: -918.6356
+DEBUG:root:Epoch: 60 learning rate:3.0517578125e-08ELBO: -622.66406
+DEBUG:root:Epoch: 60 learning rate:3.0517578125e-08ELBO: -569.7444
+DEBUG:root:Epoch: 60 learning rate:3.0517578125e-08ELBO: -607.3462
+DEBUG:root:Epoch: 60 learning rate:3.0517578125e-08ELBO: -244.39804
+DEBUG:root:Epoch: 60 learning rate:3.0517578125e-08ELBO: -925.18225
+DEBUG:root:Epoch: 60 learning rate:3.0517578125e-08ELBO: -3237.6958
+DEBUG:root:Epoch: 60 learning rate:3.0517578125e-08ELBO: -467.43866
+DEBUG:root:Epoch: 60 learning rate:3.0517578125e-08ELBO: -146.94234
+DEBUG:root:Epoch: 60 learning rate:3.0517578125e-08ELBO: -448.27902
+DEBUG:root:Epoch: 60 learning rate:3.0517578125e-08ELBO: -469.92578
+DEBUG:root:Epoch: 60 learning rate:3.0517578125e-08ELBO: -388.63535
+DEBUG:root:Epoch: 60 learning rate:3.0517578125e-08ELBO: -268.2788
+DEBUG:root:Epoch: 60 learning rate:3.0517578125e-08ELBO: -4488.1
+DEBUG:root:Epoch: 60 learning rate:3.0517578125e-08ELBO: -124.572815
+DEBUG:root:Epoch: 60 learning rate:3.0517578125e-08ELBO: -510.8912
+DEBUG:root:Epoch: 60 learning rate:3.0517578125e-08ELBO: -5305.1167
+DEBUG:root:Epoch: 60 learning rate:3.0517578125e-08ELBO: -2180.5986
+DEBUG:root:Epoch: 60completed
+DEBUG:root:Epoch: 60 learning rate:3.0517578125e-08ELBO: -1316.9336
+DEBUG:root:Completed saving the model
+DEBUG:root:************************ epoch:61*****************
+DEBUG:root:Epoch: 61 learning rate:3.0517578125e-08ELBO: -587.6454
+DEBUG:root:Epoch: 61 learning rate:3.0517578125e-08ELBO: -189.57953
+DEBUG:root:Epoch: 61 learning rate:3.0517578125e-08ELBO: -607.4126
+DEBUG:root:Epoch: 61 learning rate:3.0517578125e-08ELBO: -1058.526
+DEBUG:root:Epoch: 61 learning rate:3.0517578125e-08ELBO: -207.45845
+DEBUG:root:Epoch: 61 learning rate:3.0517578125e-08ELBO: -1301.3193
+DEBUG:root:Epoch: 61 learning rate:3.0517578125e-08ELBO: -130.39328
+DEBUG:root:Epoch: 61 learning rate:3.0517578125e-08ELBO: -173.32915
+DEBUG:root:Epoch: 61 learning rate:3.0517578125e-08ELBO: -777.07104
+DEBUG:root:Epoch: 61 learning rate:3.0517578125e-08ELBO: -710.0514
+DEBUG:root:Epoch: 61 learning rate:3.0517578125e-08ELBO: -166.06836
+DEBUG:root:Epoch: 61 learning rate:3.0517578125e-08ELBO: -282.7742
+DEBUG:root:Epoch: 61 learning rate:3.0517578125e-08ELBO: -299.89157
+DEBUG:root:Epoch: 61 learning rate:3.0517578125e-08ELBO: -411.92682
+DEBUG:root:Epoch: 61 learning rate:3.0517578125e-08ELBO: -657.9735
+DEBUG:root:Epoch: 61 learning rate:3.0517578125e-08ELBO: -1024.9823
+DEBUG:root:Epoch: 61 learning rate:3.0517578125e-08ELBO: -59.530903
+DEBUG:root:Epoch: 61 learning rate:3.0517578125e-08ELBO: -192.43129
+DEBUG:root:Epoch: 61 learning rate:3.0517578125e-08ELBO: -3573.5767
+DEBUG:root:Epoch: 61 learning rate:3.0517578125e-08ELBO: -3669.7292
+DEBUG:root:Epoch: 61completed
+DEBUG:root:************************ epoch:62*****************
+DEBUG:root:Epoch: 62 learning rate:3.0517578125e-08ELBO: -178.80435
+DEBUG:root:Epoch: 62 learning rate:3.0517578125e-08ELBO: -304.56775
+DEBUG:root:Epoch: 62 learning rate:3.0517578125e-08ELBO: -718.6959
+DEBUG:root:Epoch: 62 learning rate:3.0517578125e-08ELBO: -1839.6223
+DEBUG:root:Epoch: 62 learning rate:3.0517578125e-08ELBO: -4024.8303
+DEBUG:root:Epoch: 62 learning rate:3.0517578125e-08ELBO: -1547.0897
+DEBUG:root:Epoch: 62 learning rate:3.0517578125e-08ELBO: -772.70776
+DEBUG:root:Epoch: 62 learning rate:3.0517578125e-08ELBO: -4020.2546
+DEBUG:root:Epoch: 62 learning rate:3.0517578125e-08ELBO: -497.1062
+DEBUG:root:Epoch: 62 learning rate:3.0517578125e-08ELBO: -582.3249
+DEBUG:root:Epoch: 62 learning rate:3.0517578125e-08ELBO: -148.81677
+DEBUG:root:Epoch: 62 learning rate:3.0517578125e-08ELBO: -511.8015
+DEBUG:root:Epoch: 62 learning rate:3.0517578125e-08ELBO: -72.85791
+DEBUG:root:Epoch: 62 learning rate:3.0517578125e-08ELBO: -1158.9294
+DEBUG:root:Epoch: 62 learning rate:3.0517578125e-08ELBO: -898.01355
+DEBUG:root:Epoch: 62 learning rate:3.0517578125e-08ELBO: -984.57385
+DEBUG:root:Epoch: 62 learning rate:3.0517578125e-08ELBO: -53.360764
+DEBUG:root:Epoch: 62 learning rate:3.0517578125e-08ELBO: -5546.6816
+DEBUG:root:Epoch: 62 learning rate:3.0517578125e-08ELBO: -369.62222
+DEBUG:root:Epoch: 62 learning rate:3.0517578125e-08ELBO: -121.82159
+DEBUG:root:Epoch: 62 learning rate:3.0517578125e-08ELBO: -60.64324
+DEBUG:root:Epoch: 62 learning rate:3.0517578125e-08ELBO: -2811.515
+DEBUG:root:Epoch: 62 learning rate:3.0517578125e-08ELBO: -1240.2614
+DEBUG:root:Epoch: 62completed
+DEBUG:root:************************ epoch:63*****************
+DEBUG:root:Epoch: 63 learning rate:1.52587890625e-08ELBO: -281.33035
+DEBUG:root:Epoch: 63 learning rate:1.52587890625e-08ELBO: -3001.342
+DEBUG:root:Epoch: 63 learning rate:1.52587890625e-08ELBO: -115.378975
+DEBUG:root:Epoch: 63 learning rate:1.52587890625e-08ELBO: -1353.315
+DEBUG:root:Epoch: 63 learning rate:1.52587890625e-08ELBO: -422.3752
+DEBUG:root:Epoch: 63 learning rate:1.52587890625e-08ELBO: -3084.3608
+DEBUG:root:Epoch: 63 learning rate:1.52587890625e-08ELBO: -395.61536
+DEBUG:root:Epoch: 63 learning rate:1.52587890625e-08ELBO: -300.5129
+DEBUG:root:Epoch: 63 learning rate:1.52587890625e-08ELBO: -1102.9456
+DEBUG:root:Epoch: 63 learning rate:1.52587890625e-08ELBO: -248.99825
+DEBUG:root:Epoch: 63 learning rate:1.52587890625e-08ELBO: -258.89774
+DEBUG:root:Epoch: 63 learning rate:1.52587890625e-08ELBO: -47.001083
+DEBUG:root:Epoch: 63 learning rate:1.52587890625e-08ELBO: -759.2143
+DEBUG:root:Epoch: 63 learning rate:1.52587890625e-08ELBO: -704.24896
+DEBUG:root:Epoch: 63 learning rate:1.52587890625e-08ELBO: -146.11426
+DEBUG:root:Epoch: 63 learning rate:1.52587890625e-08ELBO: -164.43713
+DEBUG:root:Epoch: 63 learning rate:1.52587890625e-08ELBO: -996.7757
+DEBUG:root:Epoch: 63 learning rate:1.52587890625e-08ELBO: -309.796
+DEBUG:root:Epoch: 63 learning rate:1.52587890625e-08ELBO: -798.071
+DEBUG:root:Epoch: 63 learning rate:1.52587890625e-08ELBO: -491.66547
+DEBUG:root:Epoch: 63 learning rate:1.52587890625e-08ELBO: -64.72305
+DEBUG:root:Epoch: 63 learning rate:1.52587890625e-08ELBO: -436.30927
+DEBUG:root:Epoch: 63 learning rate:1.52587890625e-08ELBO: -1631.851
+DEBUG:root:Epoch: 63completed
+DEBUG:root:************************ epoch:64*****************
+DEBUG:root:Epoch: 64 learning rate:1.52587890625e-08ELBO: -835.7759
+DEBUG:root:Epoch: 64 learning rate:1.52587890625e-08ELBO: -696.7275
+DEBUG:root:Epoch: 64 learning rate:1.52587890625e-08ELBO: -656.33276
+DEBUG:root:Epoch: 64 learning rate:1.52587890625e-08ELBO: -1564.4596
+DEBUG:root:Epoch: 64 learning rate:1.52587890625e-08ELBO: -415.0739
+DEBUG:root:Epoch: 64 learning rate:1.52587890625e-08ELBO: -113.79533
+DEBUG:root:Epoch: 64 learning rate:1.52587890625e-08ELBO: -166.59169
+DEBUG:root:Epoch: 64 learning rate:1.52587890625e-08ELBO: -4557.565
+DEBUG:root:Epoch: 64 learning rate:1.52587890625e-08ELBO: -620.63354
+DEBUG:root:Epoch: 64 learning rate:1.52587890625e-08ELBO: -154.15753
+DEBUG:root:Epoch: 64 learning rate:1.52587890625e-08ELBO: -2201.1387
+DEBUG:root:Epoch: 64 learning rate:1.52587890625e-08ELBO: -125.232864
+DEBUG:root:Epoch: 64 learning rate:1.52587890625e-08ELBO: -657.5834
+DEBUG:root:Epoch: 64 learning rate:1.52587890625e-08ELBO: -928.92523
+DEBUG:root:Epoch: 64 learning rate:1.52587890625e-08ELBO: -1446.1438
+DEBUG:root:Epoch: 64 learning rate:1.52587890625e-08ELBO: -698.5977
+DEBUG:root:Epoch: 64 learning rate:1.52587890625e-08ELBO: -1293.4247
+DEBUG:root:Epoch: 64 learning rate:1.52587890625e-08ELBO: -146.22643
+DEBUG:root:Epoch: 64completed
+DEBUG:root:************************ epoch:65*****************
+DEBUG:root:Epoch: 65 learning rate:1.52587890625e-08ELBO: -418.49408
+DEBUG:root:Epoch: 65 learning rate:1.52587890625e-08ELBO: -312.1912
+DEBUG:root:Epoch: 65 learning rate:1.52587890625e-08ELBO: -917.44727
+DEBUG:root:Epoch: 65 learning rate:1.52587890625e-08ELBO: -78.72486
+DEBUG:root:Epoch: 65 learning rate:1.52587890625e-08ELBO: -943.82007
+DEBUG:root:Epoch: 65 learning rate:1.52587890625e-08ELBO: -641.23157
+DEBUG:root:Epoch: 65 learning rate:1.52587890625e-08ELBO: -159.7034
+DEBUG:root:Epoch: 65 learning rate:1.52587890625e-08ELBO: -647.98224
+DEBUG:root:Epoch: 65 learning rate:1.52587890625e-08ELBO: -753.9745
+DEBUG:root:Epoch: 65 learning rate:1.52587890625e-08ELBO: -124.383675
+DEBUG:root:Epoch: 65 learning rate:1.52587890625e-08ELBO: -3937.8752
+DEBUG:root:Epoch: 65 learning rate:1.52587890625e-08ELBO: -488.15787
+DEBUG:root:Epoch: 65 learning rate:1.52587890625e-08ELBO: -189.87578
+DEBUG:root:Epoch: 65 learning rate:1.52587890625e-08ELBO: -5033.551
+DEBUG:root:Epoch: 65 learning rate:1.52587890625e-08ELBO: -592.14746
+DEBUG:root:Epoch: 65 learning rate:1.52587890625e-08ELBO: -195.33302
+DEBUG:root:Epoch: 65 learning rate:1.52587890625e-08ELBO: -870.6159
+DEBUG:root:Epoch: 65 learning rate:1.52587890625e-08ELBO: -601.9226
+DEBUG:root:Epoch: 65 learning rate:1.52587890625e-08ELBO: -1438.0255
+DEBUG:root:Epoch: 65 learning rate:1.52587890625e-08ELBO: -88.55528
+DEBUG:root:Epoch: 65completed
+DEBUG:root:************************ epoch:66*****************
+DEBUG:root:Epoch: 66 learning rate:1.52587890625e-08ELBO: -307.10266
+DEBUG:root:Epoch: 66 learning rate:1.52587890625e-08ELBO: -170.67184
+DEBUG:root:Epoch: 66 learning rate:1.52587890625e-08ELBO: -238.67848
+DEBUG:root:Epoch: 66 learning rate:1.52587890625e-08ELBO: -521.4908
+DEBUG:root:Epoch: 66 learning rate:1.52587890625e-08ELBO: -235.0516
+DEBUG:root:Epoch: 66 learning rate:1.52587890625e-08ELBO: -814.0315
+DEBUG:root:Epoch: 66 learning rate:1.52587890625e-08ELBO: -318.29272
+DEBUG:root:Epoch: 66 learning rate:1.52587890625e-08ELBO: -1486.5203
+DEBUG:root:Epoch: 66 learning rate:1.52587890625e-08ELBO: -137.80728
+DEBUG:root:Epoch: 66 learning rate:1.52587890625e-08ELBO: -494.80322
+DEBUG:root:Epoch: 66 learning rate:1.52587890625e-08ELBO: -436.14807
+DEBUG:root:Epoch: 66 learning rate:1.52587890625e-08ELBO: -658.0601
+DEBUG:root:Epoch: 66 learning rate:1.52587890625e-08ELBO: -1327.2372
+DEBUG:root:Epoch: 66 learning rate:1.52587890625e-08ELBO: -1363.9731
+DEBUG:root:Epoch: 66 learning rate:1.52587890625e-08ELBO: -367.99045
+DEBUG:root:Epoch: 66completed
+DEBUG:root:************************ epoch:67*****************
+DEBUG:root:Epoch: 67 learning rate:7.62939453125e-09ELBO: -205.48026
+DEBUG:root:Epoch: 67 learning rate:7.62939453125e-09ELBO: -1505.557
+DEBUG:root:Epoch: 67 learning rate:7.62939453125e-09ELBO: -190.2182
+DEBUG:root:Epoch: 67 learning rate:7.62939453125e-09ELBO: -1065.3873
+DEBUG:root:Epoch: 67 learning rate:7.62939453125e-09ELBO: -3945.374
+DEBUG:root:Epoch: 67 learning rate:7.62939453125e-09ELBO: -99.24163
+DEBUG:root:Epoch: 67 learning rate:7.62939453125e-09ELBO: -2946.7947
+DEBUG:root:Epoch: 67 learning rate:7.62939453125e-09ELBO: -473.74036
+DEBUG:root:Epoch: 67 learning rate:7.62939453125e-09ELBO: -4791.9653
+DEBUG:root:Epoch: 67 learning rate:7.62939453125e-09ELBO: -317.1156
+DEBUG:root:Epoch: 67 learning rate:7.62939453125e-09ELBO: -313.49686
+DEBUG:root:Epoch: 67 learning rate:7.62939453125e-09ELBO: -252.78021
+DEBUG:root:Epoch: 67 learning rate:7.62939453125e-09ELBO: -438.18716
+DEBUG:root:Epoch: 67 learning rate:7.62939453125e-09ELBO: -1446.9297
+DEBUG:root:Epoch: 67 learning rate:7.62939453125e-09ELBO: -686.92975
+DEBUG:root:Epoch: 67 learning rate:7.62939453125e-09ELBO: -1493.0238
+DEBUG:root:Epoch: 67 learning rate:7.62939453125e-09ELBO: -276.6013
+DEBUG:root:Epoch: 67 learning rate:7.62939453125e-09ELBO: -696.2487
+DEBUG:root:Epoch: 67 learning rate:7.62939453125e-09ELBO: -2147.392
+DEBUG:root:Epoch: 67 learning rate:7.62939453125e-09ELBO: -951.58563
+DEBUG:root:Epoch: 67completed
+DEBUG:root:************************ epoch:68*****************
+DEBUG:root:Epoch: 68 learning rate:7.62939453125e-09ELBO: -51.25048
+DEBUG:root:Epoch: 68 learning rate:7.62939453125e-09ELBO: -860.76434
+DEBUG:root:Epoch: 68 learning rate:7.62939453125e-09ELBO: -173.35141
+DEBUG:root:Epoch: 68 learning rate:7.62939453125e-09ELBO: -3537.9854
+DEBUG:root:Epoch: 68 learning rate:7.62939453125e-09ELBO: -63.00945
+DEBUG:root:Epoch: 68 learning rate:7.62939453125e-09ELBO: -443.53812
+DEBUG:root:Epoch: 68 learning rate:7.62939453125e-09ELBO: -1307.2349
+DEBUG:root:Epoch: 68 learning rate:7.62939453125e-09ELBO: -147.95856
+DEBUG:root:Epoch: 68 learning rate:7.62939453125e-09ELBO: -59.70131
+DEBUG:root:Epoch: 68 learning rate:7.62939453125e-09ELBO: -376.12762
+DEBUG:root:Epoch: 68 learning rate:7.62939453125e-09ELBO: -1354.6295
+DEBUG:root:Epoch: 68 learning rate:7.62939453125e-09ELBO: -3242.7327
+DEBUG:root:Epoch: 68 learning rate:7.62939453125e-09ELBO: -3494.729
+DEBUG:root:Epoch: 68 learning rate:7.62939453125e-09ELBO: -731.15753
+DEBUG:root:Epoch: 68 learning rate:7.62939453125e-09ELBO: -573.75757
+DEBUG:root:Epoch: 68 learning rate:7.62939453125e-09ELBO: -669.12585
+DEBUG:root:Epoch: 68 learning rate:7.62939453125e-09ELBO: -725.5614
+DEBUG:root:Epoch: 68 learning rate:7.62939453125e-09ELBO: -59.67593
+DEBUG:root:Epoch: 68 learning rate:7.62939453125e-09ELBO: -653.08514
+DEBUG:root:Epoch: 68 learning rate:7.62939453125e-09ELBO: -173.11534
+DEBUG:root:Epoch: 68 learning rate:7.62939453125e-09ELBO: -449.96796
+DEBUG:root:Epoch: 68 learning rate:7.62939453125e-09ELBO: -471.40338
+DEBUG:root:Epoch: 68completed
+DEBUG:root:************************ epoch:69*****************
+DEBUG:root:Epoch: 69 learning rate:7.62939453125e-09ELBO: -955.00415
+DEBUG:root:Epoch: 69 learning rate:7.62939453125e-09ELBO: -1352.0867
+DEBUG:root:Epoch: 69 learning rate:7.62939453125e-09ELBO: -1509.5764
+DEBUG:root:Epoch: 69 learning rate:7.62939453125e-09ELBO: -134.32355
+DEBUG:root:Epoch: 69 learning rate:7.62939453125e-09ELBO: -1187.6041
+DEBUG:root:Epoch: 69 learning rate:7.62939453125e-09ELBO: -65.21538
+DEBUG:root:Epoch: 69 learning rate:7.62939453125e-09ELBO: -407.64462
+DEBUG:root:Epoch: 69 learning rate:7.62939453125e-09ELBO: -307.00302
+DEBUG:root:Epoch: 69 learning rate:7.62939453125e-09ELBO: -404.05298
+DEBUG:root:Epoch: 69 learning rate:7.62939453125e-09ELBO: -300.30115
+DEBUG:root:Epoch: 69 learning rate:7.62939453125e-09ELBO: -3679.3416
+DEBUG:root:Epoch: 69 learning rate:7.62939453125e-09ELBO: -3924.3027
+DEBUG:root:Epoch: 69 learning rate:7.62939453125e-09ELBO: -177.11946
+DEBUG:root:Epoch: 69 learning rate:7.62939453125e-09ELBO: -345.94833
+DEBUG:root:Epoch: 69 learning rate:7.62939453125e-09ELBO: -223.02554
+DEBUG:root:Epoch: 69 learning rate:7.62939453125e-09ELBO: -316.8067
+DEBUG:root:Epoch: 69completed
+DEBUG:root:************************ epoch:70*****************
+DEBUG:root:Epoch: 70 learning rate:7.62939453125e-09ELBO: -174.87857
+DEBUG:root:Epoch: 70 learning rate:7.62939453125e-09ELBO: -465.78168
+DEBUG:root:Epoch: 70 learning rate:7.62939453125e-09ELBO: -1372.9858
+DEBUG:root:Epoch: 70 learning rate:7.62939453125e-09ELBO: -169.85165
+DEBUG:root:Epoch: 70 learning rate:7.62939453125e-09ELBO: -153.5086
+DEBUG:root:Epoch: 70 learning rate:7.62939453125e-09ELBO: -363.4126
+DEBUG:root:Epoch: 70 learning rate:7.62939453125e-09ELBO: -126.052124
+DEBUG:root:Epoch: 70 learning rate:7.62939453125e-09ELBO: -73.37986
+DEBUG:root:Epoch: 70 learning rate:7.62939453125e-09ELBO: -190.16281
+DEBUG:root:Epoch: 70 learning rate:7.62939453125e-09ELBO: -1354.7356
+DEBUG:root:Epoch: 70 learning rate:7.62939453125e-09ELBO: -388.66504
+DEBUG:root:Epoch: 70 learning rate:7.62939453125e-09ELBO: -810.81134
+DEBUG:root:Epoch: 70 learning rate:7.62939453125e-09ELBO: -3378.838
+DEBUG:root:Epoch: 70 learning rate:7.62939453125e-09ELBO: -255.974
+DEBUG:root:Epoch: 70 learning rate:7.62939453125e-09ELBO: -599.65393
+DEBUG:root:Epoch: 70 learning rate:7.62939453125e-09ELBO: -1160.2206
+DEBUG:root:Epoch: 70 learning rate:7.62939453125e-09ELBO: -187.30484
+DEBUG:root:Epoch: 70 learning rate:7.62939453125e-09ELBO: -411.58762
+DEBUG:root:Epoch: 70 learning rate:7.62939453125e-09ELBO: -966.0622
+DEBUG:root:Epoch: 70 learning rate:7.62939453125e-09ELBO: -555.1658
+DEBUG:root:Epoch: 70 learning rate:7.62939453125e-09ELBO: -215.72685
+DEBUG:root:Epoch: 70 learning rate:7.62939453125e-09ELBO: -167.27835
+DEBUG:root:Epoch: 70 learning rate:7.62939453125e-09ELBO: -1898.661
+DEBUG:root:Epoch: 70completed
+DEBUG:root:Epoch: 70 learning rate:7.62939453125e-09ELBO: -511.70062
+DEBUG:root:Completed saving the model
+DEBUG:root:************************ epoch:71*****************
+DEBUG:root:Epoch: 71 learning rate:3.814697265625e-09ELBO: -4835.6064
+DEBUG:root:Epoch: 71 learning rate:3.814697265625e-09ELBO: -703.5061
+DEBUG:root:Epoch: 71 learning rate:3.814697265625e-09ELBO: -496.3352
+DEBUG:root:Epoch: 71 learning rate:3.814697265625e-09ELBO: -2125.3748
+DEBUG:root:Epoch: 71 learning rate:3.814697265625e-09ELBO: -255.07301
+DEBUG:root:Epoch: 71 learning rate:3.814697265625e-09ELBO: -873.33984
+DEBUG:root:Epoch: 71 learning rate:3.814697265625e-09ELBO: -218.07156
+DEBUG:root:Epoch: 71 learning rate:3.814697265625e-09ELBO: -570.5922
+DEBUG:root:Epoch: 71 learning rate:3.814697265625e-09ELBO: -691.50555
+DEBUG:root:Epoch: 71 learning rate:3.814697265625e-09ELBO: -302.05225
+DEBUG:root:Epoch: 71 learning rate:3.814697265625e-09ELBO: -4933.635
+DEBUG:root:Epoch: 71 learning rate:3.814697265625e-09ELBO: -3835.5432
+DEBUG:root:Epoch: 71 learning rate:3.814697265625e-09ELBO: -607.3221
+DEBUG:root:Epoch: 71 learning rate:3.814697265625e-09ELBO: -660.0982
+DEBUG:root:Epoch: 71 learning rate:3.814697265625e-09ELBO: -313.85178
+DEBUG:root:Epoch: 71 learning rate:3.814697265625e-09ELBO: -132.58589
+DEBUG:root:Epoch: 71 learning rate:3.814697265625e-09ELBO: -222.9647
+DEBUG:root:Epoch: 71completed
+DEBUG:root:************************ epoch:72*****************
+DEBUG:root:Epoch: 72 learning rate:3.814697265625e-09ELBO: -211.97458
+DEBUG:root:Epoch: 72 learning rate:3.814697265625e-09ELBO: -1447.6481
+DEBUG:root:Epoch: 72 learning rate:3.814697265625e-09ELBO: -342.7059
+DEBUG:root:Epoch: 72 learning rate:3.814697265625e-09ELBO: -1232.9335
+DEBUG:root:Epoch: 72 learning rate:3.814697265625e-09ELBO: -641.476
+DEBUG:root:Epoch: 72 learning rate:3.814697265625e-09ELBO: -975.7819
+DEBUG:root:Epoch: 72 learning rate:3.814697265625e-09ELBO: -346.85458
+DEBUG:root:Epoch: 72 learning rate:3.814697265625e-09ELBO: -1422.7571
+DEBUG:root:Epoch: 72 learning rate:3.814697265625e-09ELBO: -144.96495
+DEBUG:root:Epoch: 72 learning rate:3.814697265625e-09ELBO: -3835.3423
+DEBUG:root:Epoch: 72 learning rate:3.814697265625e-09ELBO: -1063.691
+DEBUG:root:Epoch: 72 learning rate:3.814697265625e-09ELBO: -88.78548
+DEBUG:root:Epoch: 72 learning rate:3.814697265625e-09ELBO: -3164.204
+DEBUG:root:Epoch: 72 learning rate:3.814697265625e-09ELBO: -163.76251
+DEBUG:root:Epoch: 72 learning rate:3.814697265625e-09ELBO: -592.644
+DEBUG:root:Epoch: 72 learning rate:3.814697265625e-09ELBO: -417.081
+DEBUG:root:Epoch: 72 learning rate:3.814697265625e-09ELBO: -470.51382
+DEBUG:root:Epoch: 72 learning rate:3.814697265625e-09ELBO: -367.08325
+DEBUG:root:Epoch: 72 learning rate:3.814697265625e-09ELBO: -125.39753
+DEBUG:root:Epoch: 72 learning rate:3.814697265625e-09ELBO: -226.61983
+DEBUG:root:Epoch: 72completed
+DEBUG:root:************************ epoch:73*****************
+DEBUG:root:Epoch: 73 learning rate:3.814697265625e-09ELBO: -480.31464
+DEBUG:root:Epoch: 73 learning rate:3.814697265625e-09ELBO: -404.33276
+DEBUG:root:Epoch: 73 learning rate:3.814697265625e-09ELBO: -71.08029
+DEBUG:root:Epoch: 73 learning rate:3.814697265625e-09ELBO: -1434.5381
+DEBUG:root:Epoch: 73 learning rate:3.814697265625e-09ELBO: -639.3049
+DEBUG:root:Epoch: 73 learning rate:3.814697265625e-09ELBO: -106.88389
+DEBUG:root:Epoch: 73 learning rate:3.814697265625e-09ELBO: -1764.4941
+DEBUG:root:Epoch: 73 learning rate:3.814697265625e-09ELBO: -3628.3303
+DEBUG:root:Epoch: 73 learning rate:3.814697265625e-09ELBO: -1285.1514
+DEBUG:root:Epoch: 73 learning rate:3.814697265625e-09ELBO: -127.86106
+DEBUG:root:Epoch: 73 learning rate:3.814697265625e-09ELBO: -288.00662
+DEBUG:root:Epoch: 73 learning rate:3.814697265625e-09ELBO: -368.95844
+DEBUG:root:Epoch: 73 learning rate:3.814697265625e-09ELBO: -806.78973
+DEBUG:root:Epoch: 73 learning rate:3.814697265625e-09ELBO: -497.4139
+DEBUG:root:Epoch: 73 learning rate:3.814697265625e-09ELBO: -326.8834
+DEBUG:root:Epoch: 73 learning rate:3.814697265625e-09ELBO: -611.962
+DEBUG:root:Epoch: 73 learning rate:3.814697265625e-09ELBO: -303.21326
+DEBUG:root:Epoch: 73 learning rate:3.814697265625e-09ELBO: -1776.5024
+DEBUG:root:Epoch: 73 learning rate:3.814697265625e-09ELBO: -928.5528
+DEBUG:root:Epoch: 73completed
+DEBUG:root:************************ epoch:74*****************
+DEBUG:root:Epoch: 74 learning rate:3.814697265625e-09ELBO: -129.32257
+DEBUG:root:Epoch: 74 learning rate:3.814697265625e-09ELBO: -633.028
+DEBUG:root:Epoch: 74 learning rate:3.814697265625e-09ELBO: -1289.2452
+DEBUG:root:Epoch: 74 learning rate:3.814697265625e-09ELBO: -440.16907
+DEBUG:root:Epoch: 74 learning rate:3.814697265625e-09ELBO: -199.9698
+DEBUG:root:Epoch: 74 learning rate:3.814697265625e-09ELBO: -328.464
+DEBUG:root:Epoch: 74 learning rate:3.814697265625e-09ELBO: -511.6179
+DEBUG:root:Epoch: 74 learning rate:3.814697265625e-09ELBO: -186.5203
+DEBUG:root:Epoch: 74 learning rate:3.814697265625e-09ELBO: -1082.6667
+DEBUG:root:Epoch: 74 learning rate:3.814697265625e-09ELBO: -245.99231
+DEBUG:root:Epoch: 74 learning rate:3.814697265625e-09ELBO: -212.14307
+DEBUG:root:Epoch: 74 learning rate:3.814697265625e-09ELBO: -465.05365
+DEBUG:root:Epoch: 74 learning rate:3.814697265625e-09ELBO: -396.91345
+DEBUG:root:Epoch: 74 learning rate:3.814697265625e-09ELBO: -833.2846
+DEBUG:root:Epoch: 74 learning rate:3.814697265625e-09ELBO: -695.3288
+DEBUG:root:Epoch: 74 learning rate:3.814697265625e-09ELBO: -592.0912
+DEBUG:root:Epoch: 74 learning rate:3.814697265625e-09ELBO: -2071.7317
+DEBUG:root:Epoch: 74 learning rate:3.814697265625e-09ELBO: -235.68442
+DEBUG:root:Epoch: 74 learning rate:3.814697265625e-09ELBO: -841.36237
+DEBUG:root:Epoch: 74 learning rate:3.814697265625e-09ELBO: -1143.985
+DEBUG:root:Epoch: 74 learning rate:3.814697265625e-09ELBO: -1360.691
+DEBUG:root:Epoch: 74 learning rate:3.814697265625e-09ELBO: -389.33643
+DEBUG:root:Epoch: 74 learning rate:3.814697265625e-09ELBO: -284.45776
+DEBUG:root:Epoch: 74 learning rate:3.814697265625e-09ELBO: -229.98537
+DEBUG:root:Epoch: 74completed
+DEBUG:root:************************ epoch:75*****************
+DEBUG:root:Epoch: 75 learning rate:1.9073486328125e-09ELBO: -290.4984
+DEBUG:root:Epoch: 75 learning rate:1.9073486328125e-09ELBO: -256.62735
+DEBUG:root:Epoch: 75 learning rate:1.9073486328125e-09ELBO: -281.73093
+DEBUG:root:Epoch: 75 learning rate:1.9073486328125e-09ELBO: -1492.0459
+DEBUG:root:Epoch: 75 learning rate:1.9073486328125e-09ELBO: -410.38867
+DEBUG:root:Epoch: 75 learning rate:1.9073486328125e-09ELBO: -452.42258
+DEBUG:root:Epoch: 75 learning rate:1.9073486328125e-09ELBO: -1069.3406
+DEBUG:root:Epoch: 75 learning rate:1.9073486328125e-09ELBO: -73.77725
+DEBUG:root:Epoch: 75 learning rate:1.9073486328125e-09ELBO: -53.447357
+DEBUG:root:Epoch: 75 learning rate:1.9073486328125e-09ELBO: -55.744347
+DEBUG:root:Epoch: 75 learning rate:1.9073486328125e-09ELBO: -156.70068
+DEBUG:root:Epoch: 75 learning rate:1.9073486328125e-09ELBO: -839.2668
+DEBUG:root:Epoch: 75 learning rate:1.9073486328125e-09ELBO: -211.32556
+DEBUG:root:Epoch: 75 learning rate:1.9073486328125e-09ELBO: -138.1903
+DEBUG:root:Epoch: 75 learning rate:1.9073486328125e-09ELBO: -1307.3745
+DEBUG:root:Epoch: 75 learning rate:1.9073486328125e-09ELBO: -1524.4468
+DEBUG:root:Epoch: 75completed
+DEBUG:root:************************ epoch:76*****************
+DEBUG:root:Epoch: 76 learning rate:1.9073486328125e-09ELBO: -377.71893
+DEBUG:root:Epoch: 76 learning rate:1.9073486328125e-09ELBO: -660.0778
+DEBUG:root:Epoch: 76 learning rate:1.9073486328125e-09ELBO: -461.05023
+DEBUG:root:Epoch: 76 learning rate:1.9073486328125e-09ELBO: -965.4659
+DEBUG:root:Epoch: 76 learning rate:1.9073486328125e-09ELBO: -147.77171
+DEBUG:root:Epoch: 76 learning rate:1.9073486328125e-09ELBO: -733.2877
+DEBUG:root:Epoch: 76 learning rate:1.9073486328125e-09ELBO: -237.42929
+DEBUG:root:Epoch: 76 learning rate:1.9073486328125e-09ELBO: -212.32271
+DEBUG:root:Epoch: 76 learning rate:1.9073486328125e-09ELBO: -854.4846
+DEBUG:root:Epoch: 76 learning rate:1.9073486328125e-09ELBO: -539.9945
+DEBUG:root:Epoch: 76 learning rate:1.9073486328125e-09ELBO: -528.12897
+DEBUG:root:Epoch: 76 learning rate:1.9073486328125e-09ELBO: -165.41682
+DEBUG:root:Epoch: 76 learning rate:1.9073486328125e-09ELBO: -1180.7637
+DEBUG:root:Epoch: 76 learning rate:1.9073486328125e-09ELBO: -189.53625
+DEBUG:root:Epoch: 76 learning rate:1.9073486328125e-09ELBO: -183.53114
+DEBUG:root:Epoch: 76 learning rate:1.9073486328125e-09ELBO: -1978.1848
+DEBUG:root:Epoch: 76completed
+DEBUG:root:************************ epoch:77*****************
+DEBUG:root:Epoch: 77 learning rate:1.9073486328125e-09ELBO: -55.72335
+DEBUG:root:Epoch: 77 learning rate:1.9073486328125e-09ELBO: -471.68008
+DEBUG:root:Epoch: 77 learning rate:1.9073486328125e-09ELBO: -492.97855
+DEBUG:root:Epoch: 77 learning rate:1.9073486328125e-09ELBO: -82.71066
+DEBUG:root:Epoch: 77 learning rate:1.9073486328125e-09ELBO: -1074.7815
+DEBUG:root:Epoch: 77 learning rate:1.9073486328125e-09ELBO: -429.7665
+DEBUG:root:Epoch: 77 learning rate:1.9073486328125e-09ELBO: -792.11395
+DEBUG:root:Epoch: 77 learning rate:1.9073486328125e-09ELBO: -349.56888
+DEBUG:root:Epoch: 77 learning rate:1.9073486328125e-09ELBO: -1121.6094
+DEBUG:root:Epoch: 77 learning rate:1.9073486328125e-09ELBO: -189.44025
+DEBUG:root:Epoch: 77 learning rate:1.9073486328125e-09ELBO: -443.3836
+DEBUG:root:Epoch: 77 learning rate:1.9073486328125e-09ELBO: -390.87692
+DEBUG:root:Epoch: 77 learning rate:1.9073486328125e-09ELBO: -2553.706
+DEBUG:root:Epoch: 77 learning rate:1.9073486328125e-09ELBO: -1273.9247
+DEBUG:root:Epoch: 77completed
+DEBUG:root:************************ epoch:78*****************
+DEBUG:root:Epoch: 78 learning rate:1.9073486328125e-09ELBO: -356.63788
+DEBUG:root:Epoch: 78 learning rate:1.9073486328125e-09ELBO: -283.73834
+DEBUG:root:Epoch: 78 learning rate:1.9073486328125e-09ELBO: -775.3763
+DEBUG:root:Epoch: 78 learning rate:1.9073486328125e-09ELBO: -658.0229
+DEBUG:root:Epoch: 78 learning rate:1.9073486328125e-09ELBO: -418.59634
+DEBUG:root:Epoch: 78 learning rate:1.9073486328125e-09ELBO: -289.46204
+DEBUG:root:Epoch: 78 learning rate:1.9073486328125e-09ELBO: -643.55695
+DEBUG:root:Epoch: 78 learning rate:1.9073486328125e-09ELBO: -63.154526
+DEBUG:root:Epoch: 78 learning rate:1.9073486328125e-09ELBO: -148.62743
+DEBUG:root:Epoch: 78 learning rate:1.9073486328125e-09ELBO: -726.2289
+DEBUG:root:Epoch: 78 learning rate:1.9073486328125e-09ELBO: -560.0829
+DEBUG:root:Epoch: 78 learning rate:1.9073486328125e-09ELBO: -110.73833
+DEBUG:root:Epoch: 78 learning rate:1.9073486328125e-09ELBO: -469.02417
+DEBUG:root:Epoch: 78 learning rate:1.9073486328125e-09ELBO: -214.31473
+DEBUG:root:Epoch: 78 learning rate:1.9073486328125e-09ELBO: -715.53
+DEBUG:root:Epoch: 78 learning rate:1.9073486328125e-09ELBO: -1368.1836
+DEBUG:root:Epoch: 78 learning rate:1.9073486328125e-09ELBO: -427.51755
+DEBUG:root:Epoch: 78completed
+DEBUG:root:************************ epoch:79*****************
+DEBUG:root:Epoch: 79 learning rate:9.5367431640625e-10ELBO: -497.20392
+DEBUG:root:Epoch: 79 learning rate:9.5367431640625e-10ELBO: -255.63577
+DEBUG:root:Epoch: 79 learning rate:9.5367431640625e-10ELBO: -145.25864
+DEBUG:root:Epoch: 79 learning rate:9.5367431640625e-10ELBO: -253.76347
+DEBUG:root:Epoch: 79 learning rate:9.5367431640625e-10ELBO: -166.21516
+DEBUG:root:Epoch: 79 learning rate:9.5367431640625e-10ELBO: -834.4285
+DEBUG:root:Epoch: 79 learning rate:9.5367431640625e-10ELBO: -1187.0419
+DEBUG:root:Epoch: 79 learning rate:9.5367431640625e-10ELBO: -199.35504
+DEBUG:root:Epoch: 79 learning rate:9.5367431640625e-10ELBO: -728.14526
+DEBUG:root:Epoch: 79 learning rate:9.5367431640625e-10ELBO: -289.7986
+DEBUG:root:Epoch: 79 learning rate:9.5367431640625e-10ELBO: -290.6043
+DEBUG:root:Epoch: 79 learning rate:9.5367431640625e-10ELBO: -502.84018
+DEBUG:root:Epoch: 79 learning rate:9.5367431640625e-10ELBO: -997.6384
+DEBUG:root:Epoch: 79 learning rate:9.5367431640625e-10ELBO: -286.36646
+DEBUG:root:Epoch: 79 learning rate:9.5367431640625e-10ELBO: -377.3759
+DEBUG:root:Epoch: 79completed
+DEBUG:root:************************ epoch:80*****************
+DEBUG:root:Epoch: 80 learning rate:9.5367431640625e-10ELBO: -413.6043
+DEBUG:root:Epoch: 80 learning rate:9.5367431640625e-10ELBO: -59.39343
+DEBUG:root:Epoch: 80 learning rate:9.5367431640625e-10ELBO: -1214.4905
+DEBUG:root:Epoch: 80 learning rate:9.5367431640625e-10ELBO: -392.89902
+DEBUG:root:Epoch: 80 learning rate:9.5367431640625e-10ELBO: -222.63802
+DEBUG:root:Epoch: 80 learning rate:9.5367431640625e-10ELBO: -3882.976
+DEBUG:root:Epoch: 80 learning rate:9.5367431640625e-10ELBO: -651.0545
+DEBUG:root:Epoch: 80 learning rate:9.5367431640625e-10ELBO: -817.34216
+DEBUG:root:Epoch: 80 learning rate:9.5367431640625e-10ELBO: -3939.507
+DEBUG:root:Epoch: 80 learning rate:9.5367431640625e-10ELBO: -914.8664
+DEBUG:root:Epoch: 80 learning rate:9.5367431640625e-10ELBO: -1075.2003
+DEBUG:root:Epoch: 80 learning rate:9.5367431640625e-10ELBO: -5027.118
+DEBUG:root:Epoch: 80 learning rate:9.5367431640625e-10ELBO: -593.2208
+DEBUG:root:Epoch: 80 learning rate:9.5367431640625e-10ELBO: -1341.9745
+DEBUG:root:Epoch: 80 learning rate:9.5367431640625e-10ELBO: -901.1025
+DEBUG:root:Epoch: 80 learning rate:9.5367431640625e-10ELBO: -566.5409
+DEBUG:root:Epoch: 80 learning rate:9.5367431640625e-10ELBO: -1073.0242
+DEBUG:root:Epoch: 80 learning rate:9.5367431640625e-10ELBO: -296.26453
+DEBUG:root:Epoch: 80 learning rate:9.5367431640625e-10ELBO: -389.47418
+DEBUG:root:Epoch: 80 learning rate:9.5367431640625e-10ELBO: -1344.9728
+DEBUG:root:Epoch: 80completed
+DEBUG:root:Epoch: 80 learning rate:9.5367431640625e-10ELBO: -76.18172
+DEBUG:root:Completed saving the model
+DEBUG:root:************************ epoch:81*****************
+DEBUG:root:Epoch: 81 learning rate:9.5367431640625e-10ELBO: -549.9304
+DEBUG:root:Epoch: 81 learning rate:9.5367431640625e-10ELBO: -1053.1356
+DEBUG:root:Epoch: 81 learning rate:9.5367431640625e-10ELBO: -258.83612
+DEBUG:root:Epoch: 81 learning rate:9.5367431640625e-10ELBO: -490.5774
+DEBUG:root:Epoch: 81 learning rate:9.5367431640625e-10ELBO: -567.6477
+DEBUG:root:Epoch: 81 learning rate:9.5367431640625e-10ELBO: -213.16978
+DEBUG:root:Epoch: 81 learning rate:9.5367431640625e-10ELBO: -615.0412
+DEBUG:root:Epoch: 81 learning rate:9.5367431640625e-10ELBO: -646.84973
+DEBUG:root:Epoch: 81 learning rate:9.5367431640625e-10ELBO: -391.8537
+DEBUG:root:Epoch: 81 learning rate:9.5367431640625e-10ELBO: -198.91216
+DEBUG:root:Epoch: 81 learning rate:9.5367431640625e-10ELBO: -446.25488
+DEBUG:root:Epoch: 81 learning rate:9.5367431640625e-10ELBO: -1043.7496
+DEBUG:root:Epoch: 81 learning rate:9.5367431640625e-10ELBO: -1072.2628
+DEBUG:root:Epoch: 81 learning rate:9.5367431640625e-10ELBO: -1577.4053
+DEBUG:root:Epoch: 81 learning rate:9.5367431640625e-10ELBO: -649.7185
+DEBUG:root:Epoch: 81 learning rate:9.5367431640625e-10ELBO: -652.6929
+DEBUG:root:Epoch: 81 learning rate:9.5367431640625e-10ELBO: -629.4131
+DEBUG:root:Epoch: 81 learning rate:9.5367431640625e-10ELBO: -253.68024
+DEBUG:root:Epoch: 81 learning rate:9.5367431640625e-10ELBO: -138.5637
+DEBUG:root:Epoch: 81 learning rate:9.5367431640625e-10ELBO: -789.99384
+DEBUG:root:Epoch: 81 learning rate:9.5367431640625e-10ELBO: -557.9323
+DEBUG:root:Epoch: 81 learning rate:9.5367431640625e-10ELBO: -463.4984
+DEBUG:root:Epoch: 81 learning rate:9.5367431640625e-10ELBO: -4129.535
+DEBUG:root:Epoch: 81 learning rate:9.5367431640625e-10ELBO: -841.6459
+DEBUG:root:Epoch: 81 learning rate:9.5367431640625e-10ELBO: -4495.028
+DEBUG:root:Epoch: 81 learning rate:9.5367431640625e-10ELBO: -532.32574
+DEBUG:root:Epoch: 81completed
+DEBUG:root:************************ epoch:82*****************
+DEBUG:root:Epoch: 82 learning rate:9.5367431640625e-10ELBO: -249.93182
+DEBUG:root:Epoch: 82 learning rate:9.5367431640625e-10ELBO: -217.64687
+DEBUG:root:Epoch: 82 learning rate:9.5367431640625e-10ELBO: -743.8056
+DEBUG:root:Epoch: 82 learning rate:9.5367431640625e-10ELBO: -691.292
+DEBUG:root:Epoch: 82 learning rate:9.5367431640625e-10ELBO: -53.595703
+DEBUG:root:Epoch: 82 learning rate:9.5367431640625e-10ELBO: -367.45404
+DEBUG:root:Epoch: 82 learning rate:9.5367431640625e-10ELBO: -1545.9078
+DEBUG:root:Epoch: 82 learning rate:9.5367431640625e-10ELBO: -1490.9781
+DEBUG:root:Epoch: 82 learning rate:9.5367431640625e-10ELBO: -510.8208
+DEBUG:root:Epoch: 82 learning rate:9.5367431640625e-10ELBO: -487.5839
+DEBUG:root:Epoch: 82completed
+DEBUG:root:************************ epoch:83*****************
+DEBUG:root:Epoch: 83 learning rate:4.76837158203125e-10ELBO: -692.852
+DEBUG:root:Epoch: 83 learning rate:4.76837158203125e-10ELBO: -833.5054
+DEBUG:root:Epoch: 83 learning rate:4.76837158203125e-10ELBO: -456.24692
+DEBUG:root:Epoch: 83 learning rate:4.76837158203125e-10ELBO: -62.382023
+DEBUG:root:Epoch: 83 learning rate:4.76837158203125e-10ELBO: -1398.6543
+DEBUG:root:Epoch: 83 learning rate:4.76837158203125e-10ELBO: -212.18114
+DEBUG:root:Epoch: 83 learning rate:4.76837158203125e-10ELBO: -687.9964
+DEBUG:root:Epoch: 83 learning rate:4.76837158203125e-10ELBO: -98.76012
+DEBUG:root:Epoch: 83 learning rate:4.76837158203125e-10ELBO: -1499.771
+DEBUG:root:Epoch: 83 learning rate:4.76837158203125e-10ELBO: -1036.1891
+DEBUG:root:Epoch: 83 learning rate:4.76837158203125e-10ELBO: -245.57011
+DEBUG:root:Epoch: 83 learning rate:4.76837158203125e-10ELBO: -306.59518
+DEBUG:root:Epoch: 83 learning rate:4.76837158203125e-10ELBO: -1435.9489
+DEBUG:root:Epoch: 83 learning rate:4.76837158203125e-10ELBO: -276.19342
+DEBUG:root:Epoch: 83 learning rate:4.76837158203125e-10ELBO: -711.2475
+DEBUG:root:Epoch: 83 learning rate:4.76837158203125e-10ELBO: -235.20242
+DEBUG:root:Epoch: 83 learning rate:4.76837158203125e-10ELBO: -1584.052
+DEBUG:root:Epoch: 83 learning rate:4.76837158203125e-10ELBO: -493.15607
+DEBUG:root:Epoch: 83 learning rate:4.76837158203125e-10ELBO: -586.4104
+DEBUG:root:Epoch: 83 learning rate:4.76837158203125e-10ELBO: -904.858
+DEBUG:root:Epoch: 83completed
+DEBUG:root:************************ epoch:84*****************
+DEBUG:root:Epoch: 84 learning rate:4.76837158203125e-10ELBO: -62.049507
+DEBUG:root:Epoch: 84 learning rate:4.76837158203125e-10ELBO: -789.7777
+DEBUG:root:Epoch: 84 learning rate:4.76837158203125e-10ELBO: -942.13745
+DEBUG:root:Epoch: 84 learning rate:4.76837158203125e-10ELBO: -70.473724
+DEBUG:root:Epoch: 84 learning rate:4.76837158203125e-10ELBO: -2075.1218
+DEBUG:root:Epoch: 84 learning rate:4.76837158203125e-10ELBO: -126.270065
+DEBUG:root:Epoch: 84 learning rate:4.76837158203125e-10ELBO: -855.6623
+DEBUG:root:Epoch: 84 learning rate:4.76837158203125e-10ELBO: -617.5146
+DEBUG:root:Epoch: 84 learning rate:4.76837158203125e-10ELBO: -776.3733
+DEBUG:root:Epoch: 84 learning rate:4.76837158203125e-10ELBO: -387.706
+DEBUG:root:Epoch: 84 learning rate:4.76837158203125e-10ELBO: -466.3546
+DEBUG:root:Epoch: 84 learning rate:4.76837158203125e-10ELBO: -513.21826
+DEBUG:root:Epoch: 84 learning rate:4.76837158203125e-10ELBO: -686.69836
+DEBUG:root:Epoch: 84 learning rate:4.76837158203125e-10ELBO: -2123.9763
+DEBUG:root:Epoch: 84 learning rate:4.76837158203125e-10ELBO: -1140.9249
+DEBUG:root:Epoch: 84 learning rate:4.76837158203125e-10ELBO: -1271.5453
+DEBUG:root:Epoch: 84 learning rate:4.76837158203125e-10ELBO: -1246.8357
+DEBUG:root:Epoch: 84 learning rate:4.76837158203125e-10ELBO: -251.24445
+DEBUG:root:Epoch: 84 learning rate:4.76837158203125e-10ELBO: -152.00085
+DEBUG:root:Epoch: 84completed
+DEBUG:root:************************ epoch:85*****************
+DEBUG:root:Epoch: 85 learning rate:4.76837158203125e-10ELBO: -3834.943
+DEBUG:root:Epoch: 85 learning rate:4.76837158203125e-10ELBO: -4185.262
+DEBUG:root:Epoch: 85 learning rate:4.76837158203125e-10ELBO: -1668.0714
+DEBUG:root:Epoch: 85 learning rate:4.76837158203125e-10ELBO: -48.103344
+DEBUG:root:Epoch: 85 learning rate:4.76837158203125e-10ELBO: -493.52448
+DEBUG:root:Epoch: 85 learning rate:4.76837158203125e-10ELBO: -1126.9581
+DEBUG:root:Epoch: 85 learning rate:4.76837158203125e-10ELBO: -256.37582
+DEBUG:root:Epoch: 85 learning rate:4.76837158203125e-10ELBO: -1046.0533
+DEBUG:root:Epoch: 85 learning rate:4.76837158203125e-10ELBO: -187.74124
+DEBUG:root:Epoch: 85 learning rate:4.76837158203125e-10ELBO: -559.1755
+DEBUG:root:Epoch: 85 learning rate:4.76837158203125e-10ELBO: -152.4989
+DEBUG:root:Epoch: 85 learning rate:4.76837158203125e-10ELBO: -909.49524
+DEBUG:root:Epoch: 85 learning rate:4.76837158203125e-10ELBO: -436.28854
+DEBUG:root:Epoch: 85 learning rate:4.76837158203125e-10ELBO: -609.21747
+DEBUG:root:Epoch: 85 learning rate:4.76837158203125e-10ELBO: -427.66214
+DEBUG:root:Epoch: 85 learning rate:4.76837158203125e-10ELBO: -1356.0925
+DEBUG:root:Epoch: 85 learning rate:4.76837158203125e-10ELBO: -637.0804
+DEBUG:root:Epoch: 85 learning rate:4.76837158203125e-10ELBO: -3161.2744
+DEBUG:root:Epoch: 85 learning rate:4.76837158203125e-10ELBO: -156.90712
+DEBUG:root:Epoch: 85 learning rate:4.76837158203125e-10ELBO: -1571.8912
+DEBUG:root:Epoch: 85completed
+DEBUG:root:************************ epoch:86*****************
+DEBUG:root:Epoch: 86 learning rate:4.76837158203125e-10ELBO: -694.19653
+DEBUG:root:Epoch: 86 learning rate:4.76837158203125e-10ELBO: -3936.2803
+DEBUG:root:Epoch: 86 learning rate:4.76837158203125e-10ELBO: -222.30507
+DEBUG:root:Epoch: 86 learning rate:4.76837158203125e-10ELBO: -43.26153
+DEBUG:root:Epoch: 86 learning rate:4.76837158203125e-10ELBO: -127.926476
+DEBUG:root:Epoch: 86 learning rate:4.76837158203125e-10ELBO: -318.31024
+DEBUG:root:Epoch: 86 learning rate:4.76837158203125e-10ELBO: -813.8108
+DEBUG:root:Epoch: 86 learning rate:4.76837158203125e-10ELBO: -4179.2676
+DEBUG:root:Epoch: 86 learning rate:4.76837158203125e-10ELBO: -149.32579
+DEBUG:root:Epoch: 86 learning rate:4.76837158203125e-10ELBO: -1213.3809
+DEBUG:root:Epoch: 86 learning rate:4.76837158203125e-10ELBO: -663.3932
+DEBUG:root:Epoch: 86 learning rate:4.76837158203125e-10ELBO: -449.09155
+DEBUG:root:Epoch: 86 learning rate:4.76837158203125e-10ELBO: -714.97595
+DEBUG:root:Epoch: 86completed
+DEBUG:root:************************ epoch:87*****************
+DEBUG:root:Epoch: 87 learning rate:2.384185791015625e-10ELBO: -377.18726
+DEBUG:root:Epoch: 87 learning rate:2.384185791015625e-10ELBO: -4556.2354
+DEBUG:root:Epoch: 87 learning rate:2.384185791015625e-10ELBO: -366.1197
+DEBUG:root:Epoch: 87 learning rate:2.384185791015625e-10ELBO: -3220.254
+DEBUG:root:Epoch: 87 learning rate:2.384185791015625e-10ELBO: -150.81279
+DEBUG:root:Epoch: 87 learning rate:2.384185791015625e-10ELBO: -134.84985
+DEBUG:root:Epoch: 87 learning rate:2.384185791015625e-10ELBO: -52.593765
+DEBUG:root:Epoch: 87 learning rate:2.384185791015625e-10ELBO: -476.23004
+DEBUG:root:Epoch: 87 learning rate:2.384185791015625e-10ELBO: -936.94006
+DEBUG:root:Epoch: 87 learning rate:2.384185791015625e-10ELBO: -623.9488
+DEBUG:root:Epoch: 87 learning rate:2.384185791015625e-10ELBO: -1276.982
+DEBUG:root:Epoch: 87 learning rate:2.384185791015625e-10ELBO: -1076.8885
+DEBUG:root:Epoch: 87 learning rate:2.384185791015625e-10ELBO: -971.58026
+DEBUG:root:Epoch: 87 learning rate:2.384185791015625e-10ELBO: -341.80743
+DEBUG:root:Epoch: 87 learning rate:2.384185791015625e-10ELBO: -1414.1725
+DEBUG:root:Epoch: 87 learning rate:2.384185791015625e-10ELBO: -279.14374
+DEBUG:root:Epoch: 87 learning rate:2.384185791015625e-10ELBO: -4333.424
+DEBUG:root:Epoch: 87 learning rate:2.384185791015625e-10ELBO: -455.12137
+DEBUG:root:Epoch: 87completed
+DEBUG:root:************************ epoch:88*****************
+DEBUG:root:Epoch: 88 learning rate:2.384185791015625e-10ELBO: -270.5144
+DEBUG:root:Epoch: 88 learning rate:2.384185791015625e-10ELBO: -1619.7423
+DEBUG:root:Epoch: 88 learning rate:2.384185791015625e-10ELBO: -2177.05
+DEBUG:root:Epoch: 88 learning rate:2.384185791015625e-10ELBO: -122.89283
+DEBUG:root:Epoch: 88 learning rate:2.384185791015625e-10ELBO: -4131.404
+DEBUG:root:Epoch: 88 learning rate:2.384185791015625e-10ELBO: -453.98682
+DEBUG:root:Epoch: 88 learning rate:2.384185791015625e-10ELBO: -817.6265
+DEBUG:root:Epoch: 88 learning rate:2.384185791015625e-10ELBO: -752.42426
+DEBUG:root:Epoch: 88 learning rate:2.384185791015625e-10ELBO: -3939.2979
+DEBUG:root:Epoch: 88 learning rate:2.384185791015625e-10ELBO: -56.204567
+DEBUG:root:Epoch: 88 learning rate:2.384185791015625e-10ELBO: -841.0483
+DEBUG:root:Epoch: 88 learning rate:2.384185791015625e-10ELBO: -172.64685
+DEBUG:root:Epoch: 88 learning rate:2.384185791015625e-10ELBO: -1364.2814
+DEBUG:root:Epoch: 88 learning rate:2.384185791015625e-10ELBO: -370.70312
+DEBUG:root:Epoch: 88 learning rate:2.384185791015625e-10ELBO: -1485.9958
+DEBUG:root:Epoch: 88 learning rate:2.384185791015625e-10ELBO: -3575.002
+DEBUG:root:Epoch: 88 learning rate:2.384185791015625e-10ELBO: -706.0564
+DEBUG:root:Epoch: 88 learning rate:2.384185791015625e-10ELBO: -777.0149
+DEBUG:root:Epoch: 88 learning rate:2.384185791015625e-10ELBO: -424.76437
+DEBUG:root:Epoch: 88 learning rate:2.384185791015625e-10ELBO: -689.4655
+DEBUG:root:Epoch: 88completed
+DEBUG:root:************************ epoch:89*****************
+DEBUG:root:Epoch: 89 learning rate:2.384185791015625e-10ELBO: -647.2387
+DEBUG:root:Epoch: 89 learning rate:2.384185791015625e-10ELBO: -869.5492
+DEBUG:root:Epoch: 89 learning rate:2.384185791015625e-10ELBO: -89.49961
+DEBUG:root:Epoch: 89 learning rate:2.384185791015625e-10ELBO: -3017.405
+DEBUG:root:Epoch: 89 learning rate:2.384185791015625e-10ELBO: -876.28296
+DEBUG:root:Epoch: 89 learning rate:2.384185791015625e-10ELBO: -4102.1787
+DEBUG:root:Epoch: 89 learning rate:2.384185791015625e-10ELBO: -161.67535
+DEBUG:root:Epoch: 89 learning rate:2.384185791015625e-10ELBO: -615.36017
+DEBUG:root:Epoch: 89 learning rate:2.384185791015625e-10ELBO: -330.0677
+DEBUG:root:Epoch: 89 learning rate:2.384185791015625e-10ELBO: -3857.4802
+DEBUG:root:Epoch: 89 learning rate:2.384185791015625e-10ELBO: -667.966
+DEBUG:root:Epoch: 89 learning rate:2.384185791015625e-10ELBO: -3644.9795
+DEBUG:root:Epoch: 89 learning rate:2.384185791015625e-10ELBO: -56.94299
+DEBUG:root:Epoch: 89 learning rate:2.384185791015625e-10ELBO: -776.2497
+DEBUG:root:Epoch: 89 learning rate:2.384185791015625e-10ELBO: -200.36295
+DEBUG:root:Epoch: 89 learning rate:2.384185791015625e-10ELBO: -259.4185
+DEBUG:root:Epoch: 89 learning rate:2.384185791015625e-10ELBO: -274.83554
+DEBUG:root:Epoch: 89 learning rate:2.384185791015625e-10ELBO: -293.20886
+DEBUG:root:Epoch: 89completed
+DEBUG:root:************************ epoch:90*****************
+DEBUG:root:Epoch: 90 learning rate:2.384185791015625e-10ELBO: -557.2485
+DEBUG:root:Epoch: 90 learning rate:2.384185791015625e-10ELBO: -3449.4392
+DEBUG:root:Epoch: 90 learning rate:2.384185791015625e-10ELBO: -242.929
+DEBUG:root:Epoch: 90 learning rate:2.384185791015625e-10ELBO: -236.69547
+DEBUG:root:Epoch: 90 learning rate:2.384185791015625e-10ELBO: -95.63518
+DEBUG:root:Epoch: 90 learning rate:2.384185791015625e-10ELBO: -1452.9006
+DEBUG:root:Epoch: 90 learning rate:2.384185791015625e-10ELBO: -835.1391
+DEBUG:root:Epoch: 90 learning rate:2.384185791015625e-10ELBO: -369.4789
+DEBUG:root:Epoch: 90 learning rate:2.384185791015625e-10ELBO: -750.4422
+DEBUG:root:Epoch: 90 learning rate:2.384185791015625e-10ELBO: -1184.4803
+DEBUG:root:Epoch: 90 learning rate:2.384185791015625e-10ELBO: -413.60977
+DEBUG:root:Epoch: 90 learning rate:2.384185791015625e-10ELBO: -776.1405
+DEBUG:root:Epoch: 90 learning rate:2.384185791015625e-10ELBO: -147.08105
+DEBUG:root:Epoch: 90 learning rate:2.384185791015625e-10ELBO: -334.85907
+DEBUG:root:Epoch: 90 learning rate:2.384185791015625e-10ELBO: -3872.787
+DEBUG:root:Epoch: 90 learning rate:2.384185791015625e-10ELBO: -1661.8352
+DEBUG:root:Epoch: 90 learning rate:2.384185791015625e-10ELBO: -1095.994
+DEBUG:root:Epoch: 90 learning rate:2.384185791015625e-10ELBO: -1068.4672
+DEBUG:root:Epoch: 90 learning rate:2.384185791015625e-10ELBO: -1906.6586
+DEBUG:root:Epoch: 90 learning rate:2.384185791015625e-10ELBO: -166.95282
+DEBUG:root:Epoch: 90completed
+DEBUG:root:Epoch: 90 learning rate:2.384185791015625e-10ELBO: -314.6697
+DEBUG:root:Completed saving the model
+DEBUG:root:************************ epoch:91*****************
+DEBUG:root:Epoch: 91 learning rate:1.1920928955078125e-10ELBO: -773.3026
+DEBUG:root:Epoch: 91 learning rate:1.1920928955078125e-10ELBO: -1512.7249
+DEBUG:root:Epoch: 91 learning rate:1.1920928955078125e-10ELBO: -359.16104
+DEBUG:root:Epoch: 91 learning rate:1.1920928955078125e-10ELBO: -477.54288
+DEBUG:root:Epoch: 91 learning rate:1.1920928955078125e-10ELBO: -670.272
+DEBUG:root:Epoch: 91 learning rate:1.1920928955078125e-10ELBO: -1438.813
+DEBUG:root:Epoch: 91 learning rate:1.1920928955078125e-10ELBO: -115.263504
+DEBUG:root:Epoch: 91 learning rate:1.1920928955078125e-10ELBO: -148.93498
+DEBUG:root:Epoch: 91 learning rate:1.1920928955078125e-10ELBO: -552.77405
+DEBUG:root:Epoch: 91 learning rate:1.1920928955078125e-10ELBO: -60.268917
+DEBUG:root:Epoch: 91 learning rate:1.1920928955078125e-10ELBO: -356.07526
+DEBUG:root:Epoch: 91 learning rate:1.1920928955078125e-10ELBO: -300.9144
+DEBUG:root:Epoch: 91 learning rate:1.1920928955078125e-10ELBO: -40.25712
+DEBUG:root:Epoch: 91 learning rate:1.1920928955078125e-10ELBO: -4283.381
+DEBUG:root:Epoch: 91 learning rate:1.1920928955078125e-10ELBO: -709.86884
+DEBUG:root:Epoch: 91 learning rate:1.1920928955078125e-10ELBO: -71.738625
+DEBUG:root:Epoch: 91 learning rate:1.1920928955078125e-10ELBO: -1332.951
+DEBUG:root:Epoch: 91 learning rate:1.1920928955078125e-10ELBO: -467.90918
+DEBUG:root:Epoch: 91 learning rate:1.1920928955078125e-10ELBO: -164.21466
+DEBUG:root:Epoch: 91 learning rate:1.1920928955078125e-10ELBO: -345.4964
+DEBUG:root:Epoch: 91 learning rate:1.1920928955078125e-10ELBO: -129.097
+DEBUG:root:Epoch: 91completed
+DEBUG:root:************************ epoch:92*****************
+DEBUG:root:Epoch: 92 learning rate:1.1920928955078125e-10ELBO: -289.60016
+DEBUG:root:Epoch: 92 learning rate:1.1920928955078125e-10ELBO: -109.0834
+DEBUG:root:Epoch: 92 learning rate:1.1920928955078125e-10ELBO: -332.4742
+DEBUG:root:Epoch: 92 learning rate:1.1920928955078125e-10ELBO: -995.6155
+DEBUG:root:Epoch: 92 learning rate:1.1920928955078125e-10ELBO: -126.782616
+DEBUG:root:Epoch: 92 learning rate:1.1920928955078125e-10ELBO: -507.936
+DEBUG:root:Epoch: 92 learning rate:1.1920928955078125e-10ELBO: -1412.3921
+DEBUG:root:Epoch: 92 learning rate:1.1920928955078125e-10ELBO: -453.3018
+DEBUG:root:Epoch: 92 learning rate:1.1920928955078125e-10ELBO: -334.24533
+DEBUG:root:Epoch: 92 learning rate:1.1920928955078125e-10ELBO: -182.37994
+DEBUG:root:Epoch: 92 learning rate:1.1920928955078125e-10ELBO: -73.893166
+DEBUG:root:Epoch: 92 learning rate:1.1920928955078125e-10ELBO: -249.01378
+DEBUG:root:Epoch: 92 learning rate:1.1920928955078125e-10ELBO: -4129.209
+DEBUG:root:Epoch: 92 learning rate:1.1920928955078125e-10ELBO: -639.99054
+DEBUG:root:Epoch: 92 learning rate:1.1920928955078125e-10ELBO: -640.79095
+DEBUG:root:Epoch: 92 learning rate:1.1920928955078125e-10ELBO: -646.5143
+DEBUG:root:Epoch: 92 learning rate:1.1920928955078125e-10ELBO: -872.55286
+DEBUG:root:Epoch: 92 learning rate:1.1920928955078125e-10ELBO: -108.60926
+DEBUG:root:Epoch: 92 learning rate:1.1920928955078125e-10ELBO: -599.43933
+DEBUG:root:Epoch: 92 learning rate:1.1920928955078125e-10ELBO: -606.81604
+DEBUG:root:Epoch: 92 learning rate:1.1920928955078125e-10ELBO: -167.90643
+DEBUG:root:Epoch: 92 learning rate:1.1920928955078125e-10ELBO: -851.99316
+DEBUG:root:Epoch: 92completed
+DEBUG:root:************************ epoch:93*****************
+DEBUG:root:Epoch: 93 learning rate:1.1920928955078125e-10ELBO: -794.96136
+DEBUG:root:Epoch: 93 learning rate:1.1920928955078125e-10ELBO: -252.89749
+DEBUG:root:Epoch: 93 learning rate:1.1920928955078125e-10ELBO: -1319.9441
+DEBUG:root:Epoch: 93 learning rate:1.1920928955078125e-10ELBO: -438.8291
+DEBUG:root:Epoch: 93 learning rate:1.1920928955078125e-10ELBO: -52.43902
+DEBUG:root:Epoch: 93 learning rate:1.1920928955078125e-10ELBO: -1597.1277
+DEBUG:root:Epoch: 93 learning rate:1.1920928955078125e-10ELBO: -393.15698
+DEBUG:root:Epoch: 93 learning rate:1.1920928955078125e-10ELBO: -378.3877
+DEBUG:root:Epoch: 93 learning rate:1.1920928955078125e-10ELBO: -777.6413
+DEBUG:root:Epoch: 93 learning rate:1.1920928955078125e-10ELBO: -1328.253
+DEBUG:root:Epoch: 93 learning rate:1.1920928955078125e-10ELBO: -629.4265
+DEBUG:root:Epoch: 93 learning rate:1.1920928955078125e-10ELBO: -334.3969
+DEBUG:root:Epoch: 93 learning rate:1.1920928955078125e-10ELBO: -1509.6125
+DEBUG:root:Epoch: 93 learning rate:1.1920928955078125e-10ELBO: -318.1459
+DEBUG:root:Epoch: 93 learning rate:1.1920928955078125e-10ELBO: -298.03772
+DEBUG:root:Epoch: 93 learning rate:1.1920928955078125e-10ELBO: -1351.6852
+DEBUG:root:Epoch: 93 learning rate:1.1920928955078125e-10ELBO: -176.61615
+DEBUG:root:Epoch: 93 learning rate:1.1920928955078125e-10ELBO: -538.7825
+DEBUG:root:Epoch: 93 learning rate:1.1920928955078125e-10ELBO: -220.96536
+DEBUG:root:Epoch: 93 learning rate:1.1920928955078125e-10ELBO: -414.26938
+DEBUG:root:Epoch: 93 learning rate:1.1920928955078125e-10ELBO: -317.2098
+DEBUG:root:Epoch: 93completed
+DEBUG:root:************************ epoch:94*****************
+DEBUG:root:Epoch: 94 learning rate:1.1920928955078125e-10ELBO: -376.36047
+DEBUG:root:Epoch: 94 learning rate:1.1920928955078125e-10ELBO: -3976.4736
+DEBUG:root:Epoch: 94 learning rate:1.1920928955078125e-10ELBO: -592.3988
+DEBUG:root:Epoch: 94 learning rate:1.1920928955078125e-10ELBO: -347.59283
+DEBUG:root:Epoch: 94 learning rate:1.1920928955078125e-10ELBO: -4213.912
+DEBUG:root:Epoch: 94 learning rate:1.1920928955078125e-10ELBO: -119.58202
+DEBUG:root:Epoch: 94 learning rate:1.1920928955078125e-10ELBO: -228.45248
+DEBUG:root:Epoch: 94 learning rate:1.1920928955078125e-10ELBO: -790.14374
+DEBUG:root:Epoch: 94 learning rate:1.1920928955078125e-10ELBO: -575.6089
+DEBUG:root:Epoch: 94 learning rate:1.1920928955078125e-10ELBO: -419.79648
+DEBUG:root:Epoch: 94 learning rate:1.1920928955078125e-10ELBO: -716.1792
+DEBUG:root:Epoch: 94 learning rate:1.1920928955078125e-10ELBO: -375.40872
+DEBUG:root:Epoch: 94 learning rate:1.1920928955078125e-10ELBO: -3826.2234
+DEBUG:root:Epoch: 94 learning rate:1.1920928955078125e-10ELBO: -192.91693
+DEBUG:root:Epoch: 94 learning rate:1.1920928955078125e-10ELBO: -1033.933
+DEBUG:root:Epoch: 94 learning rate:1.1920928955078125e-10ELBO: -1167.6937
+DEBUG:root:Epoch: 94 learning rate:1.1920928955078125e-10ELBO: -4096.9336
+DEBUG:root:Epoch: 94 learning rate:1.1920928955078125e-10ELBO: -266.8337
+DEBUG:root:Epoch: 94 learning rate:1.1920928955078125e-10ELBO: -388.89142
+DEBUG:root:Epoch: 94 learning rate:1.1920928955078125e-10ELBO: -720.87415
+DEBUG:root:Epoch: 94 learning rate:1.1920928955078125e-10ELBO: -564.5819
+DEBUG:root:Epoch: 94 learning rate:1.1920928955078125e-10ELBO: -3808.0862
+DEBUG:root:Epoch: 94 learning rate:1.1920928955078125e-10ELBO: -1142.907
+DEBUG:root:Epoch: 94completed
+DEBUG:root:************************ epoch:95*****************
+DEBUG:root:Epoch: 95 learning rate:5.960464477539063e-11ELBO: -134.57674
+DEBUG:root:Epoch: 95 learning rate:5.960464477539063e-11ELBO: -660.29645
+DEBUG:root:Epoch: 95 learning rate:5.960464477539063e-11ELBO: -1542.9653
+DEBUG:root:Epoch: 95 learning rate:5.960464477539063e-11ELBO: -301.90656
+DEBUG:root:Epoch: 95 learning rate:5.960464477539063e-11ELBO: -268.91156
+DEBUG:root:Epoch: 95 learning rate:5.960464477539063e-11ELBO: -1367.5857
+DEBUG:root:Epoch: 95 learning rate:5.960464477539063e-11ELBO: -260.14496
+DEBUG:root:Epoch: 95 learning rate:5.960464477539063e-11ELBO: -350.65393
+DEBUG:root:Epoch: 95 learning rate:5.960464477539063e-11ELBO: -1254.8049
+DEBUG:root:Epoch: 95 learning rate:5.960464477539063e-11ELBO: -805.64264
+DEBUG:root:Epoch: 95 learning rate:5.960464477539063e-11ELBO: -468.67444
+DEBUG:root:Epoch: 95 learning rate:5.960464477539063e-11ELBO: -930.9221
+DEBUG:root:Epoch: 95 learning rate:5.960464477539063e-11ELBO: -567.4493
+DEBUG:root:Epoch: 95 learning rate:5.960464477539063e-11ELBO: -700.8384
+DEBUG:root:Epoch: 95 learning rate:5.960464477539063e-11ELBO: -5027.2256
+DEBUG:root:Epoch: 95 learning rate:5.960464477539063e-11ELBO: -687.9118
+DEBUG:root:Epoch: 95 learning rate:5.960464477539063e-11ELBO: -1369.4004
+DEBUG:root:Epoch: 95 learning rate:5.960464477539063e-11ELBO: -1136.1954
+DEBUG:root:Epoch: 95 learning rate:5.960464477539063e-11ELBO: -941.68884
+DEBUG:root:Epoch: 95 learning rate:5.960464477539063e-11ELBO: -346.5302
+DEBUG:root:Epoch: 95 learning rate:5.960464477539063e-11ELBO: -247.47412
+DEBUG:root:Epoch: 95 learning rate:5.960464477539063e-11ELBO: -2197.1694
+DEBUG:root:Epoch: 95 learning rate:5.960464477539063e-11ELBO: -1476.5746
+DEBUG:root:Epoch: 95 learning rate:5.960464477539063e-11ELBO: -247.02827
+DEBUG:root:Epoch: 95completed
+DEBUG:root:************************ epoch:96*****************
+DEBUG:root:Epoch: 96 learning rate:5.960464477539063e-11ELBO: -367.8608
+DEBUG:root:Epoch: 96 learning rate:5.960464477539063e-11ELBO: -192.75873
+DEBUG:root:Epoch: 96 learning rate:5.960464477539063e-11ELBO: -188.47415
+DEBUG:root:Epoch: 96 learning rate:5.960464477539063e-11ELBO: -3925.4028
+DEBUG:root:Epoch: 96 learning rate:5.960464477539063e-11ELBO: -1362.2552
+DEBUG:root:Epoch: 96 learning rate:5.960464477539063e-11ELBO: -41.32472
+DEBUG:root:Epoch: 96 learning rate:5.960464477539063e-11ELBO: -76.01303
+DEBUG:root:Epoch: 96 learning rate:5.960464477539063e-11ELBO: -656.80414
+DEBUG:root:Epoch: 96 learning rate:5.960464477539063e-11ELBO: -4220.7954
+DEBUG:root:Epoch: 96 learning rate:5.960464477539063e-11ELBO: -607.9172
+DEBUG:root:Epoch: 96 learning rate:5.960464477539063e-11ELBO: -788.80756
+DEBUG:root:Epoch: 96 learning rate:5.960464477539063e-11ELBO: -827.63684
+DEBUG:root:Epoch: 96 learning rate:5.960464477539063e-11ELBO: -5033.1167
+DEBUG:root:Epoch: 96 learning rate:5.960464477539063e-11ELBO: -601.38635
+DEBUG:root:Epoch: 96 learning rate:5.960464477539063e-11ELBO: -320.36893
+DEBUG:root:Epoch: 96 learning rate:5.960464477539063e-11ELBO: -767.34717
+DEBUG:root:Epoch: 96 learning rate:5.960464477539063e-11ELBO: -2154.9438
+DEBUG:root:Epoch: 96 learning rate:5.960464477539063e-11ELBO: -897.9732
+DEBUG:root:Epoch: 96 learning rate:5.960464477539063e-11ELBO: -936.968
+DEBUG:root:Epoch: 96 learning rate:5.960464477539063e-11ELBO: -564.57074
+DEBUG:root:Epoch: 96 learning rate:5.960464477539063e-11ELBO: -5309.52
+DEBUG:root:Epoch: 96 learning rate:5.960464477539063e-11ELBO: -1186.3573
+DEBUG:root:Epoch: 96 learning rate:5.960464477539063e-11ELBO: -596.067
+DEBUG:root:Epoch: 96completed
+DEBUG:root:************************ epoch:97*****************
+DEBUG:root:Epoch: 97 learning rate:5.960464477539063e-11ELBO: -507.72824
+DEBUG:root:Epoch: 97 learning rate:5.960464477539063e-11ELBO: -192.30513
+DEBUG:root:Epoch: 97 learning rate:5.960464477539063e-11ELBO: -284.70023
+DEBUG:root:Epoch: 97 learning rate:5.960464477539063e-11ELBO: -73.00449
+DEBUG:root:Epoch: 97 learning rate:5.960464477539063e-11ELBO: -89.18636
+DEBUG:root:Epoch: 97 learning rate:5.960464477539063e-11ELBO: -741.5524
+DEBUG:root:Epoch: 97 learning rate:5.960464477539063e-11ELBO: -1009.70044
+DEBUG:root:Epoch: 97 learning rate:5.960464477539063e-11ELBO: -577.10693
+DEBUG:root:Epoch: 97 learning rate:5.960464477539063e-11ELBO: -269.32947
+DEBUG:root:Epoch: 97 learning rate:5.960464477539063e-11ELBO: -257.62875
+DEBUG:root:Epoch: 97 learning rate:5.960464477539063e-11ELBO: -3823.9224
+DEBUG:root:Epoch: 97 learning rate:5.960464477539063e-11ELBO: -390.02548
+DEBUG:root:Epoch: 97 learning rate:5.960464477539063e-11ELBO: -742.3077
+DEBUG:root:Epoch: 97 learning rate:5.960464477539063e-11ELBO: -397.06018
+DEBUG:root:Epoch: 97completed
+DEBUG:root:************************ epoch:98*****************
+DEBUG:root:Epoch: 98 learning rate:5.960464477539063e-11ELBO: -239.25742
+DEBUG:root:Epoch: 98 learning rate:5.960464477539063e-11ELBO: -134.26855
+DEBUG:root:Epoch: 98 learning rate:5.960464477539063e-11ELBO: -1747.8542
+DEBUG:root:Epoch: 98 learning rate:5.960464477539063e-11ELBO: -371.64838
+DEBUG:root:Epoch: 98 learning rate:5.960464477539063e-11ELBO: -696.23987
+DEBUG:root:Epoch: 98 learning rate:5.960464477539063e-11ELBO: -1022.91943
+DEBUG:root:Epoch: 98 learning rate:5.960464477539063e-11ELBO: -248.31279
+DEBUG:root:Epoch: 98 learning rate:5.960464477539063e-11ELBO: -361.16425
+DEBUG:root:Epoch: 98 learning rate:5.960464477539063e-11ELBO: -454.54718
+DEBUG:root:Epoch: 98 learning rate:5.960464477539063e-11ELBO: -592.48145
+DEBUG:root:Epoch: 98 learning rate:5.960464477539063e-11ELBO: -255.88206
+DEBUG:root:Epoch: 98 learning rate:5.960464477539063e-11ELBO: -450.22415
+DEBUG:root:Epoch: 98 learning rate:5.960464477539063e-11ELBO: -122.44743
+DEBUG:root:Epoch: 98 learning rate:5.960464477539063e-11ELBO: -154.16432
+DEBUG:root:Epoch: 98 learning rate:5.960464477539063e-11ELBO: -481.2903
+DEBUG:root:Epoch: 98 learning rate:5.960464477539063e-11ELBO: -512.2644
+DEBUG:root:Epoch: 98 learning rate:5.960464477539063e-11ELBO: -389.6161
+DEBUG:root:Epoch: 98 learning rate:5.960464477539063e-11ELBO: -1307.3267
+DEBUG:root:Epoch: 98completed
+DEBUG:root:************************ epoch:99*****************
+DEBUG:root:Epoch: 99 learning rate:2.980232238769531e-11ELBO: -717.89105
+DEBUG:root:Epoch: 99 learning rate:2.980232238769531e-11ELBO: -182.3052
+DEBUG:root:Epoch: 99 learning rate:2.980232238769531e-11ELBO: -640.0652
+DEBUG:root:Epoch: 99 learning rate:2.980232238769531e-11ELBO: -451.33484
+DEBUG:root:Epoch: 99 learning rate:2.980232238769531e-11ELBO: -886.4754
+DEBUG:root:Epoch: 99 learning rate:2.980232238769531e-11ELBO: -316.09586
+DEBUG:root:Epoch: 99 learning rate:2.980232238769531e-11ELBO: -65.24921
+DEBUG:root:Epoch: 99 learning rate:2.980232238769531e-11ELBO: -64.01566
+DEBUG:root:Epoch: 99 learning rate:2.980232238769531e-11ELBO: -603.903
+DEBUG:root:Epoch: 99 learning rate:2.980232238769531e-11ELBO: -1482.0319
+DEBUG:root:Epoch: 99 learning rate:2.980232238769531e-11ELBO: -229.13762
+DEBUG:root:Epoch: 99 learning rate:2.980232238769531e-11ELBO: -57.862705
+DEBUG:root:Epoch: 99 learning rate:2.980232238769531e-11ELBO: -1960.7377
+DEBUG:root:Epoch: 99 learning rate:2.980232238769531e-11ELBO: -1114.3052
+DEBUG:root:Epoch: 99 learning rate:2.980232238769531e-11ELBO: -861.6298
+DEBUG:root:Epoch: 99 learning rate:2.980232238769531e-11ELBO: -1579.1003
+DEBUG:root:Epoch: 99 learning rate:2.980232238769531e-11ELBO: -201.25204
+DEBUG:root:Epoch: 99 learning rate:2.980232238769531e-11ELBO: -4657.708
+DEBUG:root:Epoch: 99completed
+DEBUG:root:************************ epoch:100*****************
+DEBUG:root:Epoch: 100 learning rate:2.980232238769531e-11ELBO: -742.5771
+DEBUG:root:Epoch: 100 learning rate:2.980232238769531e-11ELBO: -726.775
+DEBUG:root:Epoch: 100 learning rate:2.980232238769531e-11ELBO: -1174.3636
+DEBUG:root:Epoch: 100 learning rate:2.980232238769531e-11ELBO: -151.57372
+DEBUG:root:Epoch: 100 learning rate:2.980232238769531e-11ELBO: -658.4968
+DEBUG:root:Epoch: 100 learning rate:2.980232238769531e-11ELBO: -176.10593
+DEBUG:root:Epoch: 100 learning rate:2.980232238769531e-11ELBO: -1510.8799
+DEBUG:root:Epoch: 100 learning rate:2.980232238769531e-11ELBO: -315.87552
+DEBUG:root:Epoch: 100 learning rate:2.980232238769531e-11ELBO: -708.8458
+DEBUG:root:Epoch: 100 learning rate:2.980232238769531e-11ELBO: -1432.5603
+DEBUG:root:Epoch: 100 learning rate:2.980232238769531e-11ELBO: -124.47769
+DEBUG:root:Epoch: 100 learning rate:2.980232238769531e-11ELBO: -3631.112
+DEBUG:root:Epoch: 100 learning rate:2.980232238769531e-11ELBO: -1126.8085
+DEBUG:root:Epoch: 100 learning rate:2.980232238769531e-11ELBO: -1037.1443
+DEBUG:root:Epoch: 100 learning rate:2.980232238769531e-11ELBO: -4108.664
+DEBUG:root:Epoch: 100 learning rate:2.980232238769531e-11ELBO: -311.51093
+DEBUG:root:Epoch: 100 learning rate:2.980232238769531e-11ELBO: -240.35239
+DEBUG:root:Epoch: 100 learning rate:2.980232238769531e-11ELBO: -980.74713
+DEBUG:root:Epoch: 100completed
+DEBUG:root:Epoch: 100 learning rate:2.980232238769531e-11ELBO: -500.81854
+DEBUG:root:Completed saving the model
+DEBUG:root:************************ epoch:101*****************
+DEBUG:root:Epoch: 101 learning rate:2.980232238769531e-11ELBO: -146.20488
+DEBUG:root:Epoch: 101 learning rate:2.980232238769531e-11ELBO: -245.61972
+DEBUG:root:Epoch: 101 learning rate:2.980232238769531e-11ELBO: -209.80907
+DEBUG:root:Epoch: 101 learning rate:2.980232238769531e-11ELBO: -1066.5936
+DEBUG:root:Epoch: 101 learning rate:2.980232238769531e-11ELBO: -226.97183
+DEBUG:root:Epoch: 101 learning rate:2.980232238769531e-11ELBO: -248.31763
+DEBUG:root:Epoch: 101 learning rate:2.980232238769531e-11ELBO: -968.3473
+DEBUG:root:Epoch: 101 learning rate:2.980232238769531e-11ELBO: -55.345963
+DEBUG:root:Epoch: 101 learning rate:2.980232238769531e-11ELBO: -121.255646
+DEBUG:root:Epoch: 101 learning rate:2.980232238769531e-11ELBO: -469.22797
+DEBUG:root:Epoch: 101 learning rate:2.980232238769531e-11ELBO: -56.12971
+DEBUG:root:Epoch: 101 learning rate:2.980232238769531e-11ELBO: -3859.9585
+DEBUG:root:Epoch: 101 learning rate:2.980232238769531e-11ELBO: -341.74036
+DEBUG:root:Epoch: 101 learning rate:2.980232238769531e-11ELBO: -777.37787
+DEBUG:root:Epoch: 101 learning rate:2.980232238769531e-11ELBO: -234.58553
+DEBUG:root:Epoch: 101completed
+DEBUG:root:************************ epoch:102*****************
+DEBUG:root:Epoch: 102 learning rate:2.980232238769531e-11ELBO: -443.23892
+DEBUG:root:Epoch: 102 learning rate:2.980232238769531e-11ELBO: -1462.5298
+DEBUG:root:Epoch: 102 learning rate:2.980232238769531e-11ELBO: -646.87524
+DEBUG:root:Epoch: 102 learning rate:2.980232238769531e-11ELBO: -234.85616
+DEBUG:root:Epoch: 102 learning rate:2.980232238769531e-11ELBO: -1104.1134
+DEBUG:root:Epoch: 102 learning rate:2.980232238769531e-11ELBO: -769.62054
+DEBUG:root:Epoch: 102 learning rate:2.980232238769531e-11ELBO: -204.0889
+DEBUG:root:Epoch: 102 learning rate:2.980232238769531e-11ELBO: -141.87065
+DEBUG:root:Epoch: 102 learning rate:2.980232238769531e-11ELBO: -1246.2488
+DEBUG:root:Epoch: 102 learning rate:2.980232238769531e-11ELBO: -388.30255
+DEBUG:root:Epoch: 102 learning rate:2.980232238769531e-11ELBO: -843.1042
+DEBUG:root:Epoch: 102 learning rate:2.980232238769531e-11ELBO: -3951.0696
+DEBUG:root:Epoch: 102 learning rate:2.980232238769531e-11ELBO: -153.9708
+DEBUG:root:Epoch: 102 learning rate:2.980232238769531e-11ELBO: -756.41656
+DEBUG:root:Epoch: 102 learning rate:2.980232238769531e-11ELBO: -3846.674
+DEBUG:root:Epoch: 102 learning rate:2.980232238769531e-11ELBO: -1183.7047
+DEBUG:root:Epoch: 102 learning rate:2.980232238769531e-11ELBO: -1415.4233
+DEBUG:root:Epoch: 102completed
+DEBUG:root:************************ epoch:103*****************
+DEBUG:root:Epoch: 103 learning rate:1.4901161193847657e-11ELBO: -70.45592
+DEBUG:root:Epoch: 103 learning rate:1.4901161193847657e-11ELBO: -160.11417
+DEBUG:root:Epoch: 103 learning rate:1.4901161193847657e-11ELBO: -345.3678
+DEBUG:root:Epoch: 103 learning rate:1.4901161193847657e-11ELBO: -516.64557
+DEBUG:root:Epoch: 103 learning rate:1.4901161193847657e-11ELBO: -4097.397
+DEBUG:root:Epoch: 103 learning rate:1.4901161193847657e-11ELBO: -283.1423
+DEBUG:root:Epoch: 103 learning rate:1.4901161193847657e-11ELBO: -246.44305
+DEBUG:root:Epoch: 103 learning rate:1.4901161193847657e-11ELBO: -842.0353
+DEBUG:root:Epoch: 103 learning rate:1.4901161193847657e-11ELBO: -139.78493
+DEBUG:root:Epoch: 103 learning rate:1.4901161193847657e-11ELBO: -256.61636
+DEBUG:root:Epoch: 103 learning rate:1.4901161193847657e-11ELBO: -645.3815
+DEBUG:root:Epoch: 103 learning rate:1.4901161193847657e-11ELBO: -886.5074
+DEBUG:root:Epoch: 103 learning rate:1.4901161193847657e-11ELBO: -195.54337
+DEBUG:root:Epoch: 103 learning rate:1.4901161193847657e-11ELBO: -286.68588
+DEBUG:root:Epoch: 103 learning rate:1.4901161193847657e-11ELBO: -681.2413
+DEBUG:root:Epoch: 103 learning rate:1.4901161193847657e-11ELBO: -4119.534
+DEBUG:root:Epoch: 103 learning rate:1.4901161193847657e-11ELBO: -586.1188
+DEBUG:root:Epoch: 103 learning rate:1.4901161193847657e-11ELBO: -1085.3715
+DEBUG:root:Epoch: 103 learning rate:1.4901161193847657e-11ELBO: -1071.2244
+DEBUG:root:Epoch: 103 learning rate:1.4901161193847657e-11ELBO: -493.42975
+DEBUG:root:Epoch: 103completed
+DEBUG:root:************************ epoch:104*****************
+DEBUG:root:Epoch: 104 learning rate:1.4901161193847657e-11ELBO: -251.30666
+DEBUG:root:Epoch: 104 learning rate:1.4901161193847657e-11ELBO: -1360.309
+DEBUG:root:Epoch: 104 learning rate:1.4901161193847657e-11ELBO: -1746.0261
+DEBUG:root:Epoch: 104 learning rate:1.4901161193847657e-11ELBO: -898.00073
+DEBUG:root:Epoch: 104 learning rate:1.4901161193847657e-11ELBO: -775.671
